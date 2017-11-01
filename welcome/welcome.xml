@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  -->
+<welcomeContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="http://hp.com/SOAQ/ServiceVirtualization/welcome welcome.xsd"
+     version="5">
+    
+    <welcomeGroup header="Recommended"
+        itemImageWidth="210" itemImageHeight="118"
+        itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
+        <referenceItem title="What's new in SV 4.10"
+            kind="video"
+            image="https://img.youtube.com/vi/yjy2nnw3cPo/mqdefault.jpg"
+            url="https://youtu.be/yjy2nnw3cPo">
+        </referenceItem>
+        <referenceItem title="Service Virtualization and Mobility: Delivering Quality IoT Apps &amp; Connected Experiences"
+            kind="video"
+            image="https://img.youtube.com/vi/Fk4fdQuWD2U/mqdefault.jpg"
+            url="https://youtu.be/Fk4fdQuWD2U">
+        </referenceItem>
+    </welcomeGroup>
+    
+    <welcomeGroup header="First Steps with Service Virtualization"
+        itemImageWidth="210" itemImageHeight="118"
+        itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
+
+        <referenceItem title="Introduction to MF SV"
+            kind="video"
+            image="https://img.youtube.com/vi/Nh_e55yY_QE/mqdefault.jpg"
+            url="https://youtu.be/Nh_e55yY_QE">
+        </referenceItem>
+
+        <referenceItem title="Create and Run your first API simulation"
+            kind="video"
+            image="https://img.youtube.com/vi/gIILH1hyO0g/mqdefault.jpg"
+            url="https://youtu.be/gIILH1hyO0g">
+        </referenceItem>
+
+        <referenceItem title="How simulation works"
+            kind="video"
+            image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
+            url="https://youtu.be/7rGKBctRNsM">
+        </referenceItem>
+
+        <referenceItem title="How to use sample messages to quickly simulate your API"
+            kind="video"
+            image="https://img.youtube.com/vi/k-2eQJz86MA/mqdefault.jpg"
+            url="https://youtu.be/k-2eQJz86MA">
+        </referenceItem>
+
+        <referenceItem title="Inside the data model and how to design it"
+            kind="video"
+            image="https://img.youtube.com/vi/CUggEbht5KI/mqdefault.jpg"
+            url="https://youtu.be/CUggEbht5KI">
+        </referenceItem>
+
+        <referenceItem title="Virtual services in load testing with the HP LoadRunner and HP Service Virtualization integration"
+            kind="text" 
+            image="http://mpaastr0001.hpeswlab.net/virtualbuild/resources/Welcome/sv-lr.png"
+            url="https://community.saas.hpe.com/t5/LoadRunner-and-Performance/Virtual-services-in-load-testing-with-the-HP-LoadRunner-and-HP/ba-p/308391#.WdOinFuCyM8" />
+
+        <referenceItem kind="text" title="Simulation Troubleshooting Tips"
+            url="https://svhelp.saas.hpe.com/en/4.00/Help/Content/UG/menu_troubleshooting.htm" />
+    </welcomeGroup>
+
+</welcomeContent>
