@@ -7,6 +7,12 @@
     <welcomeGroup header="Recommended"
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
+
+        <referenceItem title="SV as a Router"
+            kind="text" 
+            image="https://svsite.github.io/welcome/svrouter.png"
+            url="https://tbd.com" />
+
         <referenceItem title="What's new in SV 4.10"
             kind="video"
             image="https://img.youtube.com/vi/yjy2nnw3cPo/mqdefault.jpg"
