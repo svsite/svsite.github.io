@@ -37,12 +37,14 @@
             url="https://youtu.be/gIILH1hyO0g">
         </referenceItem>
 
+<!--
         <referenceItem title="Create simulation by learning existing API"
             kind="video"
             image="https://img.youtube.com/vi/k-2eQJz86MA/mqdefault.jpg"
             url="https://youtu.be/k-2eQJz86MA">
         </referenceItem>
-
+-->
+         
         <referenceItem title="How simulation works ? Rules and fucntions"
             kind="video"
             image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
@@ -63,7 +65,7 @@
 
      </welcomeGroup>
 
-     <welcomeGroup header="Community Channel Highlights"
+     <welcomeGroup header="Community Channel"
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
