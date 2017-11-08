@@ -8,16 +8,12 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="SV as a Router"
-            kind="text" 
-            image="https://svsite.github.io/welcome/svrouter.png"
-            url="https://tbd.com" />
-
         <referenceItem title="What's new in SV 4.10"
-            kind="video"
+            kind="text"
             image="https://img.youtube.com/vi/yjy2nnw3cPo/mqdefault.jpg"
-            url="https://youtu.be/yjy2nnw3cPo">
+            url="http://hpe-svstaging.s3.amazonaws.com/en/4.10/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
+
         <referenceItem title="Service Virtualization and Mobility: Delivering Quality IoT Apps &amp; Connected Experiences"
             kind="video"
             image="https://img.youtube.com/vi/Fk4fdQuWD2U/mqdefault.jpg"
@@ -29,43 +25,58 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="Introduction to MF SV"
+        <referenceItem title="Introduction to Service Virtulization"
             kind="video"
             image="https://img.youtube.com/vi/Nh_e55yY_QE/mqdefault.jpg"
             url="https://youtu.be/Nh_e55yY_QE">
         </referenceItem>
 
-        <referenceItem title="Create and Run your first API simulation"
+        <referenceItem title="Create and run your first API simulation"
             kind="video"
             image="https://img.youtube.com/vi/gIILH1hyO0g/mqdefault.jpg"
             url="https://youtu.be/gIILH1hyO0g">
         </referenceItem>
 
-        <referenceItem title="How simulation works"
-            kind="video"
-            image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
-            url="https://youtu.be/7rGKBctRNsM">
-        </referenceItem>
-
-        <referenceItem title="How to use sample messages to quickly simulate your API"
+        <referenceItem title="Create simulation by learning existing API"
             kind="video"
             image="https://img.youtube.com/vi/k-2eQJz86MA/mqdefault.jpg"
             url="https://youtu.be/k-2eQJz86MA">
         </referenceItem>
 
-        <referenceItem title="Inside the data model and how to design it"
+        <referenceItem title="How simulation works ? Rules and fucntions"
+            kind="video"
+            image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
+            url="https://youtu.be/7rGKBctRNsM">
+        </referenceItem>
+
+        <referenceItem title="Rapid design of your business logic using Data Rules and Functions."
             kind="video"
             image="https://img.youtube.com/vi/CUggEbht5KI/mqdefault.jpg"
             url="https://youtu.be/CUggEbht5KI">
         </referenceItem>
 
-        <referenceItem title="3 Virtual services in load testing with the HP LoadRunner and HP Service Virtualization integration"
+        <referenceItem title="Powerful simulation of advanced business logic requirements."
+            kind="video"
+            image="https://img.youtube.com/vi/CUggEbht5KI/mqdefault.jpg"
+            url="https://youtu.be/CUggEbht5KI">
+        </referenceItem>
+
+     </welcomeGroup>
+
+     <welcomeGroup header="Community Channel Highlights"
+        itemImageWidth="210" itemImageHeight="118"
+        itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
+
+         <referenceItem title="SV as a Router by Dave Flynn"
+            kind="text" 
+            image="https://svsite.github.io/welcome/svrouter.png"
+            url="https://tbd.com" />
+
+        <referenceItem title="Virtual services in load testing with the LoadRunner and Service Virtualization integration by Malcolm Isaacs"
             kind="text" 
             image="http://mpaastr0001.hpeswlab.net/virtualbuild/resources/Welcome/sv-lr.png"
             url="https://community.saas.hpe.com/t5/LoadRunner-and-Performance/Virtual-services-in-load-testing-with-the-HP-LoadRunner-and-HP/ba-p/308391#.WdOinFuCyM8" />
 
-        <referenceItem kind="text" title="Simulation Troubleshooting Tips"
-            url="https://svhelp.saas.hpe.com/en/4.00/Help/Content/UG/menu_troubleshooting.htm" />
     </welcomeGroup>
 
 </welcomeContent>
