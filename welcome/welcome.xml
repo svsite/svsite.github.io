@@ -50,13 +50,14 @@
             image="https://img.youtube.com/vi/k-2eQJz86MA/mqdefault.jpg"
             url="https://youtu.be/k-2eQJz86MA">
         </referenceItem>
-         
+        
+<!--        
         <referenceItem title="How simulation works ? Rules and fucntions"
             kind="video"
             image="https://img.youtube.com/vi/h7OXTKU5eMA/mqdefault.jpg"
             url="https://youtu.be/h7OXTKU5eMA">
         </referenceItem>
-         
+-->
         <referenceItem title="Rapid design of your business logic using Data Rules and Functions"
             kind="video"
             image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
