@@ -2,7 +2,7 @@
 <!--  -->
 <welcomeContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
      xsi:schemaLocation="http://hp.com/SOAQ/ServiceVirtualization/welcome welcome.xsd"
-     version="12">
+     version="14">
     
     <welcomeGroup header="Recommended"
         itemImageWidth="210" itemImageHeight="118"
