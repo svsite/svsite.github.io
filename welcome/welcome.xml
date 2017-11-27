@@ -45,26 +45,26 @@
         </referenceItem>
 -->
 
-        <referenceItem title="Create simulation by learning existing API"
+        <referenceItem title="Create a Virtual Service by Learning a Real Service"
             kind="video"
-            image="https://img.youtube.com/vi/k-2eQJz86MA/mqdefault.jpg"
-            url="https://youtu.be/k-2eQJz86MA">
+            image="https://img.youtube.com/vi/Ezk9HcBxVJ4/mqdefault.jpg"
+            url="https://youtu.be/Ezk9HcBxVJ4">
         </referenceItem>
         
-<!--        
-        <referenceItem title="How simulation works ? Rules and fucntions"
+        
+        <referenceItem title="Simulation Principles. Getting Virtual Service Up and Running"
             kind="video"
-            image="https://img.youtube.com/vi/h7OXTKU5eMA/mqdefault.jpg"
-            url="https://youtu.be/h7OXTKU5eMA">
+            image="https://img.youtube.com/OtZmcJPFH1I/mqdefault.jpg"
+            url="https://youtu.be/OtZmcJPFH1I">
         </referenceItem>
--->
-        <referenceItem title="Rapid design of your business logic using Data Rules and Functions"
+
+        <referenceItem title="Simulation Principles. Simple Business Logic Rules"
             kind="video"
-            image="https://img.youtube.com/vi/7rGKBctRNsM/mqdefault.jpg"
-            url="https://youtu.be/7rGKBctRNsM">
+            image="https://img.youtube.com/vi/CAN40g3TIKs/mqdefault.jpg"
+            url="https://youtu.be/CAN40g3TIKs">
         </referenceItem>
          
-        <referenceItem title="Powerful simulation of advanced business logic"
+        <referenceItem title="Simulation Principles. Advanced Request Matching and Value Generation"
             kind="video"
             image="https://img.youtube.com/vi/CUggEbht5KI/mqdefault.jpg"
             url="https://youtu.be/CUggEbht5KI">
