@@ -2,7 +2,7 @@
 <!--  -->
 <welcomeContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
      xsi:schemaLocation="http://hp.com/SOAQ/ServiceVirtualization/welcome welcome.xsd"
-     version="6">
+     version="7">
     
     <welcomeGroup header="Recommended"
         itemImageWidth="210" itemImageHeight="118"
@@ -66,8 +66,8 @@
          
         <referenceItem title="Simulation Principles - Advanced Request Matching and Value Generation"
             kind="video"
-            image="https://img.youtube.com/vi/CUggEbht5KI/mqdefault.jpg"
-            url="https://youtu.be/CUggEbht5KI">
+            image="https://img.youtube.com/vi/rgegKAUoxlM/mqdefault.jpg"
+            url="https://youtu.be/rgegKAUoxlM">
         </referenceItem>
      </welcomeGroup>
 
