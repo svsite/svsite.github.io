@@ -2,7 +2,7 @@
 <!--  -->
 <welcomeContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
      xsi:schemaLocation="http://hp.com/SOAQ/ServiceVirtualization/welcome welcome.xsd"
-     version="9">
+     version="10">
     
     <welcomeGroup header="Recommended"
         itemImageWidth="210" itemImageHeight="118"
@@ -22,8 +22,8 @@
          
         <referenceItem title="Continuous Integration with Continuous Testing"
             kind="video"
-            image="https://img.youtube.com/vi/sFR1pmtPGTg/mqdefault.jpg"
-            url="https://www.youtube.com/watch?v=sFR1pmtPGTg">
+            image="https://img.youtube.com/vi/ADweFq_mYRc/mqdefault.jpg"
+            url="https://youtu.be/ADweFq_mYRcg">
         </referenceItem>
     </welcomeGroup>
     
