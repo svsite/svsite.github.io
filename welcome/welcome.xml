@@ -8,9 +8,9 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="What's new in SV 4.10"
+        <referenceItem title="What's New in SV 4.10"
             kind="text"
-            image="https://img.youtube.com/vi/yjy2nnw3cPo/mqdefault.jpg"
+            image="https://svsite.github.io/welcome/tn-sv410.png"
             url="http://hpe-svstaging.s3.amazonaws.com/en/4.10/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
 
