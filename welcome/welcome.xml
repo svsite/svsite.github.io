@@ -26,7 +26,13 @@
             url="https://youtu.be/ADweFq_mYRcg">
         </referenceItem>
 
-         <referenceItem title="Service Virtualization - Implementation, Practices, and Trends for On-Demand Test Environments"
+        <referenceItem title="Service Virtulization Data Sheet"
+            kind="text"
+            image="https://svsite.github.io/welcome/intro_thumbnail.png"
+            url="http://files.asset.microfocus.com/4aa6-1200/en/4aa6-1200.pdf">
+        </referenceItem>
+
+        <referenceItem title="Service Virtualization - Implementation, Practices, and Trends for On-Demand Test Environments"
             kind="text"
             image="https://software.microfocus.com/sites/default/files/styles/assets_hero/public/assets/Timage4AA6-8645ENW_Ctcm2452364124_Ttcm245167807932_F.png"
             url="https://software.microfocus.com/en-us/asset/service-virtualization/service-virtualization-implentation-practices-and-trends-demand-test">
@@ -36,12 +42,6 @@
     <welcomeGroup header="First Steps with Service Virtualization"
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
-
-        <referenceItem title="Introduction to Service Virtulization"
-            kind="text"
-            image="https://svsite.github.io/welcome/intro_thumbnail.png"
-            url="http://files.asset.microfocus.com/4aa6-1200/en/4aa6-1200.pdf">
-        </referenceItem>
 
 <!--
         <referenceItem title="Create and run your first API simulation"
