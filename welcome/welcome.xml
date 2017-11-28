@@ -2,7 +2,7 @@
 <!--  -->
 <welcomeContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
      xsi:schemaLocation="http://hp.com/SOAQ/ServiceVirtualization/welcome welcome.xsd"
-     version="14">
+     version="15">
     
     <welcomeGroup header="Recommended"
         itemImageWidth="210" itemImageHeight="118"
@@ -20,10 +20,10 @@
             url="https://youtu.be/Fk4fdQuWD2U">
         </referenceItem>
          
-        <referenceItem title="Continuous Integration with Continuous Testing"
+        <referenceItem title="Service Virtualization for Continuous testing"
             kind="video"
             image="https://img.youtube.com/vi/ADweFq_mYRc/mqdefault.jpg"
-            url="https://youtu.be/ADweFq_mYRcg">
+            url="https://youtu.be/ADweFq_mYRc">
         </referenceItem>
 
         <referenceItem title="Service Virtulization Data Sheet"
