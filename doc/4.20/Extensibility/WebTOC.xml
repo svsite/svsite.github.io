@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="c1e2a3b8-7463-4701-b329-eae47f168eb6" Title="HP.SV.Designer.Controls.CredentialStore.Extensibility" Url="html/9bced59e-769e-78f0-080d-4611a76eb498.htm">
+    <HelpTOCNode Id="f22f2a82-2065-4ea0-8c6c-a37cabad20e6" Title="IdentitiesTableExt Class" Url="html/f4b52e13-a4ef-55ab-a205-31a8c992cf95.htm">
+      <HelpTOCNode Title="IdentitiesTableExt Constructor " Url="html/84853318-b86c-914f-8bb4-1ff1f593368e.htm" />
+      <HelpTOCNode Id="48f970d3-484f-479d-8278-28114b220c4f" Title="IdentitiesTableExt Properties" Url="html/28ca48d4-b256-5b11-d0c5-cdc088dbadea.htm">
+        <HelpTOCNode Title="ViewModel Property " Url="html/b893feeb-2b57-9c44-dbf3-068bbb46be37.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8239770f-8339-40af-99dd-6feb4c30931a" Title="IdentityEditControlExt Class" Url="html/f713cde8-2644-822d-9dd9-86fa31136bb2.htm">
+      <HelpTOCNode Title="IdentityEditControlExt Constructor " Url="html/b6dd7e65-6523-292a-8674-6d9c02cfd395.htm" />
+      <HelpTOCNode Id="e1ce29d2-5cf6-4eb8-979e-84d805ca8ac3" Title="IdentityEditControlExt Properties" Url="html/79af8995-e525-47c5-73a9-88cfe8044957.htm">
+        <HelpTOCNode Title="IdentityRow Property " Url="html/9cbd82fe-957a-fc55-0d9d-4c84955e1299.htm" />
+        <HelpTOCNode Title="ShowCerficateFileError Property " Url="html/a696416f-4e9b-fb40-1996-8a8ee148bac6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="9cfe6860-7fda-484c-baae-823880d06580" Title="HP.SV.Designer.Controls.QuickStart" Url="html/f8989850-e5eb-b548-7a8e-6dc50bf3f755.htm">
+    <HelpTOCNode Id="2619a03f-6f4b-4c79-b797-3155f07a40df" Title="ExpressQuickStartControl Class" Url="html/2611c9ea-e6bc-13f1-a292-8817af2bbd7f.htm">
+      <HelpTOCNode Title="ExpressQuickStartControl Constructor " Url="html/5229d5c3-1b1c-2354-d0d8-d2bdc7afc237.htm" />
+      <HelpTOCNode Id="c9dba1df-64b2-4d66-a80b-8845c814ebf5" Title="ExpressQuickStartControl Properties" Url="html/fac7e860-3903-08c3-93cc-a30bf2d9622b.htm">
+        <HelpTOCNode Title="ShowEditionsCommand Property " Url="html/8968776e-a41e-460c-e352-eff796afd85d.htm" />
+        <HelpTOCNode Title="ShowLicensingCommand Property " Url="html/62edcdcb-07fa-39f7-c1f8-fa7195ea51ff.htm" />
+        <HelpTOCNode Title="ShowVideosCommand Property " Url="html/aaa40901-29da-859d-532f-abfc35289a54.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b307e805-f041-47e7-9f02-955c60dc8ca5" Title="ExpressQuickStartControl Methods" Url="html/7ca8db43-1f18-42b8-bf89-4d13292ad869.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/a25228f8-89a0-e421-dfd5-9b605b20c3cb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b131ae7e-f12f-4e40-af61-9b2377a04a0e" Title="QuickStartDialog Class" Url="html/bc5142e8-0be6-2fc1-b418-ca6fe022d4d1.htm">
+      <HelpTOCNode Title="QuickStartDialog Constructor " Url="html/902a37a3-cd47-3ad7-2d9e-412f0a674bbc.htm" />
+      <HelpTOCNode Id="461e51c7-f041-4741-bfaa-49dcf47ecb8f" Title="QuickStartDialog Properties" Url="html/067e76ea-6265-f144-c1df-85f683776e66.htm">
+        <HelpTOCNode Title="IsDoNotShowAgainChecked Property " Url="html/7b66fd4a-e784-fa7b-3b01-25839cb0a19f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6cac8200-bbf4-4935-b749-50ccfcd554d8" Title="QuickStartDialog Methods" Url="html/ec39c5fb-8ad9-8a24-47ac-ee106a9ac37f.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/82acf3b0-728b-f428-038a-162697e2f03b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bf1ee8f4-ba80-4780-b077-1c12fcada1e5" Title="HP.SV.Designer.Controls.Scripts" Url="html/905bfcfa-8e42-9ad2-fdc3-7e6fe40bc373.htm">
+    <HelpTOCNode Id="e66b98bc-8963-49ec-becd-ea80fa44a11c" Title="AddNewScriptControl Class" Url="html/bd463ab7-038f-5475-c1a2-fc02e7a36904.htm">
+      <HelpTOCNode Title="AddNewScriptControl Constructor " Url="html/a7b52c8c-a18d-458a-e346-c52cf8c0ad51.htm" />
+      <HelpTOCNode Id="36f67144-fa31-4ff0-a0b1-2a30052ef772" Title="AddNewScriptControl Properties" Url="html/5bb12485-ed64-9c15-2c5c-c06f9b5b2b5f.htm">
+        <HelpTOCNode Title="ScriptName Property " Url="html/ef9b67fb-0ea9-955a-5b1a-9b7d5751b2c2.htm" />
+        <HelpTOCNode Title="ScriptTypes Property " Url="html/f38bd09b-57c9-b20c-ad80-f24eca2d25fe.htm" />
+        <HelpTOCNode Title="SelectedScriptType Property " Url="html/d6bad0ea-207d-2a4a-aff4-4ad7265fd649.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="623b1d68-337e-4054-94c1-f90ccb2b03ab" Title="AddNewScriptControl Methods" Url="html/7981a18e-fa0c-9299-7dfd-3eb6a3e9db35.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/e9596c84-2f6a-742f-fd42-c789387bfe11.htm" />
+        <HelpTOCNode Title="SetValidationError Method " Url="html/c8f6267c-6148-28a4-84bd-b3a02c1b1e68.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c9dd8aa-c06e-41a1-963d-f9f910651745" Title="ScriptTypeViewModel Class" Url="html/0ee73aee-d777-1dc3-abd3-5c242d8adf5a.htm">
+      <HelpTOCNode Title="ScriptTypeViewModel Constructor " Url="html/e9cff69b-00c1-e712-1cb9-994538164828.htm" />
+      <HelpTOCNode Id="54a6fb1f-56be-4476-9dc6-e664c51cdfbf" Title="ScriptTypeViewModel Properties" Url="html/526d5b34-166b-6d72-b99e-18582a0f9835.htm">
+        <HelpTOCNode Title="Extension Property " Url="html/91078a2e-f523-5a0f-661b-9bd55a5cd39c.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/02792d40-50d2-986c-2bc4-9f065650b0f8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="868b40d2-89a3-4647-854d-8ad3de98e6ea" Title="HP.SV.Designer.Extensibility" Url="html/87f25dd6-f8b6-45cf-0e74-58acd3c9e85d.htm">
+    <HelpTOCNode Id="34a10346-daef-4f29-9905-969c7e89c581" Title="DictionaryContextExtensions Class" Url="html/ae739d1e-6e27-3eae-f40d-a525cc92b981.htm">
+      <HelpTOCNode Id="84b0f2c6-ba50-4b25-b97f-69275b3fb8e8" Title="DictionaryContextExtensions Methods" Url="html/8ff1bdff-7392-fb55-59d0-a4419a59e724.htm">
+        <HelpTOCNode Id="3abae88b-48d8-4730-a504-b365b374f6d1" Title="GetContextValue Method " Url="html/27b033c1-04d9-88e6-478e-7fcd97c611f2.htm">
+          <HelpTOCNode Title="GetContextValue Method (IDictionary(String, String), Int32, String, String)" Url="html/cee096ac-fe80-9c94-51c3-89ca848234d3.htm" />
+          <HelpTOCNode Title="GetContextValue Method (IDictionaryContextViewModel, IDictionary(String, String), Int32, String, String)" Url="html/b05c3cfc-1ad2-49b8-1a0c-1eaa77ac08d0.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d2e4ef7a-003e-42d4-8407-a08d2cbd07de" Title="GetContextValueBool Method " Url="html/07311e11-10fd-60ad-2da3-95548d5cdcfd.htm">
+          <HelpTOCNode Title="GetContextValueBool Method (IDictionary(String, String), Int32, String, Boolean)" Url="html/9073fbe8-8a98-abe9-e3ae-2adc491ccdd8.htm" />
+          <HelpTOCNode Title="GetContextValueBool Method (IDictionaryContextViewModel, IDictionary(String, String), Int32, String, Boolean)" Url="html/277c1221-59b9-0750-7125-d0c7794a784b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetContextValueInt Method " Url="html/fbed6b14-12df-c7ef-73b2-c493f7f707b2.htm" />
+        <HelpTOCNode Id="e4071ef8-c1ad-41c6-bf4e-a2a9dc1afeac" Title="SetContextValue Method " Url="html/30964e74-afe7-717f-9f2b-0c1bb6434d4f.htm">
+          <HelpTOCNode Title="SetContextValue Method (IDictionary(String, String), Int32, String, String)" Url="html/e1ad98b9-aedc-b842-508e-ac23237fdb2e.htm" />
+          <HelpTOCNode Title="SetContextValue Method (IDictionaryContextViewModel, IDictionary(String, String), Int32, String, Boolean)" Url="html/8a5b8f73-5e32-e60f-813b-b27605fa2e6a.htm" />
+          <HelpTOCNode Title="SetContextValue Method (IDictionaryContextViewModel, IDictionary(String, String), Int32, String, String)" Url="html/5b8835d5-aa34-b4c7-1534-89954871bec4.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae874e4c-831f-4440-ad7d-624e5875384c" Title="IDictionaryContextViewModel Interface" Url="html/f27ee767-364d-590a-591a-549524f383d1.htm">
+      <HelpTOCNode Id="31c57684-ff50-44d5-a49d-22a8273552ad" Title="IDictionaryContextViewModel Methods" Url="html/5613bfc7-71b4-ade9-8c30-5716271a8ef5.htm">
+        <HelpTOCNode Title="LoadFromContext Method " Url="html/e41d135c-412d-c3fb-770f-0b954d3f2f1c.htm" />
+        <HelpTOCNode Title="SaveToContext Method " Url="html/4446ef53-39c4-b4ed-ae9b-1301298efe66.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d75290e4-705e-4bb2-aaad-141eba5e93c1" Title="IExtensibilityProvider Interface" Url="html/d3fc8abe-2420-9833-51e2-0fa550d9e00a.htm">
+      <HelpTOCNode Id="cfb6e8d9-bb43-4b80-8cc5-0e601ece4499" Title="IExtensibilityProvider Properties" Url="html/155808df-ffc3-c452-64db-e55b7ce3dc5e.htm">
+        <HelpTOCNode Title="AgentDefinitions Property " Url="html/284b2610-a227-651e-da1f-2348ae7244f8.htm" />
+        <HelpTOCNode Title="ProtocolDefinitions Property " Url="html/d5cc1d75-fb9d-8610-9c3b-d1f82410c186.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a92bd4e8-0468-4d3b-8512-bd7570c48d0a" Title="IExtensibilityProvider Methods" Url="html/13575d93-c62f-d82e-4411-f37613820983.htm">
+        <HelpTOCNode Id="2dbb85bd-925e-4256-99d8-25a2823017b7" Title="GetAgentDefinition Method " Url="html/cab17a48-c952-d84a-4793-5c6225157b3b.htm">
+          <HelpTOCNode Title="GetAgentDefinition Method (AgentConfigurationRuntimeInfo)" Url="html/391fa43f-6ab2-6eee-928b-359ee92f0fd9.htm" />
+          <HelpTOCNode Title="GetAgentDefinition Method (String)" Url="html/1ec0e7b3-f97b-e20f-9657-528534371d5a.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="GetAvailableAgentsForEndpoint Method " Url="html/40577e57-208c-7bd8-71bd-00a78227f9b9.htm" />
+        <HelpTOCNode Title="GetCultureDefinitionForCulture Method " Url="html/f935373a-3843-2d24-edc6-6c31dccc824c.htm" />
+        <HelpTOCNode Title="GetLoadErrors Method " Url="html/356369b2-4d93-5dc0-6f4f-7ff3b3d0177e.htm" />
+        <HelpTOCNode Id="4c1cbdee-f305-4a76-86d7-7dfe1563700e" Title="GetProtocolDefinitionExt Method " Url="html/0434d219-b982-ddf2-1642-be01df022e61.htm">
+          <HelpTOCNode Title="GetProtocolDefinitionExt Method (String)" Url="html/8a90d205-d892-ec8a-5aec-b9a35b676490.htm" />
+          <HelpTOCNode Title="GetProtocolDefinitionExt Method (IServiceDescription, String)" Url="html/f8f25860-a66d-8964-f7b1-6319d2db7e53.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LoadFailed Method " Url="html/0e62da65-cf39-f8cf-c156-d21ea72f8f49.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="079a7656-98fb-4a73-8457-f1b2c0186f41" Title="IIdentifiable Interface" Url="html/177a5383-067d-838b-1b57-92ac2b362f75.htm">
+      <HelpTOCNode Id="cae7f8fe-a1c0-4761-aaf8-3f9bd74fe238" Title="IIdentifiable Properties" Url="html/9d7f2ce3-ad04-fce2-924b-4058d8fe0d34.htm">
+        <HelpTOCNode Title="Id Property " Url="html/c0b0e359-75b4-9b70-b0d1-8efae5ffb15d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8ded5cd6-2d24-42a4-9a57-61717b8aaccc" Title="IProtocolDefinitionExt Interface" Url="html/a7952e21-e2bf-ca51-cd83-2e908b74a563.htm">
+      <HelpTOCNode Id="704e992c-f70d-41f2-82cd-d064c09308ef" Title="IProtocolDefinitionExt Properties" Url="html/2bc9f3bf-3766-1a22-4da4-12c41421b759.htm">
+        <HelpTOCNode Title="BaseProtocolResources Property " Url="html/65070b6b-85ef-588c-4ed8-4022be1ca1b9.htm" />
+        <HelpTOCNode Title="CredentialsStoreExtensions Property " Url="html/c35ee53d-cb0d-692d-f352-7a9943b05b86.htm" />
+        <HelpTOCNode Title="DataModelEditorExtensions Property " Url="html/cce55085-06b8-afc7-7f10-c46625b30c72.htm" />
+        <HelpTOCNode Title="EndpointEditingExtensions Property " Url="html/ccd464b1-d33a-cef1-df96-9e731bb9b748.htm" />
+        <HelpTOCNode Title="MessageImportExtensions Property " Url="html/455f1188-c7e2-5e5b-7cc8-0308ff2b89ce.htm" />
+        <HelpTOCNode Title="MessageLoggerExtensions Property " Url="html/898b6097-0feb-8d24-7fe0-021faf3ab316.htm" />
+        <HelpTOCNode Title="MessageProtocol Property " Url="html/d4e81fe8-86c5-9105-daf5-d3eb7474e80d.htm" />
+        <HelpTOCNode Title="NewServiceWizardExtensions Property " Url="html/8688b288-3472-e5d3-a5d7-97913c6e774c.htm" />
+        <HelpTOCNode Title="OutlineExtensions Property " Url="html/c5d0aec6-cbaf-b9fa-690a-7fecbfbd2e6b.htm" />
+        <HelpTOCNode Title="ProtocolCapability Property " Url="html/5bf81a0b-15d8-ad5f-ccac-4903fc5c9ad1.htm" />
+        <HelpTOCNode Title="ProtocolDefinition Property " Url="html/59a122a8-697c-8ddc-d035-bc8397869ef4.htm" />
+        <HelpTOCNode Title="ProtocolDefinitionId Property " Url="html/6a7389b6-e631-f8ca-b231-2ef7abdd4f49.htm" />
+        <HelpTOCNode Title="ProtocolResources Property " Url="html/d0e3784b-3812-474b-233b-fbfff8f3bedb.htm" />
+        <HelpTOCNode Title="ReconfigurationInstructionsExtensions Property " Url="html/9305f516-7ced-0540-ca9e-dcafb99a9fa4.htm" />
+        <HelpTOCNode Title="ServiceDescriptionEditorExtensions Property " Url="html/4def47e0-8078-f5ff-4287-7e02eee37f69.htm" />
+        <HelpTOCNode Title="ServiceEditorExtensions Property " Url="html/d7abc3b5-a306-832f-8b03-4bb3286bf2ce.htm" />
+        <HelpTOCNode Title="ServiceTopologyExtensions Property " Url="html/a8ae8669-69ca-5e3a-d85b-8afc5da6918d.htm" />
+        <HelpTOCNode Title="SupportsSecurity Property " Url="html/b720f7cc-f3a0-3e9e-ced8-5e8332e86220.htm" />
+        <HelpTOCNode Title="SystemNamespaces Property " Url="html/7647b73d-5421-e582-6853-cfd1d1c77a91.htm" />
+        <HelpTOCNode Title="TransportProtocol Property " Url="html/4d96730d-7893-cbbc-9b08-a0bc9c844049.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce2c0366-2ec0-4146-a924-03513543eb9e" Title="L10nNameDescription Class" Url="html/738f9011-c609-39d9-4b6a-81cf2c17c40e.htm">
+      <HelpTOCNode Id="b6ddf461-73f8-46ee-9b67-fd044d5c001d" Title="L10nNameDescription Properties" Url="html/ae22e6c9-d8ce-85c8-cee4-a3c2a008070a.htm">
+        <HelpTOCNode Title="Description Property " Url="html/b1dd3306-b9c2-8cef-1476-05dce89f7544.htm" />
+        <HelpTOCNode Title="DisplayName Property " Url="html/960ea442-3b11-36d6-365d-bff1c717e7ea.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ccaf1e1e-9173-409e-9cd0-002b635c607e" Title="HP.SV.Designer.Extensibility.Agents" Url="html/05613815-246f-94d9-935b-dd6e0e01ef4b.htm">
+    <HelpTOCNode Title="ControlMode Enumeration" Url="html/694e5c57-c144-0a8c-a45d-7f162f5f908e.htm" />
+    <HelpTOCNode Id="a3a9c4b9-4b0c-4649-9abe-3895c9d6ccba" Title="IAgentDefinitionExt Interface" Url="html/e7475b04-737c-d31b-242b-2a824aceb1a2.htm">
+      <HelpTOCNode Id="1a63637a-d05a-4057-b92b-5700f4e9c049" Title="IAgentDefinitionExt Properties" Url="html/2c7660b9-9d07-0596-46d2-793e64eecef5.htm">
+        <HelpTOCNode Title="AgentType Property " Url="html/b344e181-cb05-ce43-6532-b8612cb4b45e.htm" />
+        <HelpTOCNode Title="ClientLibraries Property " Url="html/da931aea-8c72-01c1-e5c0-a38194c5a77a.htm" />
+        <HelpTOCNode Title="EditRealEndpoint Property " Url="html/0f3ab0c6-9008-3d55-cb94-ca95ae8ce54f.htm" />
+        <HelpTOCNode Title="EditVirtualEndpoint Property " Url="html/ba0006e6-4928-4560-f1de-7e88f1ef17b9.htm" />
+        <HelpTOCNode Title="HelpTopic Property " Url="html/efe4519d-3ced-daa5-f28b-2b90a631fdfb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3edf814c-e091-451d-9c5e-70a9620790f1" Title="IAgentDefinitionExt Methods" Url="html/e7f5f71e-b2f4-34f1-1cb0-92ccef4b545a.htm">
+        <HelpTOCNode Title="CreateActivityControl Method " Url="html/7383f947-2147-1824-4184-950fdd5262f6.htm" />
+        <HelpTOCNode Title="CreateActivityViewModel Method " Url="html/cdeba27f-92d5-8e79-354d-e462c7f9c2b6.htm" />
+        <HelpTOCNode Title="CreateAgentInfoControl Method " Url="html/b7bacb44-5a94-711e-bfca-37dfcb130f94.htm" />
+        <HelpTOCNode Title="CreateAgentInfoViewModel Method " Url="html/f02024f1-faa5-d605-6dfe-1b87f2dfa53b.htm" />
+        <HelpTOCNode Title="CreateAgentOptionsControl Method " Url="html/bcedadc1-2e49-fca2-9257-f8c88ab09989.htm" />
+        <HelpTOCNode Title="CreateAgentOptionsViewModel Method " Url="html/7bb5d22a-263a-78ba-4568-90d650d67740.htm" />
+        <HelpTOCNode Id="e2f522d5-bdb2-435c-86c0-dfd8064bd8a5" Title="CreateEndpointViewModel Method " Url="html/56575938-908f-c28b-29c8-a4adb2283b8f.htm">
+          <HelpTOCNode Title="CreateEndpointViewModel Method (ControlMode, AgentConfigurationInfo)" Url="html/e8c6b105-6d7d-a08b-2326-07b93950d89b.htm" />
+          <HelpTOCNode Title="CreateEndpointViewModel Method (ControlMode, AgentConfigurationInfo, IAgentsServerContext)" Url="html/9ba5279e-7a18-69f4-f9e3-278a3e088962.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="CreateRealEndpointControl Method " Url="html/e1a29147-10b6-765b-5c1d-cb2fe39a9750.htm" />
+        <HelpTOCNode Title="CreateServiceEndpointFormatter Method " Url="html/ffcd147b-80b7-1e84-c1af-f2ee18bdde39.htm" />
+        <HelpTOCNode Title="CreateVirtualEndpointControl Method " Url="html/9dc3e289-f2ba-c9c3-ae42-aa4d8eca7d16.htm" />
+        <HelpTOCNode Title="GetAdvancedConfigurationProperties Method " Url="html/4f4f7e16-1f87-8bf8-39dd-2e6e0ffad8b8.htm" />
+        <HelpTOCNode Title="GetAgentNotAvailableMessage Method " Url="html/87baef9e-fc6f-5056-c839-fa5f60801827.htm" />
+        <HelpTOCNode Title="GetAgentOptionsIcon Method " Url="html/36fb5581-7fc2-cc1c-e0cf-5fa74c76d5c7.htm" />
+        <HelpTOCNode Title="GetDeploymentFailedMessage Method " Url="html/a22e907e-4395-0cdb-62af-853bf53d763c.htm" />
+        <HelpTOCNode Title="GetDisplayedAgentType Method " Url="html/d6bc2718-9605-cf54-0ca1-1fa9e12b6bca.htm" />
+        <HelpTOCNode Title="GetDisplayedAgentUri Method " Url="html/cf3fd589-918b-c243-0a50-a8b1617e825a.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionDescription Method " Url="html/d8a4d41f-c62a-35bd-deeb-9ce8fc99466c.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionDescriptionControl Method " Url="html/0f5314eb-b298-cee1-3476-a63da0a09925.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionsVariables Method " Url="html/42ef5f3a-c9c1-08a8-7089-3e874cd66788.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionTemplate Method " Url="html/96f31e91-467f-cd05-3a5f-ab1f9deb3b1f.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionTitle Method " Url="html/bc3ec3bc-dc4b-fd4e-a282-f2883fd08493.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="dd9cbc06-bb12-47f5-93f8-b667c508bc34" Title="HP.SV.Designer.Extensibility.Controls.ClientCall" Url="html/fadb0e58-25c1-e9b9-5a78-3c43295f6d4f.htm">
+    <HelpTOCNode Id="6c2f8e06-297a-4858-ae89-40c93a48e9b8" Title="EndpointActivityControl Class" Url="html/14d9c81b-78b3-531f-98c9-a2286b0cc171.htm">
+      <HelpTOCNode Title="EndpointActivityControl Constructor " Url="html/5c61f2d9-4069-a5bd-7286-4c39594ffaaf.htm" />
+      <HelpTOCNode Id="97a3f469-9b21-40d3-bd9c-37676fc7eeb8" Title="EndpointActivityControl Methods" Url="html/817d1d4b-a61f-908c-bf4d-7e2be525c70f.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/f3470dc8-8824-8cb6-6b65-dd875285d4f1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="345abd30-2cba-4494-92a5-77b34566917f" Title="HP.SV.Designer.Extensibility.CultureDefinitions" Url="html/9cca767d-3867-3138-8944-1538d424effd.htm">
+    <HelpTOCNode Id="dd14578f-969b-4956-bfa2-28521b9abccd" Title="ICultureDefinition Interface" Url="html/13b97db1-02fb-7bfb-e16f-c0bf28d2cfc3.htm">
+      <HelpTOCNode Title="ICultureDefinition Properties" Url="html/89c8debb-69d6-d383-c286-443b767efd57.htm" />
+      <HelpTOCNode Id="c7d1028f-415a-4da2-a2f8-c2dbb6cd61d4" Title="ICultureDefinition Methods" Url="html/66943eba-1559-0bc9-716b-d217a94c10de.htm">
+        <HelpTOCNode Title="SetupStyles Method " Url="html/54d2818b-e389-edcc-9238-7cdce8846a27.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="cd9f0406-68c2-426a-93cf-c0138dac4226" Title="HP.SV.Designer.Extensibility.Endpoints" Url="html/7d0cfa20-f7cb-af59-8755-750b7fe038fa.htm">
+    <HelpTOCNode Id="679fe0f2-89b1-46f2-97bc-53d5667fd06b" Title="ICanSuggestNewVirtualEndpointAddress Interface" Url="html/1e78a5ba-d192-66d4-268e-e3e47512cde2.htm">
+      <HelpTOCNode Id="5f4aa2eb-2e54-4d5c-a503-1ca61249c9c0" Title="ICanSuggestNewVirtualEndpointAddress Methods" Url="html/5071e6c6-ac22-aedf-1051-36a1a328d305.htm">
+        <HelpTOCNode Title="CanSuggestNewVirtualEndpointAddress Method " Url="html/340ec69b-594b-d6b1-8ba7-3662a962cbe1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f616eb50-14e9-4db0-803d-473027e758fd" Title="IEndpointAddressFormatter Interface" Url="html/39a516b3-efe5-75a4-44ba-c951f24f6879.htm">
+      <HelpTOCNode Id="ff3092a1-925c-4b38-ba39-d3f1daf210c5" Title="IEndpointAddressFormatter Methods" Url="html/f0e2ccd9-77a4-feda-d8cc-d70f04c2de18.htm">
+        <HelpTOCNode Title="FormatRealAddress Method " Url="html/b4e27ef3-64fb-df4a-6990-1b5ac09358c2.htm" />
+        <HelpTOCNode Title="FormatVirtualAddress Method " Url="html/c1bef7bf-a593-8600-f250-9c49a3625e56.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1bdac89d-4003-4405-ac14-2c5aef0dff38" Title="IEndpointEditingSupportsEncoding Interface" Url="html/6cc37cdd-deea-d16e-11ef-1ddaa7c4ee1b.htm">
+      <HelpTOCNode Id="7b86bcbe-a1af-4ddf-96c5-a4178bdfff0d" Title="IEndpointEditingSupportsEncoding Properties" Url="html/e5b663aa-34f0-626e-d955-e076e77708e4.htm">
+        <HelpTOCNode Title="Encoding Property " Url="html/1b30c887-f909-8728-37f1-985473954327.htm" />
+        <HelpTOCNode Title="Encodings Property " Url="html/9f5858bd-f9a0-4b66-8337-3a13dc1224f1.htm" />
+        <HelpTOCNode Title="SupportsEncodingSelection Property " Url="html/4ef571a2-280e-44d0-a8b7-c61b8056d73e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bc271ac7-73ba-4284-bc53-bdef12bb9aaf" Title="IServiceEndpointFormatingManager Interface" Url="html/b0177c0e-fe1f-1082-4dd1-925e92d3e2bb.htm">
+      <HelpTOCNode Id="4f1afef4-1654-4dc5-9bb7-55763396e341" Title="IServiceEndpointFormatingManager Methods" Url="html/d0ea573f-93b4-89a6-2f01-6d76e800caf6.htm">
+        <HelpTOCNode Id="f431e9ef-c4f5-4bec-a6c3-5d730c4ff1a7" Title="FormatVirtualEndpoint Method " Url="html/435fe6f6-3608-d45b-3151-a710dc66f19f.htm">
+          <HelpTOCNode Title="FormatVirtualEndpoint Method (ServerIdentifier, IVirtualServiceEndpoint)" Url="html/c75a3a60-4a0b-3ad9-ffc1-4a592c9904c5.htm" />
+          <HelpTOCNode Title="FormatVirtualEndpoint Method (ServerIdentifier, AgentReference, String, String, String)" Url="html/d625add2-ecdd-87ad-463a-55e6f6d5dba7.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b9adadf8-ce33-4c21-bf30-f48f02ef1711" Title="IServiceEndpointFormatter Interface" Url="html/66f049e8-1c18-73bb-830b-82306787096f.htm">
+      <HelpTOCNode Id="f7cad4e1-c056-4030-9a07-74078adede86" Title="IServiceEndpointFormatter Methods" Url="html/c4fccedd-89c2-8797-73c5-bc61d6b39115.htm">
+        <HelpTOCNode Title="FormatVirtualEndpoint Method " Url="html/cae1d9f7-24b6-7362-2773-705666a91a35.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d4d9b61c-75b2-4351-b534-69f6abc515a6" Title="ISoapEndpointEditing Interface" Url="html/2b333a27-5ded-4ff7-6a59-b3ad72a44e67.htm">
+      <HelpTOCNode Id="de2baee2-fb2d-44c4-afb2-37a72f817b08" Title="ISoapEndpointEditing Properties" Url="html/4f802e9c-4ae7-24d8-5395-bb824528f986.htm">
+        <HelpTOCNode Title="IsSoap Property " Url="html/3677b3dc-8453-7883-47d9-bc36cf11b723.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bd3c4710-aa71-4e83-9a35-73955dab9ceb" Title="ISupportsServiceEndpointsTopology Interface" Url="html/778dc725-8cc0-f9b9-e993-97365a46801c.htm">
+      <HelpTOCNode Id="612ea6be-e915-4e96-a73f-cf71cc6f229d" Title="ISupportsServiceEndpointsTopology Properties" Url="html/0b0a5909-fb28-b637-af5c-d4f953326637.htm">
+        <HelpTOCNode Title="SupportsServiceEndpointsTopology Property " Url="html/5cfa0fb1-69e5-25a4-9268-cafa84a19400.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ee451680-1b81-4e6a-81d5-bfe088a6906e" Title="HP.SV.Designer.Extensibility.Endpoints.Generic" Url="html/aefaab09-72dc-0301-a754-30dd073980b8.htm">
+    <HelpTOCNode Id="1e106010-802d-4f9f-8a41-1c092c1d2206" Title="GenericEndpointEditControl Class" Url="html/66f9ca22-1cfb-271d-fbba-4870dc4dca94.htm">
+      <HelpTOCNode Title="GenericEndpointEditControl Constructor " Url="html/baee8311-4545-893b-aebf-6d189dabee86.htm" />
+      <HelpTOCNode Id="8fe3fc61-d61d-478d-a4d9-959f1b2b6d10" Title="GenericEndpointEditControl Properties" Url="html/ff5f4ff9-b5fe-d1f1-bc13-ffa9e7924c91.htm">
+        <HelpTOCNode Title="ShowServiceTypeLabel Property " Url="html/3b995c1b-e198-89f1-c79f-7d27ce3f4063.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5442e26e-2b64-4538-804a-5828b7a045df" Title="GenericEndpointEditControl Methods" Url="html/3b826f29-8319-a455-7d42-74ae7381fd7e.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/4921ee47-6099-eb99-212c-5a8f4e240500.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="637983fc-9909-463f-9336-a8835c2037ff" Title="GenericEndpointViewControl Class" Url="html/658b5372-946d-cdc4-3026-6b227759a0eb.htm">
+      <HelpTOCNode Title="GenericEndpointViewControl Constructor " Url="html/8f947967-3ed2-f506-d109-5c4d2986668a.htm" />
+      <HelpTOCNode Id="0559b391-7be2-44aa-b5f5-4391b43a0eae" Title="GenericEndpointViewControl Methods" Url="html/e6252a58-0d23-2335-346b-d23abd3dc186.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/0e0f0529-6141-007a-10fe-f5e2fb62ff68.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c279550e-ee06-45bb-9983-a0fa6be3203a" Title="GenericEndpointViewModel Class" Url="html/ad266c0b-4c4b-6437-b05b-1977230be777.htm">
+      <HelpTOCNode Title="GenericEndpointViewModel Constructor " Url="html/f7254194-53fe-62fd-506c-380f9a5a2fd4.htm" />
+      <HelpTOCNode Id="7d7d16e6-3f8b-414f-adfd-78629cf4cfc8" Title="GenericEndpointViewModel Properties" Url="html/ebe469ad-4bee-4bca-9861-44347d2755a1.htm">
+        <HelpTOCNode Title="Agent Property " Url="html/ffc1006b-a5fa-04bc-44ba-9f11881d3031.htm" />
+        <HelpTOCNode Title="Attributes Property " Url="html/e4c9f98d-8d3d-4c08-a0e6-908270b032cb.htm" />
+        <HelpTOCNode Title="DisplayedRealServiceUri Property " Url="html/f51218d3-bde4-6a20-b7b6-d8ccf08ad8a3.htm" />
+        <HelpTOCNode Title="DisplayedUriPrefix Property " Url="html/a2aaf168-cbb2-3571-babb-7607524202ae.htm" />
+        <HelpTOCNode Title="DisplayedVirtualServiceUri Property " Url="html/615c2e47-1513-6218-a252-63b8b50099b9.htm" />
+        <HelpTOCNode Title="NonExistentRealService Property " Url="html/4992ec4e-a182-0369-ab7b-06d5b2da04a7.htm" />
+        <HelpTOCNode Title="RealServiceAttributes Property " Url="html/e719af80-6346-bdb2-fdc6-95b5c20ad433.htm" />
+        <HelpTOCNode Title="ShowAgentUriInRealServiceUri Property " Url="html/c5476a1d-d74a-26e0-1cbe-f06a3c08b4de.htm" />
+        <HelpTOCNode Title="ShowAgentUriInVirtualServiceUri Property " Url="html/5f23b18f-16e2-1665-d4b1-6979c5062605.htm" />
+        <HelpTOCNode Title="StoredUriPrefix Property " Url="html/a41d58bf-a33a-9341-2ef0-ee8564e94455.htm" />
+        <HelpTOCNode Title="VirtualServiceAttributes Property " Url="html/15de8740-9dd0-f49e-1829-8f68a70257ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="af68d4aa-b80c-4db0-a74d-0d74524cc578" Title="GenericEndpointViewModel Methods" Url="html/f23f73b4-d1a0-84e4-85da-2349322e371f.htm">
+        <HelpTOCNode Title="BuildServiceUri Method " Url="html/836d9b63-d21d-d999-5dcc-c2f164ae530f.htm" />
+        <HelpTOCNode Title="GetAgentRealUri Method " Url="html/58bbc320-6a56-b277-9589-f8975360ff65.htm" />
+        <HelpTOCNode Title="GetAgentVirtualUri Method " Url="html/e83b9105-9a76-42d7-b485-1f09e5450a6c.htm" />
+        <HelpTOCNode Title="GetAttribute Method " Url="html/31b7a852-f96c-fe66-3c96-e0e09239b857.htm" />
+        <HelpTOCNode Title="GetAttributeNotPresent Method " Url="html/e3aa2006-3f65-e601-c1d0-fed20d918280.htm" />
+        <HelpTOCNode Title="GetAttributeValue Method " Url="html/d20389ec-d3d7-8537-d0b3-5bbb93e68c58.htm" />
+        <HelpTOCNode Title="GetVirtualEndpointAddress Method " Url="html/005fec82-5a37-9f3d-1887-c24832aa457b.htm" />
+        <HelpTOCNode Title="GetVirtualEndpointRealAddress Method " Url="html/5ce867e2-537b-a89e-93cd-153f09a43f2e.htm" />
+        <HelpTOCNode Title="LoadFromContext Method " Url="html/875fe012-6800-8da8-c523-493893b5df0a.htm" />
+        <HelpTOCNode Title="LoadFromServiceDescriptionBuilder Method " Url="html/426cc54d-819b-2e71-21de-24429997a2a2.htm" />
+        <HelpTOCNode Title="LoadInternal Method " Url="html/b16e2476-37a9-3fea-9c0d-65de156c81e2.htm" />
+        <HelpTOCNode Title="OnAgentChanged Method " Url="html/f0d4b81f-8e43-88c0-b496-89edb8eb78c0.htm" />
+        <HelpTOCNode Title="OnAttributeChanged Method " Url="html/7bcc7ecd-154e-62e5-d8bf-ff55d717a3fb.htm" />
+        <HelpTOCNode Title="SaveInternal Method " Url="html/afd21499-18a2-6858-455e-5023ac0b3d1d.htm" />
+        <HelpTOCNode Title="SaveToContextInternal Method " Url="html/282b21ee-5f06-be8c-d5d0-3622fad40d98.htm" />
+        <HelpTOCNode Title="SetAttributeNotPresent Method " Url="html/0b806221-5b84-8493-7071-3ddd12861eaf.htm" />
+        <HelpTOCNode Title="SetAttributeValue Method " Url="html/4a515f8a-ce14-df71-bb60-1c7d31068665.htm" />
+        <HelpTOCNode Title="SuggestVirtualServiceName Method " Url="html/afccd765-a6a5-4233-f386-5f6b4c38a9ed.htm" />
+        <HelpTOCNode Title="ValidateRealEndpoint Method " Url="html/4261784d-ee03-6d70-3805-350f409f6da8.htm" />
+        <HelpTOCNode Title="ValidateVirtualEndpoint Method " Url="html/fd6db3aa-2fe7-40d1-e025-4cf616fdd243.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="05fcaa63-8b04-494b-82b1-bac53d127853" Title="HP.SV.Designer.Extensibility.Extensions.CredentialsStore" Url="html/ddb2602f-e562-314f-4562-38193b202f5c.htm">
+    <HelpTOCNode Id="a8e8e05e-7f2f-4fdb-aad8-704ad2262a48" Title="DefaultCredentialsStoreExtensions Class" Url="html/cd982a07-8644-7026-14b7-3fe808c180fd.htm">
+      <HelpTOCNode Title="DefaultCredentialsStoreExtensions Constructor " Url="html/96862b66-8748-42b2-61f1-b80330091bc7.htm" />
+      <HelpTOCNode Id="a3eca553-ff06-4252-87ca-8eef80bb1c7e" Title="DefaultCredentialsStoreExtensions Methods" Url="html/9c38e4ec-5b14-ab2e-1550-19564973b6c3.htm">
+        <HelpTOCNode Title="GetAdditionalIdentityUsages Method " Url="html/c8fca2e9-7cd7-1f51-6692-e0f10895491d.htm" />
+        <HelpTOCNode Title="GetAllIdentityUsages Method " Url="html/8a03c7f6-ca06-8fc1-9f39-03110cb507d8.htm" />
+        <HelpTOCNode Title="GetIdentityEditControl Method " Url="html/1e9e1e22-c54d-96b3-f19c-6ab2e9d7c2fb.htm" />
+        <HelpTOCNode Title="GetIdentityTableControl Method " Url="html/7192b3b7-5b40-0aa1-bec2-033601cc3834.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="045e63f5-db85-4a4a-b772-472154ed9e60" Title="ICredentialsStoreExtensions Interface" Url="html/a7d23129-099b-481c-f664-e51260fe32a5.htm">
+      <HelpTOCNode Id="bafeb95c-ca7a-4720-8525-673960d1e128" Title="ICredentialsStoreExtensions Methods" Url="html/b6dce0b0-d3a5-910f-c1b8-1b733f779dd7.htm">
+        <HelpTOCNode Title="GetAdditionalIdentityUsages Method " Url="html/cbed508d-7e7e-1d5f-edc2-b694b912b476.htm" />
+        <HelpTOCNode Title="GetAllIdentityUsages Method " Url="html/9625f5b4-d335-6a04-4a30-903af2f317d6.htm" />
+        <HelpTOCNode Title="GetIdentityEditControl Method " Url="html/6f773813-cfca-bc97-3c46-852833899b3d.htm" />
+        <HelpTOCNode Title="GetIdentityTableControl Method " Url="html/0716de8a-08c3-612b-5d0d-c7c0d236904b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ee64381f-596c-467a-88d3-51f7e624bb40" Title="HP.SV.Designer.Extensibility.Extensions.DataModelEditor" Url="html/2642347e-5220-85de-cf4c-dc7f72e2cc90.htm">
+    <HelpTOCNode Id="8b02bf29-afd5-4bb2-8eb7-824a46867142" Title="IDataModelEditorExtensions Interface" Url="html/7bb755e7-272a-f9cc-575b-37902c7227fa.htm">
+      <HelpTOCNode Id="354cb993-ca2e-4e73-86e3-300b65ac94d0" Title="IDataModelEditorExtensions Methods" Url="html/3603262f-3c93-937f-f854-b4f5a5524a9c.htm">
+        <HelpTOCNode Title="GetContextMenuItems Method " Url="html/257671b2-f829-d500-0296-d6a93d7f9a2b.htm" />
+        <HelpTOCNode Title="GetDMEEmptyGridNoSelectedOperationControl Method " Url="html/e8c3d062-ad8b-73e6-eb0c-9313bc1e1ce7.htm" />
+        <HelpTOCNode Title="GetTrackPositionProperties Method " Url="html/6467ee3e-2fa3-be48-6a87-adbdb70f2f37.htm" />
+        <HelpTOCNode Title="ShowMetadataByDefault Method " Url="html/59be3a5d-7299-4f16-c4b7-7aa9647b1dfd.htm" />
+        <HelpTOCNode Title="SpecifyPcapImportOperation Method " Url="html/035f1d28-e454-5af0-3cdc-3ee7c635ef97.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="882cd054-5b57-4a7c-bf3b-af5792948e7e" Title="HP.SV.Designer.Extensibility.Extensions.EndpointEditing" Url="html/c202daf1-af7f-a298-f52d-1a6b0c4158c1.htm">
+    <HelpTOCNode Id="41c9468d-846e-4bfe-a547-88d2b42042c0" Title="IEndpointEditingExtensions Interface" Url="html/58587b29-fb58-bb99-857e-7e478b0e6fe7.htm">
+      <HelpTOCNode Id="69b29811-a980-4b78-97ce-df12cedda24f" Title="IEndpointEditingExtensions Properties" Url="html/ac6dad94-1404-07e2-d366-39d423fb8282.htm">
+        <HelpTOCNode Title="EditEndpointsDialogHeight Property " Url="html/78fd5734-d1de-7694-2c05-4835d27bebc3.htm" />
+        <HelpTOCNode Title="EditEndpointsDialogWidth Property " Url="html/37fa405c-aa5a-e2b8-9c42-08b6d9a6a1f3.htm" />
+        <HelpTOCNode Title="EndpointAddressFormatter Property " Url="html/3bd37879-7388-bec1-2107-e82b91e96545.htm" />
+        <HelpTOCNode Title="ServiceCallActivityRequestAgentLabel Property " Url="html/3f2adb09-e322-56cc-3466-065645d291d7.htm" />
+        <HelpTOCNode Title="ServiceCallActivityResponseAgentLabel Property " Url="html/a3ca7ad0-f57f-5719-e77f-0a9203ad328e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cce334e7-9262-438a-93c7-43c5f1a9d5e5" Title="IEndpointEditingExtensions Methods" Url="html/073207a2-8ad7-8b8a-579f-2a0aa2d29d70.htm">
+        <HelpTOCNode Title="CreateActivityEndpointControl Method " Url="html/ed755103-c8fd-35f2-f007-e6341ddee9ba.htm" />
+        <HelpTOCNode Title="CreateActivityEndpointViewModel Method " Url="html/61ea78f1-dcf3-52dc-67c1-d06f0307ab6c.htm" />
+        <HelpTOCNode Title="CreateEndpointViewModel Method " Url="html/920a4821-1510-0fc8-71bf-687fc39c6c27.htm" />
+        <HelpTOCNode Title="CreateMultiAgentsWrapper Method " Url="html/ed448be5-80e4-0931-8ad0-f996ceed963c.htm" />
+        <HelpTOCNode Title="CreateRealEndpointControl Method " Url="html/a471cd59-5d6f-21a0-db40-f2513aa4e46e.htm" />
+        <HelpTOCNode Title="CreateServiceEndpointFormatter Method " Url="html/ca9fa275-7944-74de-0d3c-5aa03e39a8c7.htm" />
+        <HelpTOCNode Title="CreateVirtualEndpointControl Method " Url="html/828ccdee-1724-5114-f55f-358aa5c648ee.htm" />
+        <HelpTOCNode Title="DisplayAgentSelection Method " Url="html/b5d29440-2545-3b9f-695d-80f2d970479b.htm" />
+        <HelpTOCNode Title="GetAdvancedConfigurationProperties Method " Url="html/12d744f9-6ab1-1f88-ba6f-238ee2a1b4e7.htm" />
+        <HelpTOCNode Title="GetPreferredAgentTypes Method " Url="html/7929396f-d070-1f63-c8d2-f410afdf29f8.htm" />
+        <HelpTOCNode Title="LoadServiceData Method " Url="html/2fef2bef-3245-2bbd-2147-6ec5ad3d8c98.htm" />
+        <HelpTOCNode Title="SelectPrefferedAgent Method " Url="html/b3ed3d7a-f2d1-848f-455f-b9f60f2527fa.htm" />
+        <HelpTOCNode Title="SupportsAgent Method " Url="html/4643ae2e-f4d2-1a59-2e5c-931f51deba79.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6c85a5e-4223-4326-be2e-c0e6dafd1dae" Title="IEndpointEditingSupportsMultipleRealServices Interface" Url="html/56bcd72c-2250-548a-0e57-6a29781f3ae0.htm">
+      <HelpTOCNode Id="d1399d43-cea5-4d60-a36f-161eded90891" Title="IEndpointEditingSupportsMultipleRealServices Properties" Url="html/99c587b3-b8b1-4e1d-3d6f-7bd50f37b5a5.htm">
+        <HelpTOCNode Title="NewRealServices Property " Url="html/bc606902-d411-096f-1db8-91a8fbd846fc.htm" />
+        <HelpTOCNode Title="ShowMultipleRealServices Property " Url="html/5a78c086-fea9-fa31-ed86-366f9b3bb7f1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b0c2b12-37a5-4844-bb0e-4bb051237805" Title="IEndpointEditingSupportsMultipleRealServices Methods" Url="html/00d7ffd7-3f0c-d06f-e6f0-768ce6b90be8.htm">
+        <HelpTOCNode Title="LoadFromEndpoints Method " Url="html/08d7d1db-44da-6144-be8f-3e716e7e27e0.htm" />
+        <HelpTOCNode Title="UpdateEndpointProperties Method " Url="html/a3103215-be0a-2e67-0a67-112e14d42a1a.htm" />
+        <HelpTOCNode Title="ValidateRealServices Method " Url="html/51e6c96a-4768-0354-7dde-6a83230b9f23.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="99cca5f7-a1b4-4c6b-838f-a45f05b14e37" Title="IServiceEndpointViewModel Interface" Url="html/69ab609e-120f-3c0b-bcfb-0c03cfc01f19.htm">
+      <HelpTOCNode Id="074d65ef-5941-4e35-a4ec-954fa4e7b291" Title="IServiceEndpointViewModel Properties" Url="html/0bbdfd24-1876-0d83-2276-df32f630f89c.htm">
+        <HelpTOCNode Title="DisplayedRealServiceUri Property " Url="html/28991266-f5f4-afe4-3482-7cfdb17c7912.htm" />
+        <HelpTOCNode Title="DisplayedVirtualServiceUri Property " Url="html/37e7c30f-e9f2-ec99-98ec-7096b546ad64.htm" />
+        <HelpTOCNode Title="IsReconfigurationInstruction Property " Url="html/c6770ddf-c7d1-9827-13a4-87f6bab297a6.htm" />
+        <HelpTOCNode Title="IsSummary Property " Url="html/34a50d48-6b34-5718-1abb-273b764d2df5.htm" />
+        <HelpTOCNode Title="NonExistentRealService Property " Url="html/4cb303ae-5ed3-bdf4-3fcb-20f4757aea40.htm" />
+        <HelpTOCNode Title="RealEndpointEditLabel Property " Url="html/c9772eec-a47d-407a-d2fe-03fdb792cbd5.htm" />
+        <HelpTOCNode Title="RealEndpointViewLabel Property " Url="html/d93b0663-d1e0-d5d2-2571-44b5c8e238e5.htm" />
+        <HelpTOCNode Title="VirtualEndpointEditLabel Property " Url="html/742f598b-8bc6-7404-bb16-cdafaac282b8.htm" />
+        <HelpTOCNode Title="VirtualEndpointViewLabel Property " Url="html/3e55d1ae-4856-a218-62c5-d4e536fcbfc5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="72f23dd0-e21d-4de1-98ea-e73a75d497ba" Title="IServiceEndpointViewModel Methods" Url="html/7a7b43b0-9d7e-3527-9103-0eac24fe3c82.htm">
+        <HelpTOCNode Title="GetVirtualEndpointAddress Method " Url="html/5da1820a-73ce-1ea5-e511-fa4a391065d9.htm" />
+        <HelpTOCNode Title="GetVirtualEndpointInfo Method " Url="html/f2827be9-677a-e1f2-b1c1-93ee7261115c.htm" />
+        <HelpTOCNode Title="Load Method " Url="html/267f25ae-2974-76d6-6744-8b060aabbc80.htm" />
+        <HelpTOCNode Title="LoadFromServiceDescriptionBuilder Method " Url="html/c09749a3-8f4a-bdf4-cb1d-d85005057229.htm" />
+        <HelpTOCNode Title="Save Method " Url="html/073f905c-4043-806c-2c41-401da486d367.htm" />
+        <HelpTOCNode Title="SetSuggestedAddress Method " Url="html/0a231211-db35-e809-cdb9-102f360248cf.htm" />
+        <HelpTOCNode Title="ValidateRealEndpoint Method " Url="html/5504d294-6ce9-63b2-8715-913ab9c254b8.htm" />
+        <HelpTOCNode Title="ValidateVirtualEndpoint Method " Url="html/f8ece2f3-cd30-4b6c-d88a-0f57e32d983d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1b7e4f65-d4ee-47e4-83ba-a44644443ef8" Title="HP.SV.Designer.Extensibility.Extensions.MessageImport" Url="html/58cff580-9044-1727-cd86-cf888c6d548f.htm">
+    <HelpTOCNode Id="c6a0e3e8-6209-4f2b-902a-4a095a04249e" Title="IMessageImportExtensions Interface" Url="html/27cc1afc-0784-8c5e-2858-34b15268286b.htm">
+      <HelpTOCNode Id="efd93c95-17c1-442b-bfb0-ebf5b03ce5f5" Title="IMessageImportExtensions Properties" Url="html/eeb92247-42b2-e019-2450-96285afaab9d.htm">
+        <HelpTOCNode Title="AllowEmptyRequestBody Property " Url="html/67ba67dd-d7fc-bb73-a9dc-f986c3113d7e.htm" />
+        <HelpTOCNode Title="AllowEmptyResponseBody Property " Url="html/9583bcea-0d06-229f-8c5e-14af04130cb4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ca2b83be-0300-4bb6-b500-387c4f786a48" Title="IMessageImportExtensions Methods" Url="html/792228c5-8e77-aebd-be4a-474d6ab54a0b.htm">
+        <HelpTOCNode Title="RunPreviewRequestUI Method " Url="html/fc8e082d-dc97-467e-5bf8-f2c997ea5c63.htm" />
+        <HelpTOCNode Title="RunUI Method " Url="html/b5ac3c3b-5571-083b-41d2-c553d4e100c0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f1ac49c1-87e9-475c-9c33-51e55e6c5060" Title="HP.SV.Designer.Extensibility.Extensions.NewServiceWizard" Url="html/73022eca-c310-e229-cad1-2a13d867596a.htm">
+    <HelpTOCNode Id="51f6f4ec-7ef6-4b7e-a1ce-c29d994cf884" Title="INewServiceWizardExtensions Interface" Url="html/b552ffeb-7539-7afd-49eb-518d04c92eed.htm">
+      <HelpTOCNode Id="14a0661e-2e9d-4617-b357-61ec2bdd68e7" Title="INewServiceWizardExtensions Methods" Url="html/d309f325-7b82-ca0c-4632-0b964de80b20.htm">
+        <HelpTOCNode Title="CreateServicePropertiesWizardPageProviders Method " Url="html/3ff14282-c253-fdd6-a7c4-ae4c7f761619.htm" />
+        <HelpTOCNode Title="GenerateVirtualServiceName Method " Url="html/ada85959-0c53-c6a5-bcae-8efe754a9411.htm" />
+        <HelpTOCNode Title="GetDataModelName Method " Url="html/a8877317-8e7b-55b0-f577-7bcf3d4ca586.htm" />
+        <HelpTOCNode Title="GetPerformanceModelName Method " Url="html/ba821a3a-2ac2-cf2a-db57-9a3712bf2ec8.htm" />
+        <HelpTOCNode Title="GetServiceDescriptionName Method " Url="html/a9755747-1380-3019-9236-357359e10022.htm" />
+        <HelpTOCNode Title="GetVirtualServiceName Method " Url="html/6efd7a0d-a537-b9b9-60bb-8481ff522dcd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d3b9046-fae2-45a2-9f90-b9678f47ee27" Title="IServicePropertiesWizardPageProvider Interface" Url="html/50123b47-8ea7-7022-656c-bc55fff880af.htm">
+      <HelpTOCNode Id="09d6dd49-ff45-4dac-8c53-7384ab4ad77a" Title="IServicePropertiesWizardPageProvider Properties" Url="html/8c7bcff8-793b-81cd-4203-f635860c2ae0.htm">
+        <HelpTOCNode Title="Condition Property " Url="html/4dbf3028-8880-36a3-d4e2-ae9f2960793a.htm" />
+        <HelpTOCNode Title="Header Property " Url="html/f82d21f7-e400-c43c-36a8-b74a21cd9f8f.htm" />
+        <HelpTOCNode Title="HelpTopicId Property " Url="html/ae8af1e3-521a-4cf2-c604-44bd53984ed7.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/fda584dd-b505-e427-916e-1cca692d1a22.htm" />
+        <HelpTOCNode Title="VerticalScrollBarVisibility Property " Url="html/6afeab61-7c79-5de0-04d3-24e66b085477.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b89463b-adca-402a-a8c4-c872571a86f5" Title="IServicePropertiesWizardPageProvider Methods" Url="html/95dd2679-22ef-e9e1-a770-e586f65619fe.htm">
+        <HelpTOCNode Title="CreateAndSetServiceDescriptionBuilder Method " Url="html/e6f397a9-819f-978c-5b9d-bb9c25de03b1.htm" />
+        <HelpTOCNode Title="CreateServicePropertiesWizardControl Method " Url="html/1448b6ca-857f-2c5d-36c4-8fcd87515dac.htm" />
+        <HelpTOCNode Title="CreateServicePropertiesWizardViewModel Method " Url="html/ae22a9bb-67ca-dc23-3cd1-ba749c1846fc.htm" />
+        <HelpTOCNode Title="SaveWizardServiceProperties Method " Url="html/eeef8e6c-762e-908d-12c4-fb84e7777ed2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1a827c86-5c65-48c2-89fe-e69b1a74508a" Title="HP.SV.Designer.Extensibility.Extensions.Outline" Url="html/53d0007c-4d00-c229-db85-e32ecd635bc7.htm">
+    <HelpTOCNode Id="91beddc7-157d-44e0-86a9-1a302f04919a" Title="IOutlineExtensions Interface" Url="html/83c4adc8-ac27-f98f-1ab9-ebc7e00f06c5.htm">
+      <HelpTOCNode Id="4650273e-7892-498e-bda9-8799dd5f3fec" Title="IOutlineExtensions Methods" Url="html/f64b7df6-fe3b-337a-6943-359e841f6c30.htm">
+        <HelpTOCNode Title="CreateOutlineRootNodeContextMenu Method " Url="html/57efc065-20dc-1a0c-a88c-fb4b36fe5cbc.htm" />
+        <HelpTOCNode Title="CreateServiceOperationOutlineControl Method " Url="html/699bd734-5595-0748-364b-54442b53de55.htm" />
+        <HelpTOCNode Title="CreateServiceOperationOutlineViewModel Method " Url="html/1fdec887-dce2-ca6d-3182-deb0d2b41ff0.htm" />
+        <HelpTOCNode Title="MultiSelect Method " Url="html/d2570f93-81c7-d851-8fd3-2f47862ebef3.htm" />
+        <HelpTOCNode Title="MultiUnselect Method " Url="html/3e70e7c6-cc55-a1b9-7e97-8823cfe59277.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="12498200-05fe-41b6-8db8-2cd9cf479c6c" Title="HP.SV.Designer.Extensibility.Extensions.ReconfigurationInstructions" Url="html/500449b7-3b27-2a7d-5f58-534ca4191fe2.htm">
+    <HelpTOCNode Id="cb2ab648-7425-4150-af26-4eda51377a1e" Title="IReconfigurationInstructionsExtensions Interface" Url="html/784e330c-6d6a-feb2-4dfe-95ff39d31315.htm">
+      <HelpTOCNode Id="17c47862-4f6c-46f7-8776-bfb1ecd92d7c" Title="IReconfigurationInstructionsExtensions Methods" Url="html/24e7d6c8-2831-c810-7621-e21a66f711be.htm">
+        <HelpTOCNode Title="CreateReconfigureInstructionsControl Method " Url="html/a7ed07f1-510a-4145-eae9-3e1e6f2c6ed1.htm" />
+        <HelpTOCNode Title="CreateReconfigureInstructionsViewModel Method " Url="html/b59649c1-4997-36b5-34ce-a38e05f6cb08.htm" />
+        <HelpTOCNode Title="GetReconfigureInstructionsEndpointLabel Method " Url="html/2a133c40-cbe8-0fbb-d0e8-ac29b458a9d1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2f819c62-f2cd-48ec-9102-0e121fbe2026" Title="HP.SV.Designer.Extensibility.Extensions.ServiceDescriptionEditor" Url="html/3696eef7-1e17-f3de-2dc4-4220d27957cd.htm">
+    <HelpTOCNode Id="c1cbb606-19ee-46bb-9fa1-dc949516ae73" Title="IServiceDescriptionEditorExtensions Interface" Url="html/b141c354-80dd-44a5-e783-e9e01fcb9699.htm">
+      <HelpTOCNode Id="d2bc6ef5-5bf2-4991-ba19-fdeab7e99c69" Title="IServiceDescriptionEditorExtensions Properties" Url="html/2e39992b-42fd-0fbb-c052-3979fa0fbf42.htm">
+        <HelpTOCNode Title="SupportsContentCorrelation Property " Url="html/7aba4a04-d5f0-2f42-7682-1d90006d01b8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1dcf2354-0661-4beb-a7d9-a5f790c8f07a" Title="IServiceDescriptionEditorExtensions Methods" Url="html/abf93d66-0448-c75b-a261-0d8d27ee635b.htm">
+        <HelpTOCNode Title="GetOperationDisplayName Method " Url="html/0782e5c9-380e-7fdb-238a-460c073f974a.htm" />
+        <HelpTOCNode Title="GetOperationShortName Method " Url="html/7480d672-a6f5-e8b0-3351-f92e5f2a5750.htm" />
+        <HelpTOCNode Title="GetSdeNoOperationCustomControls Method " Url="html/580972ef-0c98-0ba2-7aee-af517fc5789b.htm" />
+        <HelpTOCNode Title="GetSdeNoOperationGeneralControl Method " Url="html/22cfdd13-969b-d9f7-faef-bf8e3028015e.htm" />
+        <HelpTOCNode Title="GetSdeNoOperationViewModel Method " Url="html/933e0389-9cee-293e-1e26-4c9a719a8c3a.htm" />
+        <HelpTOCNode Title="GetSdeOperationCustomControls Method " Url="html/918a40df-e7b1-8103-af57-8e5c070cdcb5.htm" />
+        <HelpTOCNode Title="GetSdeOperationGeneralControl Method " Url="html/fdfbd1e2-a850-b1c0-520f-7ff4054e5654.htm" />
+        <HelpTOCNode Title="GetSdeOperationViewModel Method " Url="html/f817cdac-6032-0325-f74d-84807fcd77d1.htm" />
+        <HelpTOCNode Title="GetSdeOutlineCustomActionsControl Method " Url="html/8c6369cb-c975-e5fc-827d-e771129dee35.htm" />
+        <HelpTOCNode Title="GetSupportedMetadataTypes Method " Url="html/e5112c53-94e1-a60f-4c8f-eac835929cf1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="564c93fa-9c36-4c5e-8283-ae8636d4fb08" Title="HP.SV.Designer.Extensibility.Extensions.ServiceEditor" Url="html/09fe17ff-6a04-95c6-12e3-47fd4409e2da.htm">
+    <HelpTOCNode Id="42224620-097b-4484-9164-80c68c279cfb" Title="IServiceEditorExtensions Interface" Url="html/88ebf7df-6a01-469f-e9e6-eb5028fc78fa.htm">
+      <HelpTOCNode Id="aad02533-28bb-498c-a5b7-e65cd60c1771" Title="IServiceEditorExtensions Methods" Url="html/03b5529a-f62a-5ea2-6aae-af0639f9ade8.htm">
+        <HelpTOCNode Title="CreateServiceEndpointsControl Method " Url="html/446c1bf4-4a38-a7bd-657c-14ae5b412ac6.htm" />
+        <HelpTOCNode Title="CreateServiceEndpointsViewModel Method " Url="html/68b8fbbf-33bf-e5f5-80e6-2c50e823124b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b2297478-6c8f-4e56-b6dc-98b64c387c2c" Title="IServiceEndpointsViewModel Interface" Url="html/c14c1e33-e142-9a9c-d698-ef4954075597.htm">
+      <HelpTOCNode Id="85aad800-bc9b-4876-b63a-1bc5e99af6c4" Title="IServiceEndpointsViewModel Properties" Url="html/50722e53-9ee6-a832-debb-3ad35c8125a5.htm">
+        <HelpTOCNode Title="Agent Property " Url="html/ba07707c-5407-5bdd-0187-dfef7d8815e0.htm" />
+        <HelpTOCNode Title="HasChanges Property " Url="html/54a28e52-da98-be6d-9d83-468621247feb.htm" />
+        <HelpTOCNode Title="IsRefreshing Property " Url="html/c1ceb012-3a49-f3d2-ab06-78bec210ed88.htm" />
+        <HelpTOCNode Title="LockingViewModel Property " Url="html/30d9e139-32db-6c5a-481a-479c28917ee0.htm" />
+        <HelpTOCNode Title="ServiceDescription Property " Url="html/f22dd6c2-174c-46bd-20b7-9f40d8323b73.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c11e7177-8b54-4613-9f8f-d4e125ce05d6" Title="IServiceEndpointsViewModel Methods" Url="html/8ee31551-3253-f34e-d8cc-a30c661bf0bb.htm">
+        <HelpTOCNode Title="RefreshAgent Method " Url="html/61b8754f-adbc-6a31-3873-c25dac9260cf.htm" />
+        <HelpTOCNode Title="RefreshEndpoints Method " Url="html/9976d340-3043-dfbb-d474-29c3781f04ba.htm" />
+        <HelpTOCNode Title="RefreshNetworkVirtualization Method " Url="html/9e69978e-f0b9-57d9-2bc4-2021caa9961d.htm" />
+        <HelpTOCNode Title="SetAgentFailureDescription Method " Url="html/0d34da4f-4752-30ce-17ca-fd1674ca8145.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="5c5d1839-8f97-4efe-9380-06970ffdc02e" Title="HP.SV.Designer.Extensibility.Extensions.ServiceTopology" Url="html/cf57e2a4-950d-e525-4eca-7e8fc8d2d2c0.htm">
+    <HelpTOCNode Id="5165c109-9c1c-43a1-ab49-b5727ebfb206" Title="IServiceTopologyExtensions Interface" Url="html/efe98975-7e00-d374-ae9a-8e9fb33c4cbd.htm">
+      <HelpTOCNode Id="83a89af1-14a6-4412-a315-8a476dc4be35" Title="IServiceTopologyExtensions Properties" Url="html/efe27ef9-fb98-de38-1dae-c8b559081177.htm">
+        <HelpTOCNode Title="ServiceTopologyDialogHeight Property " Url="html/5160fe6c-efeb-973d-b482-3686e43697a0.htm" />
+        <HelpTOCNode Title="ServiceTopologyDialogWidth Property " Url="html/dfa40b83-e9e1-0b82-1bbc-be93c9e58190.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a4f080e-9be0-448b-b5bb-04bd9c3a72c7" Title="IServiceTopologyExtensions Methods" Url="html/f9a97cdd-7f39-8f9b-23fe-d4a5c7e959c1.htm">
+        <HelpTOCNode Title="CreateServiceTopologyControl Method " Url="html/f0fc2840-badd-0244-f24e-6368aa2937d1.htm" />
+        <HelpTOCNode Title="CreateServiceTopologyViewModel Method " Url="html/fcca60ae-b7c9-c613-a9f2-6d31e4735458.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="53aed3c5-d7ab-4d5f-9a9f-1a1f4c87537e" Title="HP.SV.Designer.Project.Options.AgentOptions.Generic" Url="html/98f5f047-f856-70a3-4b8c-2ccb56982d77.htm">
+    <HelpTOCNode Id="12e85de6-d06c-4517-871f-c1f6b06f97a8" Title="AddressConfigurationControl Class" Url="html/63cb5e49-da47-08b7-4d97-8e9659114a3e.htm">
+      <HelpTOCNode Title="AddressConfigurationControl Constructor " Url="html/80aaf856-5754-1ed4-bde0-3fe6d05b6822.htm" />
+      <HelpTOCNode Id="3cf84813-bdcd-4963-96e2-74d9275d7806" Title="AddressConfigurationControl Methods" Url="html/06f40685-3804-cbe0-3b30-b7d4b612cc67.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/9017fb87-d8f7-12da-83bb-991684e6b36f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2319df03-3452-468f-82f0-663080f22d75" Title="AgentPropertyViewModel Class" Url="html/b2edb5d3-6f04-6004-0788-9d03cdb87e50.htm">
+      <HelpTOCNode Id="7d757100-e3da-4489-a19d-2bb0e399a250" Title="AgentPropertyViewModel Constructor " Url="html/90d09256-21c4-1cd7-3287-df36894d3300.htm">
+        <HelpTOCNode Title="AgentPropertyViewModel Constructor " Url="html/e28903b3-daaa-0d13-38c2-8d7251a7f0e5.htm" />
+        <HelpTOCNode Title="AgentPropertyViewModel Constructor (Object, PropertyInfo, String, PropertyInfo, String)" Url="html/1e5b3f8e-a488-a026-a963-9eb2aac7b37d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="AgentPropertyViewModel Properties" Url="html/60f6e9c7-d5d8-3ac0-cad8-04755990e27e.htm" />
+      <HelpTOCNode Title="AgentPropertyViewModel Methods" Url="html/23c04390-50d1-c7b4-dd12-0acb9775fd60.htm" />
+      <HelpTOCNode Title="AgentPropertyViewModel Events" Url="html/953eac63-b5dc-c5ef-1937-825e31721249.htm" />
+      <HelpTOCNode Title="AgentPropertyViewModel Fields" Url="html/79db9049-ffca-b7ff-8017-a8072c66944e.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a146fe68-2729-4f0b-9ce3-82b0e9d0fd1c" Title="GenericAgentOptions Class" Url="html/188e49b5-fc8f-f3f7-2bd4-ab48d172e90a.htm">
+      <HelpTOCNode Title="GenericAgentOptions Constructor " Url="html/302aeb08-b343-6b94-c741-7ea32dd5610e.htm" />
+      <HelpTOCNode Id="b5d2b7f8-cffd-44e6-a9a2-6a9426ade9fc" Title="GenericAgentOptions Methods" Url="html/efa91f24-6878-47dc-dd69-e3a378431445.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/7a64c80d-02b6-f559-4c90-0b58594ade48.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1bd7ff6e-3e98-4705-931a-2af89cabf8bd" Title="GenericAgentOptionsViewModel(TAgentConfiguration) Class" Url="html/b77d029a-ee3c-4fa6-95e0-10ec5ee3991d.htm">
+      <HelpTOCNode Title="GenericAgentOptionsViewModel(TAgentConfiguration) Constructor " Url="html/e31099fa-4f81-cef9-195d-cf54bb741dcd.htm" />
+      <HelpTOCNode Id="2471b29f-6e5b-43b4-9481-b97ab26f4a2f" Title="GenericAgentOptionsViewModel(TAgentConfiguration) Properties" Url="html/70bb8a5d-34d4-c4e5-f2c6-5b402012655b.htm">
+        <HelpTOCNode Title="AgentProperties Property " Url="html/492b725c-2fdb-ae18-beed-d91ec98189b1.htm" />
+        <HelpTOCNode Title="Configuration Property " Url="html/7b463993-6c96-6d16-96b3-10917748ea6d.htm" />
+        <HelpTOCNode Title="HasChanges Property " Url="html/f2df5b09-bd5a-eaa6-eddf-e2ccbd987c76.htm" />
+        <HelpTOCNode Title="RawConfiguration Property " Url="html/e8729582-d54c-339b-3400-7c3659015197.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="71b65551-1fec-4789-874f-1d46f6a24d5a" Title="GenericAgentOptionsViewModel(TAgentConfiguration) Methods" Url="html/d8b61e71-b4b7-dffd-d3bd-533c1ae4e1fe.htm">
+        <HelpTOCNode Title="GetSpecificAgentConfigurationPart Method " Url="html/4abf42ed-8a70-461d-20b1-c8b69d38fad8.htm" />
+        <HelpTOCNode Title="SavePropertiesToSpecificConfiguration Method " Url="html/338615b7-6e69-a55d-4eed-587b84fd7ddd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="889d3ae4-b4ec-4417-b758-eaa85d888714" Title="GenericAgentOptionsViewModelBase Class" Url="html/14b092f9-510c-ce4f-7dd9-ea27a08df442.htm">
+      <HelpTOCNode Title="GenericAgentOptionsViewModelBase Constructor " Url="html/dd994cea-71ae-1022-37dc-fc97410ab03f.htm" />
+      <HelpTOCNode Id="6d03b6c1-6cf3-423c-bce8-81061d97cab0" Title="GenericAgentOptionsViewModelBase Properties" Url="html/e550087f-3a68-62d7-d86f-a7072863e774.htm">
+        <HelpTOCNode Title="HasChanges Property " Url="html/fd9be02f-533f-e5fb-0270-e98c2002a88e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d5c2fc22-e81d-4523-8198-c244079182f5" Title="GenericAgentOptionsViewModelBase Methods" Url="html/7b24c62c-efed-f91f-cd1c-c03c24663b81.htm">
+        <HelpTOCNode Title="GetSpecificAgentConfigurationPart Method " Url="html/403a4c24-13ae-e0c4-fc19-9efadf1e4385.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ff407a3a-2019-4f70-a765-346687a49b24" Title="PropertyViewModelBaseWpf Class" Url="html/be98d308-3ce2-78e9-812c-2bde87d46ae5.htm">
+      <HelpTOCNode Id="9cec6358-79fe-4e51-97e3-cd89fa112548" Title="PropertyViewModelBaseWpf Constructor " Url="html/46ff3109-e311-6637-f0cf-21476977eb9c.htm">
+        <HelpTOCNode Title="PropertyViewModelBaseWpf Constructor " Url="html/4dfb24ad-5320-00b0-896d-2cb79faa8935.htm" />
+        <HelpTOCNode Title="PropertyViewModelBaseWpf Constructor (Object, PropertyInfo, String, PropertyInfo, String)" Url="html/3f08758b-7cda-007a-e93f-e5ffce891f12.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e0f1847b-2902-40ac-8ff4-0a0efcfb397c" Title="PropertyViewModelBaseWpf Properties" Url="html/224b0153-0a16-49f6-75c2-f79a9d32d19b.htm">
+        <HelpTOCNode Title="EditingControl Property " Url="html/cf74b96a-c555-7467-161e-7bb65b920c37.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38241e19-407f-49e1-907d-3b4b245c0be4" Title="PropertyViewModelBaseWpf Methods" Url="html/4b140953-e891-63b7-6407-2fe734106b6c.htm">
+        <HelpTOCNode Title="CreateEditingControl Method " Url="html/83c8b4b1-b793-28dd-47e5-c3bc1ecf549a.htm" />
+        <HelpTOCNode Title="CreateCheckBoxControl Method " Url="html/0c748028-3bdc-1be1-f6ef-5db5d6705add.htm" />
+        <HelpTOCNode Title="CreateTextBoxControl Method " Url="html/f87ee991-b19d-c390-e4d3-8c8114e46b30.htm" />
+        <HelpTOCNode Title="FirePropertyChanged Method " Url="html/25a1a386-70ab-4764-455f-ee6dbbee9319.htm" />
+        <HelpTOCNode Title="PropertyNameToLabel Method " Url="html/749a0b13-50be-55c9-aae2-3473ea6ba89c.htm" />
+        <HelpTOCNode Title="VerifyPropertyName Method " Url="html/b80aba99-10b6-9da2-266f-1c5075991384.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3eb865df-8919-4331-9549-a7aa8522a9d9" Title="PropertyViewModelBaseWpf Events" Url="html/f3d56f8e-bb72-b86e-18b6-fc353b613955.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/e30073e4-7e1b-b242-b32f-11d05d8e11c8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="PropertyViewModelBaseWpf Fields" Url="html/5ed9a367-571e-3947-5f0c-5a51ec8e74f7.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="a9267a7c-537f-45d0-9880-5a1339a9deb9" Title="HP.SV.Designer.Scripts" Url="html/704f1438-b8d7-d4c0-53a3-28feb908fcc3.htm">
+    <HelpTOCNode Id="b9cf3534-83e9-417d-8e48-17f456d56e0f" Title="DefaultScriptType Class" Url="html/a8134c55-dda9-f51f-c70d-318a371cd23e.htm">
+      <HelpTOCNode Title="DefaultScriptType Constructor " Url="html/ba923a41-400b-9bea-daef-dc2fbe198c1a.htm" />
+      <HelpTOCNode Title="DefaultScriptType Properties" Url="html/468fc88e-e3ed-7ee2-7b12-5c8186e3998c.htm" />
+      <HelpTOCNode Id="c32a8156-e19f-432b-96ff-675ef14fca1d" Title="DefaultScriptType Methods" Url="html/a8c0bcb7-6964-fccd-c8ce-0db144dcf5cb.htm">
+        <HelpTOCNode Title="GetNewScriptContent Method " Url="html/cfb91515-67be-c392-549f-a012a9d25fd1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8181a72f-18c8-45d9-9bee-4068a2739242" Title="ScriptType Class" Url="html/6a0c0bba-e06b-7be3-6e29-c2067d32c2b5.htm">
+      <HelpTOCNode Title="ScriptType Constructor " Url="html/ccbb415b-7835-dc0c-fde5-20a3ac87587e.htm" />
+      <HelpTOCNode Id="20638f9b-9d4b-4911-887f-efc01b6b66b4" Title="ScriptType Properties" Url="html/f8b67f2b-85a9-b1b4-54db-42182ae18c95.htm">
+        <HelpTOCNode Title="DesignerCoreInst Property " Url="html/7191105b-875d-fefb-3892-5ca1b8a0eabc.htm" />
+        <HelpTOCNode Title="Extension Property " Url="html/b26509d1-a60c-6b74-10c2-d94692b2b59d.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/c4465c8f-8322-1cee-0f76-e42071154821.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80b7df1f-a157-4aa0-9e81-31ad67f2bea7" Title="ScriptType Methods" Url="html/512a9f7e-d289-8a3b-28ff-e155e46af3db.htm">
+        <HelpTOCNode Title="GetNewScriptContent Method " Url="html/ff69fc92-106b-758c-a290-a793aa6de062.htm" />
+        <HelpTOCNode Title="GetResourceContent Method " Url="html/09c0828a-208e-cd80-4c2b-4b4dc068b609.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8b714c7a-8a68-48c6-a9c6-267f771b853b" Title="ScriptTypeCs Class" Url="html/905ea30c-0e94-053e-3c2c-3ba2e745e983.htm">
+      <HelpTOCNode Title="ScriptTypeCs Constructor " Url="html/a894adab-754b-3746-7ddb-3f0d7a0d9936.htm" />
+      <HelpTOCNode Title="ScriptTypeCs Properties" Url="html/2e4adc43-e503-1657-fcd5-73fdf6636822.htm" />
+      <HelpTOCNode Id="56e50555-d686-4b5c-b210-306698241fc8" Title="ScriptTypeCs Methods" Url="html/2c8be465-ddb2-a870-9702-9096cdca1b67.htm">
+        <HelpTOCNode Title="GetNewScriptContent Method " Url="html/9f673206-bed9-c617-b2b1-157480bd6757.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="06c6f9dd-4ae4-41e0-8168-eb246ef4e30d" Title="ScriptTypeCs Fields" Url="html/5fbaa525-b393-11f2-1478-ab5061ce678e.htm">
+        <HelpTOCNode Title="Extension Field" Url="html/fa10a9d7-74d1-a7d4-853c-f802e57f4846.htm" />
+        <HelpTOCNode Title="TemplateResourceKey Field" Url="html/73699273-ad39-6fca-2757-929c796e8b95.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a2312536-7bc4-4fc9-bdd3-fb55baa6de7d" Title="ScriptTypeJs Class" Url="html/e4fced50-e60c-5c7e-9e0b-f17332a25ebb.htm">
+      <HelpTOCNode Title="ScriptTypeJs Constructor " Url="html/4cfcfdf5-781e-a84d-38de-51d87aaa49a9.htm" />
+      <HelpTOCNode Title="ScriptTypeJs Properties" Url="html/903565f9-36a1-fb7e-08c6-6b1183fa3732.htm" />
+      <HelpTOCNode Id="14e86496-55c3-43c5-9828-e7f962a52e05" Title="ScriptTypeJs Methods" Url="html/9715d304-8bac-9343-10e3-6502a552d572.htm">
+        <HelpTOCNode Title="GetNewScriptContent Method " Url="html/532af9b1-51c6-bea6-1f19-4d77a3d0c9fc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ce6f6429-99b7-4aca-a855-2b750166461d" Title="ScriptTypeJs Fields" Url="html/5fdd6c5f-e708-56cc-4b9b-ab0af7764f99.htm">
+        <HelpTOCNode Title="Extension Field" Url="html/faf8934f-2ba9-ccfc-8dd9-757f10d18418.htm" />
+        <HelpTOCNode Title="TemplateResourceKey Field" Url="html/c6addad2-c248-839a-3823-302f947e4a50.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab25afd1-c8e8-41bb-b735-f281913077ac" Title="ScriptTypeRegistry Class" Url="html/d8cb65d3-4247-2081-973c-f7fa9d696c75.htm">
+      <HelpTOCNode Id="a5603e76-26b6-4c89-99f5-6bda5b84e721" Title="ScriptTypeRegistry Properties" Url="html/9f1c9923-7823-b151-3b94-9286813ada8f.htm">
+        <HelpTOCNode Title="DefaultScriptType Property " Url="html/b8d1aae2-4327-cdb8-5acf-7d6479164c03.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/a08160c6-f5e7-fd07-e5f0-7e4bfb7ded04.htm" />
+        <HelpTOCNode Title="Items Property " Url="html/c6411290-9adf-73d2-bf50-7ef7b2ea28bf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bdeb15e8-7273-4e4b-9e6e-798863b8fbce" Title="ScriptTypeRegistry Methods" Url="html/6b4a4213-1289-fd8d-182d-f5b7a74eac12.htm">
+        <HelpTOCNode Title="GetScriptTypeForFileName Method " Url="html/ae678d3f-221e-4c76-ee22-7c2bdb4d34dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="180867f6-d9ae-4a79-9004-2e0066d455bb" Title="HP.SV.Designer.Utils.DataDriving" Url="html/ea4e4be8-54a4-ee38-6a10-d3f0000cad70.htm">
+    <HelpTOCNode Id="c2588d92-b1ef-4bb5-8746-cbd992cf7e0d" Title="DataSourceType Class" Url="html/0e470ba8-4d22-ad7c-83c3-b006781a5477.htm">
+      <HelpTOCNode Title="DataSourceType Constructor " Url="html/e0ba8e07-5a77-6dd2-6c4a-9f2c24fd482a.htm" />
+      <HelpTOCNode Id="c84a701f-3553-4096-adf6-3d35d3e922c0" Title="DataSourceType Properties" Url="html/b6e63f71-f1e0-4d6b-2021-1265307fbe5e.htm">
+        <HelpTOCNode Title="ExistingDataSourceOptionDescription Property " Url="html/43399056-0e7d-3107-9cb8-830e9adf6707.htm" />
+        <HelpTOCNode Title="Factory Property " Url="html/78dae422-84ab-08f8-bfe6-68bcf9b9da36.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/50b23e45-2a46-ae86-c945-d60fb9d44d86.htm" />
+        <HelpTOCNode Title="NewDataSourceOptionDescription Property " Url="html/779f36c9-0dc3-7d33-b35a-d5bc1c0288a2.htm" />
+        <HelpTOCNode Title="Properties Property " Url="html/4cce27cb-cdaf-906b-2ad6-620e2fa40d8b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a9612645-010d-4561-aa7e-2cc4b9de38db" Title="DesignerDataDrivingUtils Class" Url="html/c8d86a8f-5e9b-50ce-29e1-a4a4cf203fc5.htm">
+      <HelpTOCNode Id="e29dcacc-4765-4260-8413-af2524c1eccd" Title="DesignerDataDrivingUtils Properties" Url="html/b96acce8-82ac-4785-f62b-8083a558d6b5.htm">
+        <HelpTOCNode Title="DesignerCoreInst Property " Url="html/1efb0d10-bf80-13e7-0628-51d10a2fc880.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="865c64f4-31f9-451a-8acf-8be306be02d7" Title="DesignerDataDrivingUtils Methods" Url="html/090dfdc3-e85a-4fb4-1ca9-6488028799fa.htm">
+        <HelpTOCNode Title="FindDataSourceOfType Method " Url="html/8fd998b7-e668-2ebb-1c11-9c763f3abc07.htm" />
+        <HelpTOCNode Title="GetDataSourceTypes Method " Url="html/be740f68-dc46-9654-d8f1-606c018a171c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d4566c3a-46d7-4f65-96fa-8e18c39acc7a" Title="HP.SV.Designer.ViewModel.SimulationDataEditor.RulesPane.Rule.ScriptedRule.Compilation" Url="html/5c9e986e-805c-3879-6545-aeff7cda1cb0.htm">
+    <HelpTOCNode Id="c29fb639-7f36-4453-987b-2e3e56751695" Title="CompilationErrorWithEntityId Class" Url="html/7e57f2d5-a243-c8cf-4e16-87c41447e4d8.htm">
+      <HelpTOCNode Title="CompilationErrorWithEntityId Constructor " Url="html/32caa107-1535-415b-ec93-223aeefc4ede.htm" />
+      <HelpTOCNode Id="2163c1f1-6cfe-44d6-b867-8e4f7f9d72f0" Title="CompilationErrorWithEntityId Properties" Url="html/3d433327-64f5-f367-2eb6-d383c4a48be7.htm">
+        <HelpTOCNode Title="ContentFileId Property " Url="html/4aad7baa-3538-1af0-1e9a-9cfe22540f60.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CompilationErrorWithEntityId Methods" Url="html/74d54406-1299-1eda-927a-b92866424e74.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="6c293dd7-78dc-4814-9d0e-6dc04f8736ba" Title="CompilationExceptionMapper Class" Url="html/4419b25f-98dd-91eb-2e60-03ff846a5fcd.htm">
+      <HelpTOCNode Title="CompilationExceptionMapper Constructor " Url="html/7cfd75f0-f26e-181c-d9f7-13b2cfbe2214.htm" />
+      <HelpTOCNode Id="8352a223-06c6-4fec-b624-ad73ca463e05" Title="CompilationExceptionMapper Methods" Url="html/ee39b2cb-9cc3-ca72-0493-b42393dc3583.htm">
+        <HelpTOCNode Title="Map Method " Url="html/9f789b65-1504-9283-ffd8-337cdac16f9b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="023ae4a1-e836-4222-a82b-1bc3aa910201" Title="HP.SV.Designer.Welcome" Url="html/7d510cc4-1c82-ea16-3f97-ed2a00896227.htm">
+    <HelpTOCNode Id="44f775e7-e4d6-48dd-8503-a220d57c6e2f" Title="WelcomeProvider Class" Url="html/fdf42356-ea2d-beef-68fd-00b6ed14aab1.htm">
+      <HelpTOCNode Id="e67608b6-5709-4326-842a-1d5e17e98e94" Title="WelcomeProvider Properties" Url="html/c20afe14-505c-67cb-6fd0-269fbd6ddbcb.htm">
+        <HelpTOCNode Title="DesignerCoreInst Property " Url="html/513b34b9-d6f4-5834-f703-54bc87df211e.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/9cdfb894-7cca-2215-8a1e-5cef630290f0.htm" />
+        <HelpTOCNode Title="IsLoading Property " Url="html/1923e2d0-175f-a841-7789-588e6a2a89cb.htm" />
+        <HelpTOCNode Title="LoadingWelcome Property " Url="html/503a8d55-4242-6f50-0beb-823b8ecd4389.htm" />
+        <HelpTOCNode Title="LoadWelcomeFailed Property " Url="html/a784c7b3-c281-6ba3-4861-8b1155a4e90a.htm" />
+        <HelpTOCNode Title="WelcomeGroups Property " Url="html/163cdf76-8c6d-e402-047b-7d60c901a5bf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="69dfde7f-2c20-46f1-a35d-a18ef6595609" Title="WelcomeProvider Methods" Url="html/62d98fad-21f6-0999-8aba-76525ad74474.htm">
+        <HelpTOCNode Title="LoadCurrentData Method " Url="html/749e3f46-90e3-e625-eefe-4a72bde1db2f.htm" />
+        <HelpTOCNode Title="StartLoadingTask Method " Url="html/665854aa-2c73-0540-1dee-edc495f50039.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

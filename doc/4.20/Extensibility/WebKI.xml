@@ -1,0 +1,1031 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AddNewScriptControl class">
+    <HelpKINode Title="AddNewScriptControl Class" Url="html/bd463ab7-038f-5475-c1a2-fc02e7a36904.htm" />
+    <HelpKINode Title="constructor" Url="html/a7b52c8c-a18d-458a-e346-c52cf8c0ad51.htm" />
+    <HelpKINode Title="methods" Url="html/7981a18e-fa0c-9299-7dfd-3eb6a3e9db35.htm" />
+    <HelpKINode Title="properties" Url="html/5bb12485-ed64-9c15-2c5c-c06f9b5b2b5f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddNewScriptControl.AddNewScriptControl constructor" Url="html/a7b52c8c-a18d-458a-e346-c52cf8c0ad51.htm" />
+  <HelpKINode Title="AddNewScriptControl.InitializeComponent method" Url="html/e9596c84-2f6a-742f-fd42-c789387bfe11.htm" />
+  <HelpKINode Title="AddNewScriptControl.ScriptName property" Url="html/ef9b67fb-0ea9-955a-5b1a-9b7d5751b2c2.htm" />
+  <HelpKINode Title="AddNewScriptControl.ScriptTypes property" Url="html/f38bd09b-57c9-b20c-ad80-f24eca2d25fe.htm" />
+  <HelpKINode Title="AddNewScriptControl.SelectedScriptType property" Url="html/d6bad0ea-207d-2a4a-aff4-4ad7265fd649.htm" />
+  <HelpKINode Title="AddNewScriptControl.SetValidationError method" Url="html/c8f6267c-6148-28a4-84bd-b3a02c1b1e68.htm" />
+  <HelpKINode Title="AddressConfigurationControl class">
+    <HelpKINode Title="AddressConfigurationControl Class" Url="html/63cb5e49-da47-08b7-4d97-8e9659114a3e.htm" />
+    <HelpKINode Title="constructor" Url="html/80aaf856-5754-1ed4-bde0-3fe6d05b6822.htm" />
+    <HelpKINode Title="methods" Url="html/06f40685-3804-cbe0-3b30-b7d4b612cc67.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddressConfigurationControl.AddressConfigurationControl constructor" Url="html/80aaf856-5754-1ed4-bde0-3fe6d05b6822.htm" />
+  <HelpKINode Title="AddressConfigurationControl.InitializeComponent method" Url="html/9017fb87-d8f7-12da-83bb-991684e6b36f.htm" />
+  <HelpKINode Title="Agent property">
+    <HelpKINode Title="GenericEndpointViewModel.Agent Property " Url="html/ffc1006b-a5fa-04bc-44ba-9f11881d3031.htm" />
+    <HelpKINode Title="IServiceEndpointsViewModel.Agent Property " Url="html/ba07707c-5407-5bdd-0187-dfef7d8815e0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentDefinitions property" Url="html/284b2610-a227-651e-da1f-2348ae7244f8.htm" />
+  <HelpKINode Title="AgentProperties property" Url="html/492b725c-2fdb-ae18-beed-d91ec98189b1.htm" />
+  <HelpKINode Title="AgentPropertyViewModel class">
+    <HelpKINode Title="AgentPropertyViewModel Class" Url="html/b2edb5d3-6f04-6004-0788-9d03cdb87e50.htm" />
+    <HelpKINode Title="constructor" Url="html/90d09256-21c4-1cd7-3287-df36894d3300.htm" />
+    <HelpKINode Title="events" Url="html/953eac63-b5dc-c5ef-1937-825e31721249.htm" />
+    <HelpKINode Title="fields" Url="html/79db9049-ffca-b7ff-8017-a8072c66944e.htm" />
+    <HelpKINode Title="methods" Url="html/23c04390-50d1-c7b4-dd12-0acb9775fd60.htm" />
+    <HelpKINode Title="properties" Url="html/60f6e9c7-d5d8-3ac0-cad8-04755990e27e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AgentPropertyViewModel.AgentPropertyViewModel constructor" Url="html/90d09256-21c4-1cd7-3287-df36894d3300.htm" />
+  <HelpKINode Title="AgentType property" Url="html/b344e181-cb05-ce43-6532-b8612cb4b45e.htm" />
+  <HelpKINode Title="AllowEmptyRequestBody property" Url="html/67ba67dd-d7fc-bb73-a9dc-f986c3113d7e.htm" />
+  <HelpKINode Title="AllowEmptyResponseBody property" Url="html/9583bcea-0d06-229f-8c5e-14af04130cb4.htm" />
+  <HelpKINode Title="Attributes property" Url="html/e4c9f98d-8d3d-4c08-a0e6-908270b032cb.htm" />
+  <HelpKINode Title="BaseProtocolResources property" Url="html/65070b6b-85ef-588c-4ed8-4022be1ca1b9.htm" />
+  <HelpKINode Title="BuildServiceUri method" Url="html/836d9b63-d21d-d999-5dcc-c2f164ae530f.htm" />
+  <HelpKINode Title="CanSuggestNewVirtualEndpointAddress method" Url="html/340ec69b-594b-d6b1-8ba7-3662a962cbe1.htm" />
+  <HelpKINode Title="ClientLibraries property" Url="html/da931aea-8c72-01c1-e5c0-a38194c5a77a.htm" />
+  <HelpKINode Title="CompilationErrorWithEntityId class">
+    <HelpKINode Title="CompilationErrorWithEntityId Class" Url="html/7e57f2d5-a243-c8cf-4e16-87c41447e4d8.htm" />
+    <HelpKINode Title="constructor" Url="html/32caa107-1535-415b-ec93-223aeefc4ede.htm" />
+    <HelpKINode Title="methods" Url="html/74d54406-1299-1eda-927a-b92866424e74.htm" />
+    <HelpKINode Title="properties" Url="html/3d433327-64f5-f367-2eb6-d383c4a48be7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CompilationErrorWithEntityId.CompilationErrorWithEntityId constructor" Url="html/32caa107-1535-415b-ec93-223aeefc4ede.htm" />
+  <HelpKINode Title="CompilationErrorWithEntityId.ContentFileId property" Url="html/4aad7baa-3538-1af0-1e9a-9cfe22540f60.htm" />
+  <HelpKINode Title="CompilationExceptionMapper class">
+    <HelpKINode Title="CompilationExceptionMapper Class" Url="html/4419b25f-98dd-91eb-2e60-03ff846a5fcd.htm" />
+    <HelpKINode Title="constructor" Url="html/7cfd75f0-f26e-181c-d9f7-13b2cfbe2214.htm" />
+    <HelpKINode Title="methods" Url="html/ee39b2cb-9cc3-ca72-0493-b42393dc3583.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CompilationExceptionMapper.CompilationExceptionMapper constructor" Url="html/7cfd75f0-f26e-181c-d9f7-13b2cfbe2214.htm" />
+  <HelpKINode Title="CompilationExceptionMapper.Map method" Url="html/9f789b65-1504-9283-ffd8-337cdac16f9b.htm" />
+  <HelpKINode Title="Condition property" Url="html/4dbf3028-8880-36a3-d4e2-ae9f2960793a.htm" />
+  <HelpKINode Title="Configuration property" Url="html/7b463993-6c96-6d16-96b3-10917748ea6d.htm" />
+  <HelpKINode Title="ContentFileId property" Url="html/4aad7baa-3538-1af0-1e9a-9cfe22540f60.htm" />
+  <HelpKINode Title="ControlMode enumeration" Url="html/694e5c57-c144-0a8c-a45d-7f162f5f908e.htm" />
+  <HelpKINode Title="CreateActivityControl method" Url="html/7383f947-2147-1824-4184-950fdd5262f6.htm" />
+  <HelpKINode Title="CreateActivityEndpointControl method" Url="html/ed755103-c8fd-35f2-f007-e6341ddee9ba.htm" />
+  <HelpKINode Title="CreateActivityEndpointViewModel method" Url="html/61ea78f1-dcf3-52dc-67c1-d06f0307ab6c.htm" />
+  <HelpKINode Title="CreateActivityViewModel method" Url="html/cdeba27f-92d5-8e79-354d-e462c7f9c2b6.htm" />
+  <HelpKINode Title="CreateAgentInfoControl method" Url="html/b7bacb44-5a94-711e-bfca-37dfcb130f94.htm" />
+  <HelpKINode Title="CreateAgentInfoViewModel method" Url="html/f02024f1-faa5-d605-6dfe-1b87f2dfa53b.htm" />
+  <HelpKINode Title="CreateAgentOptionsControl method" Url="html/bcedadc1-2e49-fca2-9257-f8c88ab09989.htm" />
+  <HelpKINode Title="CreateAgentOptionsViewModel method" Url="html/7bb5d22a-263a-78ba-4568-90d650d67740.htm" />
+  <HelpKINode Title="CreateAndSetServiceDescriptionBuilder method" Url="html/e6f397a9-819f-978c-5b9d-bb9c25de03b1.htm" />
+  <HelpKINode Title="CreateCheckBoxControl method" Url="html/0c748028-3bdc-1be1-f6ef-5db5d6705add.htm" />
+  <HelpKINode Title="CreateEditingControl method" Url="html/83c8b4b1-b793-28dd-47e5-c3bc1ecf549a.htm" />
+  <HelpKINode Title="CreateEndpointViewModel method">
+    <HelpKINode Title="IAgentDefinitionExt.CreateEndpointViewModel Method " Url="html/56575938-908f-c28b-29c8-a4adb2283b8f.htm" />
+    <HelpKINode Title="IEndpointEditingExtensions.CreateEndpointViewModel Method " Url="html/920a4821-1510-0fc8-71bf-687fc39c6c27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateMultiAgentsWrapper method" Url="html/ed448be5-80e4-0931-8ad0-f996ceed963c.htm" />
+  <HelpKINode Title="CreateOutlineRootNodeContextMenu method" Url="html/57efc065-20dc-1a0c-a88c-fb4b36fe5cbc.htm" />
+  <HelpKINode Title="CreateRealEndpointControl method">
+    <HelpKINode Title="IAgentDefinitionExt.CreateRealEndpointControl Method " Url="html/e1a29147-10b6-765b-5c1d-cb2fe39a9750.htm" />
+    <HelpKINode Title="IEndpointEditingExtensions.CreateRealEndpointControl Method " Url="html/a471cd59-5d6f-21a0-db40-f2513aa4e46e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateReconfigureInstructionsControl method" Url="html/a7ed07f1-510a-4145-eae9-3e1e6f2c6ed1.htm" />
+  <HelpKINode Title="CreateReconfigureInstructionsViewModel method" Url="html/b59649c1-4997-36b5-34ce-a38e05f6cb08.htm" />
+  <HelpKINode Title="CreateServiceEndpointFormatter method">
+    <HelpKINode Title="IAgentDefinitionExt.CreateServiceEndpointFormatter Method " Url="html/ffcd147b-80b7-1e84-c1af-f2ee18bdde39.htm" />
+    <HelpKINode Title="IEndpointEditingExtensions.CreateServiceEndpointFormatter Method " Url="html/ca9fa275-7944-74de-0d3c-5aa03e39a8c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateServiceEndpointsControl method" Url="html/446c1bf4-4a38-a7bd-657c-14ae5b412ac6.htm" />
+  <HelpKINode Title="CreateServiceEndpointsViewModel method" Url="html/68b8fbbf-33bf-e5f5-80e6-2c50e823124b.htm" />
+  <HelpKINode Title="CreateServiceOperationOutlineControl method" Url="html/699bd734-5595-0748-364b-54442b53de55.htm" />
+  <HelpKINode Title="CreateServiceOperationOutlineViewModel method" Url="html/1fdec887-dce2-ca6d-3182-deb0d2b41ff0.htm" />
+  <HelpKINode Title="CreateServicePropertiesWizardControl method" Url="html/1448b6ca-857f-2c5d-36c4-8fcd87515dac.htm" />
+  <HelpKINode Title="CreateServicePropertiesWizardPageProviders method" Url="html/3ff14282-c253-fdd6-a7c4-ae4c7f761619.htm" />
+  <HelpKINode Title="CreateServicePropertiesWizardViewModel method" Url="html/ae22a9bb-67ca-dc23-3cd1-ba749c1846fc.htm" />
+  <HelpKINode Title="CreateServiceTopologyControl method" Url="html/f0fc2840-badd-0244-f24e-6368aa2937d1.htm" />
+  <HelpKINode Title="CreateServiceTopologyViewModel method" Url="html/fcca60ae-b7c9-c613-a9f2-6d31e4735458.htm" />
+  <HelpKINode Title="CreateTextBoxControl method" Url="html/f87ee991-b19d-c390-e4d3-8c8114e46b30.htm" />
+  <HelpKINode Title="CreateVirtualEndpointControl method">
+    <HelpKINode Title="IAgentDefinitionExt.CreateVirtualEndpointControl Method " Url="html/9dc3e289-f2ba-c9c3-ae42-aa4d8eca7d16.htm" />
+    <HelpKINode Title="IEndpointEditingExtensions.CreateVirtualEndpointControl Method " Url="html/828ccdee-1724-5114-f55f-358aa5c648ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CredentialsStoreExtensions property" Url="html/c35ee53d-cb0d-692d-f352-7a9943b05b86.htm" />
+  <HelpKINode Title="DataModelEditorExtensions property" Url="html/cce55085-06b8-afc7-7f10-c46625b30c72.htm" />
+  <HelpKINode Title="DataSourceType class">
+    <HelpKINode Title="DataSourceType Class" Url="html/0e470ba8-4d22-ad7c-83c3-b006781a5477.htm" />
+    <HelpKINode Title="constructor" Url="html/e0ba8e07-5a77-6dd2-6c4a-9f2c24fd482a.htm" />
+    <HelpKINode Title="properties" Url="html/b6e63f71-f1e0-4d6b-2021-1265307fbe5e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DataSourceType.DataSourceType constructor" Url="html/e0ba8e07-5a77-6dd2-6c4a-9f2c24fd482a.htm" />
+  <HelpKINode Title="DataSourceType.ExistingDataSourceOptionDescription property" Url="html/43399056-0e7d-3107-9cb8-830e9adf6707.htm" />
+  <HelpKINode Title="DataSourceType.Factory property" Url="html/78dae422-84ab-08f8-bfe6-68bcf9b9da36.htm" />
+  <HelpKINode Title="DataSourceType.Name property" Url="html/50b23e45-2a46-ae86-c945-d60fb9d44d86.htm" />
+  <HelpKINode Title="DataSourceType.NewDataSourceOptionDescription property" Url="html/779f36c9-0dc3-7d33-b35a-d5bc1c0288a2.htm" />
+  <HelpKINode Title="DataSourceType.Properties property" Url="html/4cce27cb-cdaf-906b-2ad6-620e2fa40d8b.htm" />
+  <HelpKINode Title="DefaultCredentialsStoreExtensions class">
+    <HelpKINode Title="DefaultCredentialsStoreExtensions Class" Url="html/cd982a07-8644-7026-14b7-3fe808c180fd.htm" />
+    <HelpKINode Title="constructor" Url="html/96862b66-8748-42b2-61f1-b80330091bc7.htm" />
+    <HelpKINode Title="methods" Url="html/9c38e4ec-5b14-ab2e-1550-19564973b6c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultCredentialsStoreExtensions.DefaultCredentialsStoreExtensions constructor" Url="html/96862b66-8748-42b2-61f1-b80330091bc7.htm" />
+  <HelpKINode Title="DefaultCredentialsStoreExtensions.GetAdditionalIdentityUsages method" Url="html/c8fca2e9-7cd7-1f51-6692-e0f10895491d.htm" />
+  <HelpKINode Title="DefaultCredentialsStoreExtensions.GetAllIdentityUsages method" Url="html/8a03c7f6-ca06-8fc1-9f39-03110cb507d8.htm" />
+  <HelpKINode Title="DefaultCredentialsStoreExtensions.GetIdentityEditControl method" Url="html/1e9e1e22-c54d-96b3-f19c-6ab2e9d7c2fb.htm" />
+  <HelpKINode Title="DefaultCredentialsStoreExtensions.GetIdentityTableControl method" Url="html/7192b3b7-5b40-0aa1-bec2-033601cc3834.htm" />
+  <HelpKINode Title="DefaultScriptType class">
+    <HelpKINode Title="DefaultScriptType Class" Url="html/a8134c55-dda9-f51f-c70d-318a371cd23e.htm" />
+    <HelpKINode Title="constructor" Url="html/ba923a41-400b-9bea-daef-dc2fbe198c1a.htm" />
+    <HelpKINode Title="methods" Url="html/a8c0bcb7-6964-fccd-c8ce-0db144dcf5cb.htm" />
+    <HelpKINode Title="properties" Url="html/468fc88e-e3ed-7ee2-7b12-5c8186e3998c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultScriptType property" Url="html/b8d1aae2-4327-cdb8-5acf-7d6479164c03.htm" />
+  <HelpKINode Title="DefaultScriptType.DefaultScriptType constructor" Url="html/ba923a41-400b-9bea-daef-dc2fbe198c1a.htm" />
+  <HelpKINode Title="DefaultScriptType.GetNewScriptContent method" Url="html/cfb91515-67be-c392-549f-a012a9d25fd1.htm" />
+  <HelpKINode Title="Description property" Url="html/b1dd3306-b9c2-8cef-1476-05dce89f7544.htm" />
+  <HelpKINode Title="DesignerCoreInst property">
+    <HelpKINode Title="DesignerDataDrivingUtils.DesignerCoreInst Property " Url="html/1efb0d10-bf80-13e7-0628-51d10a2fc880.htm" />
+    <HelpKINode Title="ScriptType.DesignerCoreInst Property " Url="html/7191105b-875d-fefb-3892-5ca1b8a0eabc.htm" />
+    <HelpKINode Title="WelcomeProvider.DesignerCoreInst Property " Url="html/513b34b9-d6f4-5834-f703-54bc87df211e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DesignerDataDrivingUtils class">
+    <HelpKINode Title="DesignerDataDrivingUtils Class" Url="html/c8d86a8f-5e9b-50ce-29e1-a4a4cf203fc5.htm" />
+    <HelpKINode Title="methods" Url="html/090dfdc3-e85a-4fb4-1ca9-6488028799fa.htm" />
+    <HelpKINode Title="properties" Url="html/b96acce8-82ac-4785-f62b-8083a558d6b5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DesignerDataDrivingUtils.DesignerCoreInst property" Url="html/1efb0d10-bf80-13e7-0628-51d10a2fc880.htm" />
+  <HelpKINode Title="DesignerDataDrivingUtils.FindDataSourceOfType method" Url="html/8fd998b7-e668-2ebb-1c11-9c763f3abc07.htm" />
+  <HelpKINode Title="DesignerDataDrivingUtils.GetDataSourceTypes method" Url="html/be740f68-dc46-9654-d8f1-606c018a171c.htm" />
+  <HelpKINode Title="DictionaryContextExtensions class">
+    <HelpKINode Title="DictionaryContextExtensions Class" Url="html/ae739d1e-6e27-3eae-f40d-a525cc92b981.htm" />
+    <HelpKINode Title="methods" Url="html/8ff1bdff-7392-fb55-59d0-a4419a59e724.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DictionaryContextExtensions.GetContextValue method" Url="html/27b033c1-04d9-88e6-478e-7fcd97c611f2.htm" />
+  <HelpKINode Title="DictionaryContextExtensions.GetContextValueBool method" Url="html/07311e11-10fd-60ad-2da3-95548d5cdcfd.htm" />
+  <HelpKINode Title="DictionaryContextExtensions.GetContextValueInt method" Url="html/fbed6b14-12df-c7ef-73b2-c493f7f707b2.htm" />
+  <HelpKINode Title="DictionaryContextExtensions.SetContextValue method" Url="html/30964e74-afe7-717f-9f2b-0c1bb6434d4f.htm" />
+  <HelpKINode Title="DisplayAgentSelection method" Url="html/b5d29440-2545-3b9f-695d-80f2d970479b.htm" />
+  <HelpKINode Title="DisplayedRealServiceUri property">
+    <HelpKINode Title="GenericEndpointViewModel.DisplayedRealServiceUri Property " Url="html/f51218d3-bde4-6a20-b7b6-d8ccf08ad8a3.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.DisplayedRealServiceUri Property " Url="html/28991266-f5f4-afe4-3482-7cfdb17c7912.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisplayedUriPrefix property" Url="html/a2aaf168-cbb2-3571-babb-7607524202ae.htm" />
+  <HelpKINode Title="DisplayedVirtualServiceUri property">
+    <HelpKINode Title="GenericEndpointViewModel.DisplayedVirtualServiceUri Property " Url="html/615c2e47-1513-6218-a252-63b8b50099b9.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.DisplayedVirtualServiceUri Property " Url="html/37e7c30f-e9f2-ec99-98ec-7096b546ad64.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisplayName property" Url="html/960ea442-3b11-36d6-365d-bff1c717e7ea.htm" />
+  <HelpKINode Title="Edit enumeration member" Url="html/694e5c57-c144-0a8c-a45d-7f162f5f908e.htm" />
+  <HelpKINode Title="EditEndpointsDialogHeight property" Url="html/78fd5734-d1de-7694-2c05-4835d27bebc3.htm" />
+  <HelpKINode Title="EditEndpointsDialogWidth property" Url="html/37fa405c-aa5a-e2b8-9c42-08b6d9a6a1f3.htm" />
+  <HelpKINode Title="EditingControl property" Url="html/cf74b96a-c555-7467-161e-7bb65b920c37.htm" />
+  <HelpKINode Title="EditRealEndpoint property" Url="html/0f3ab0c6-9008-3d55-cb94-ca95ae8ce54f.htm" />
+  <HelpKINode Title="EditVirtualEndpoint property" Url="html/ba0006e6-4928-4560-f1de-7e88f1ef17b9.htm" />
+  <HelpKINode Title="Encoding property" Url="html/1b30c887-f909-8728-37f1-985473954327.htm" />
+  <HelpKINode Title="Encodings property" Url="html/9f5858bd-f9a0-4b66-8337-3a13dc1224f1.htm" />
+  <HelpKINode Title="EndpointActivityControl class">
+    <HelpKINode Title="EndpointActivityControl Class" Url="html/14d9c81b-78b3-531f-98c9-a2286b0cc171.htm" />
+    <HelpKINode Title="constructor" Url="html/5c61f2d9-4069-a5bd-7286-4c39594ffaaf.htm" />
+    <HelpKINode Title="methods" Url="html/817d1d4b-a61f-908c-bf4d-7e2be525c70f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EndpointActivityControl.EndpointActivityControl constructor" Url="html/5c61f2d9-4069-a5bd-7286-4c39594ffaaf.htm" />
+  <HelpKINode Title="EndpointActivityControl.InitializeComponent method" Url="html/f3470dc8-8824-8cb6-6b65-dd875285d4f1.htm" />
+  <HelpKINode Title="EndpointAddressFormatter property" Url="html/3bd37879-7388-bec1-2107-e82b91e96545.htm" />
+  <HelpKINode Title="EndpointEditingExtensions property" Url="html/ccd464b1-d33a-cef1-df96-9e731bb9b748.htm" />
+  <HelpKINode Title="ExistingDataSourceOptionDescription property" Url="html/43399056-0e7d-3107-9cb8-830e9adf6707.htm" />
+  <HelpKINode Title="ExpressQuickStartControl class">
+    <HelpKINode Title="ExpressQuickStartControl Class" Url="html/2611c9ea-e6bc-13f1-a292-8817af2bbd7f.htm" />
+    <HelpKINode Title="constructor" Url="html/5229d5c3-1b1c-2354-d0d8-d2bdc7afc237.htm" />
+    <HelpKINode Title="methods" Url="html/7ca8db43-1f18-42b8-bf89-4d13292ad869.htm" />
+    <HelpKINode Title="properties" Url="html/fac7e860-3903-08c3-93cc-a30bf2d9622b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExpressQuickStartControl.ExpressQuickStartControl constructor" Url="html/5229d5c3-1b1c-2354-d0d8-d2bdc7afc237.htm" />
+  <HelpKINode Title="ExpressQuickStartControl.InitializeComponent method" Url="html/a25228f8-89a0-e421-dfd5-9b605b20c3cb.htm" />
+  <HelpKINode Title="ExpressQuickStartControl.ShowEditionsCommand property" Url="html/8968776e-a41e-460c-e352-eff796afd85d.htm" />
+  <HelpKINode Title="ExpressQuickStartControl.ShowLicensingCommand property" Url="html/62edcdcb-07fa-39f7-c1f8-fa7195ea51ff.htm" />
+  <HelpKINode Title="ExpressQuickStartControl.ShowVideosCommand property" Url="html/aaa40901-29da-859d-532f-abfc35289a54.htm" />
+  <HelpKINode Title="Extension field">
+    <HelpKINode Title="ScriptTypeCs.Extension Field" Url="html/fa10a9d7-74d1-a7d4-853c-f802e57f4846.htm" />
+    <HelpKINode Title="ScriptTypeJs.Extension Field" Url="html/faf8934f-2ba9-ccfc-8dd9-757f10d18418.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Extension property">
+    <HelpKINode Title="ScriptType.Extension Property " Url="html/b26509d1-a60c-6b74-10c2-d94692b2b59d.htm" />
+    <HelpKINode Title="ScriptTypeViewModel.Extension Property " Url="html/91078a2e-f523-5a0f-661b-9bd55a5cd39c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Factory property" Url="html/78dae422-84ab-08f8-bfe6-68bcf9b9da36.htm" />
+  <HelpKINode Title="FindDataSourceOfType method" Url="html/8fd998b7-e668-2ebb-1c11-9c763f3abc07.htm" />
+  <HelpKINode Title="FirePropertyChanged method" Url="html/25a1a386-70ab-4764-455f-ee6dbbee9319.htm" />
+  <HelpKINode Title="FormatRealAddress method" Url="html/b4e27ef3-64fb-df4a-6990-1b5ac09358c2.htm" />
+  <HelpKINode Title="FormatVirtualAddress method" Url="html/c1bef7bf-a593-8600-f250-9c49a3625e56.htm" />
+  <HelpKINode Title="FormatVirtualEndpoint method">
+    <HelpKINode Title="IServiceEndpointFormatingManager.FormatVirtualEndpoint Method " Url="html/435fe6f6-3608-d45b-3151-a710dc66f19f.htm" />
+    <HelpKINode Title="IServiceEndpointFormatter.FormatVirtualEndpoint Method " Url="html/cae1d9f7-24b6-7362-2773-705666a91a35.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenerateVirtualServiceName method" Url="html/ada85959-0c53-c6a5-bcae-8efe754a9411.htm" />
+  <HelpKINode Title="GenericAgentOptions class">
+    <HelpKINode Title="GenericAgentOptions Class" Url="html/188e49b5-fc8f-f3f7-2bd4-ab48d172e90a.htm" />
+    <HelpKINode Title="constructor" Url="html/302aeb08-b343-6b94-c741-7ea32dd5610e.htm" />
+    <HelpKINode Title="methods" Url="html/efa91f24-6878-47dc-dd69-e3a378431445.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericAgentOptions.GenericAgentOptions constructor" Url="html/302aeb08-b343-6b94-c741-7ea32dd5610e.htm" />
+  <HelpKINode Title="GenericAgentOptions.InitializeComponent method" Url="html/7a64c80d-02b6-f559-4c90-0b58594ade48.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration) class">
+    <HelpKINode Title="GenericAgentOptionsViewModel(TAgentConfiguration) Class" Url="html/b77d029a-ee3c-4fa6-95e0-10ec5ee3991d.htm" />
+    <HelpKINode Title="constructor" Url="html/e31099fa-4f81-cef9-195d-cf54bb741dcd.htm" />
+    <HelpKINode Title="methods" Url="html/d8b61e71-b4b7-dffd-d3bd-533c1ae4e1fe.htm" />
+    <HelpKINode Title="properties" Url="html/70bb8a5d-34d4-c4e5-f2c6-5b402012655b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).AgentProperties property" Url="html/492b725c-2fdb-ae18-beed-d91ec98189b1.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).Configuration property" Url="html/7b463993-6c96-6d16-96b3-10917748ea6d.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).GenericAgentOptionsViewModel constructor" Url="html/e31099fa-4f81-cef9-195d-cf54bb741dcd.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).GetSpecificAgentConfigurationPart method" Url="html/4abf42ed-8a70-461d-20b1-c8b69d38fad8.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).HasChanges property" Url="html/f2df5b09-bd5a-eaa6-eddf-e2ccbd987c76.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).RawConfiguration property" Url="html/e8729582-d54c-339b-3400-7c3659015197.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel(Of TAgentConfiguration).SavePropertiesToSpecificConfiguration method" Url="html/338615b7-6e69-a55d-4eed-587b84fd7ddd.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt; class">
+    <HelpKINode Title="GenericAgentOptionsViewModel(TAgentConfiguration) Class" Url="html/b77d029a-ee3c-4fa6-95e0-10ec5ee3991d.htm" />
+    <HelpKINode Title="constructor" Url="html/e31099fa-4f81-cef9-195d-cf54bb741dcd.htm" />
+    <HelpKINode Title="methods" Url="html/d8b61e71-b4b7-dffd-d3bd-533c1ae4e1fe.htm" />
+    <HelpKINode Title="properties" Url="html/70bb8a5d-34d4-c4e5-f2c6-5b402012655b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.AgentProperties property" Url="html/492b725c-2fdb-ae18-beed-d91ec98189b1.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.Configuration property" Url="html/7b463993-6c96-6d16-96b3-10917748ea6d.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.GenericAgentOptionsViewModel constructor" Url="html/e31099fa-4f81-cef9-195d-cf54bb741dcd.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.GetSpecificAgentConfigurationPart method" Url="html/4abf42ed-8a70-461d-20b1-c8b69d38fad8.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.HasChanges property" Url="html/f2df5b09-bd5a-eaa6-eddf-e2ccbd987c76.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.RawConfiguration property" Url="html/e8729582-d54c-339b-3400-7c3659015197.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt;.SavePropertiesToSpecificConfiguration method" Url="html/338615b7-6e69-a55d-4eed-587b84fd7ddd.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModelBase class">
+    <HelpKINode Title="GenericAgentOptionsViewModelBase Class" Url="html/14b092f9-510c-ce4f-7dd9-ea27a08df442.htm" />
+    <HelpKINode Title="constructor" Url="html/dd994cea-71ae-1022-37dc-fc97410ab03f.htm" />
+    <HelpKINode Title="methods" Url="html/7b24c62c-efed-f91f-cd1c-c03c24663b81.htm" />
+    <HelpKINode Title="properties" Url="html/e550087f-3a68-62d7-d86f-a7072863e774.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericAgentOptionsViewModelBase.GenericAgentOptionsViewModelBase constructor" Url="html/dd994cea-71ae-1022-37dc-fc97410ab03f.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModelBase.GetSpecificAgentConfigurationPart method" Url="html/403a4c24-13ae-e0c4-fc19-9efadf1e4385.htm" />
+  <HelpKINode Title="GenericAgentOptionsViewModelBase.HasChanges property" Url="html/fd9be02f-533f-e5fb-0270-e98c2002a88e.htm" />
+  <HelpKINode Title="GenericEndpointEditControl class">
+    <HelpKINode Title="GenericEndpointEditControl Class" Url="html/66f9ca22-1cfb-271d-fbba-4870dc4dca94.htm" />
+    <HelpKINode Title="constructor" Url="html/baee8311-4545-893b-aebf-6d189dabee86.htm" />
+    <HelpKINode Title="methods" Url="html/3b826f29-8319-a455-7d42-74ae7381fd7e.htm" />
+    <HelpKINode Title="properties" Url="html/ff5f4ff9-b5fe-d1f1-bc13-ffa9e7924c91.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericEndpointEditControl.GenericEndpointEditControl constructor" Url="html/baee8311-4545-893b-aebf-6d189dabee86.htm" />
+  <HelpKINode Title="GenericEndpointEditControl.InitializeComponent method" Url="html/4921ee47-6099-eb99-212c-5a8f4e240500.htm" />
+  <HelpKINode Title="GenericEndpointEditControl.ShowServiceTypeLabel property" Url="html/3b995c1b-e198-89f1-c79f-7d27ce3f4063.htm" />
+  <HelpKINode Title="GenericEndpointViewControl class">
+    <HelpKINode Title="GenericEndpointViewControl Class" Url="html/658b5372-946d-cdc4-3026-6b227759a0eb.htm" />
+    <HelpKINode Title="constructor" Url="html/8f947967-3ed2-f506-d109-5c4d2986668a.htm" />
+    <HelpKINode Title="methods" Url="html/e6252a58-0d23-2335-346b-d23abd3dc186.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericEndpointViewControl.GenericEndpointViewControl constructor" Url="html/8f947967-3ed2-f506-d109-5c4d2986668a.htm" />
+  <HelpKINode Title="GenericEndpointViewControl.InitializeComponent method" Url="html/0e0f0529-6141-007a-10fe-f5e2fb62ff68.htm" />
+  <HelpKINode Title="GenericEndpointViewModel class">
+    <HelpKINode Title="GenericEndpointViewModel Class" Url="html/ad266c0b-4c4b-6437-b05b-1977230be777.htm" />
+    <HelpKINode Title="constructor" Url="html/f7254194-53fe-62fd-506c-380f9a5a2fd4.htm" />
+    <HelpKINode Title="methods" Url="html/f23f73b4-d1a0-84e4-85da-2349322e371f.htm" />
+    <HelpKINode Title="properties" Url="html/ebe469ad-4bee-4bca-9861-44347d2755a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericEndpointViewModel.Agent property" Url="html/ffc1006b-a5fa-04bc-44ba-9f11881d3031.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.Attributes property" Url="html/e4c9f98d-8d3d-4c08-a0e6-908270b032cb.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.BuildServiceUri method" Url="html/836d9b63-d21d-d999-5dcc-c2f164ae530f.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.DisplayedRealServiceUri property" Url="html/f51218d3-bde4-6a20-b7b6-d8ccf08ad8a3.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.DisplayedUriPrefix property" Url="html/a2aaf168-cbb2-3571-babb-7607524202ae.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.DisplayedVirtualServiceUri property" Url="html/615c2e47-1513-6218-a252-63b8b50099b9.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GenericEndpointViewModel constructor" Url="html/f7254194-53fe-62fd-506c-380f9a5a2fd4.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetAgentRealUri method" Url="html/58bbc320-6a56-b277-9589-f8975360ff65.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetAgentVirtualUri method" Url="html/e83b9105-9a76-42d7-b485-1f09e5450a6c.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetAttribute method" Url="html/31b7a852-f96c-fe66-3c96-e0e09239b857.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetAttributeNotPresent method" Url="html/e3aa2006-3f65-e601-c1d0-fed20d918280.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetAttributeValue method" Url="html/d20389ec-d3d7-8537-d0b3-5bbb93e68c58.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetVirtualEndpointAddress method" Url="html/005fec82-5a37-9f3d-1887-c24832aa457b.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.GetVirtualEndpointRealAddress method" Url="html/5ce867e2-537b-a89e-93cd-153f09a43f2e.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.LoadFromContext method" Url="html/875fe012-6800-8da8-c523-493893b5df0a.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.LoadFromServiceDescriptionBuilder method" Url="html/426cc54d-819b-2e71-21de-24429997a2a2.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.LoadInternal method" Url="html/b16e2476-37a9-3fea-9c0d-65de156c81e2.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.NonExistentRealService property" Url="html/4992ec4e-a182-0369-ab7b-06d5b2da04a7.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.OnAgentChanged method" Url="html/f0d4b81f-8e43-88c0-b496-89edb8eb78c0.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.OnAttributeChanged method" Url="html/7bcc7ecd-154e-62e5-d8bf-ff55d717a3fb.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.RealServiceAttributes property" Url="html/e719af80-6346-bdb2-fdc6-95b5c20ad433.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.SaveInternal method" Url="html/afd21499-18a2-6858-455e-5023ac0b3d1d.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.SaveToContextInternal method" Url="html/282b21ee-5f06-be8c-d5d0-3622fad40d98.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.SetAttributeNotPresent method" Url="html/0b806221-5b84-8493-7071-3ddd12861eaf.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.SetAttributeValue method" Url="html/4a515f8a-ce14-df71-bb60-1c7d31068665.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.ShowAgentUriInRealServiceUri property" Url="html/c5476a1d-d74a-26e0-1cbe-f06a3c08b4de.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.ShowAgentUriInVirtualServiceUri property" Url="html/5f23b18f-16e2-1665-d4b1-6979c5062605.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.StoredUriPrefix property" Url="html/a41d58bf-a33a-9341-2ef0-ee8564e94455.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.SuggestVirtualServiceName method" Url="html/afccd765-a6a5-4233-f386-5f6b4c38a9ed.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.ValidateRealEndpoint method" Url="html/4261784d-ee03-6d70-3805-350f409f6da8.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.ValidateVirtualEndpoint method" Url="html/fd6db3aa-2fe7-40d1-e025-4cf616fdd243.htm" />
+  <HelpKINode Title="GenericEndpointViewModel.VirtualServiceAttributes property" Url="html/15de8740-9dd0-f49e-1829-8f68a70257ae.htm" />
+  <HelpKINode Title="GetAdditionalIdentityUsages method">
+    <HelpKINode Title="DefaultCredentialsStoreExtensions.GetAdditionalIdentityUsages Method " Url="html/c8fca2e9-7cd7-1f51-6692-e0f10895491d.htm" />
+    <HelpKINode Title="ICredentialsStoreExtensions.GetAdditionalIdentityUsages Method " Url="html/cbed508d-7e7e-1d5f-edc2-b694b912b476.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAdvancedConfigurationProperties method">
+    <HelpKINode Title="IAgentDefinitionExt.GetAdvancedConfigurationProperties Method " Url="html/4f4f7e16-1f87-8bf8-39dd-2e6e0ffad8b8.htm" />
+    <HelpKINode Title="IEndpointEditingExtensions.GetAdvancedConfigurationProperties Method " Url="html/12d744f9-6ab1-1f88-ba6f-238ee2a1b4e7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAgentDefinition method" Url="html/cab17a48-c952-d84a-4793-5c6225157b3b.htm" />
+  <HelpKINode Title="GetAgentNotAvailableMessage method" Url="html/87baef9e-fc6f-5056-c839-fa5f60801827.htm" />
+  <HelpKINode Title="GetAgentOptionsIcon method" Url="html/36fb5581-7fc2-cc1c-e0cf-5fa74c76d5c7.htm" />
+  <HelpKINode Title="GetAgentRealUri method" Url="html/58bbc320-6a56-b277-9589-f8975360ff65.htm" />
+  <HelpKINode Title="GetAgentVirtualUri method" Url="html/e83b9105-9a76-42d7-b485-1f09e5450a6c.htm" />
+  <HelpKINode Title="GetAllIdentityUsages method">
+    <HelpKINode Title="DefaultCredentialsStoreExtensions.GetAllIdentityUsages Method " Url="html/8a03c7f6-ca06-8fc1-9f39-03110cb507d8.htm" />
+    <HelpKINode Title="ICredentialsStoreExtensions.GetAllIdentityUsages Method " Url="html/9625f5b4-d335-6a04-4a30-903af2f317d6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAttribute method" Url="html/31b7a852-f96c-fe66-3c96-e0e09239b857.htm" />
+  <HelpKINode Title="GetAttributeNotPresent method" Url="html/e3aa2006-3f65-e601-c1d0-fed20d918280.htm" />
+  <HelpKINode Title="GetAttributeValue method" Url="html/d20389ec-d3d7-8537-d0b3-5bbb93e68c58.htm" />
+  <HelpKINode Title="GetAvailableAgentsForEndpoint method" Url="html/40577e57-208c-7bd8-71bd-00a78227f9b9.htm" />
+  <HelpKINode Title="GetContextMenuItems method" Url="html/257671b2-f829-d500-0296-d6a93d7f9a2b.htm" />
+  <HelpKINode Title="GetContextValue method" Url="html/27b033c1-04d9-88e6-478e-7fcd97c611f2.htm" />
+  <HelpKINode Title="GetContextValueBool method" Url="html/07311e11-10fd-60ad-2da3-95548d5cdcfd.htm" />
+  <HelpKINode Title="GetContextValueInt method" Url="html/fbed6b14-12df-c7ef-73b2-c493f7f707b2.htm" />
+  <HelpKINode Title="GetCultureDefinitionForCulture method" Url="html/f935373a-3843-2d24-edc6-6c31dccc824c.htm" />
+  <HelpKINode Title="GetDataModelName method" Url="html/a8877317-8e7b-55b0-f577-7bcf3d4ca586.htm" />
+  <HelpKINode Title="GetDataSourceTypes method" Url="html/be740f68-dc46-9654-d8f1-606c018a171c.htm" />
+  <HelpKINode Title="GetDeploymentFailedMessage method" Url="html/a22e907e-4395-0cdb-62af-853bf53d763c.htm" />
+  <HelpKINode Title="GetDisplayedAgentType method" Url="html/d6bc2718-9605-cf54-0ca1-1fa9e12b6bca.htm" />
+  <HelpKINode Title="GetDisplayedAgentUri method" Url="html/cf3fd589-918b-c243-0a50-a8b1617e825a.htm" />
+  <HelpKINode Title="GetDMEEmptyGridNoSelectedOperationControl method" Url="html/e8c3d062-ad8b-73e6-eb0c-9313bc1e1ce7.htm" />
+  <HelpKINode Title="GetIdentityEditControl method">
+    <HelpKINode Title="DefaultCredentialsStoreExtensions.GetIdentityEditControl Method " Url="html/1e9e1e22-c54d-96b3-f19c-6ab2e9d7c2fb.htm" />
+    <HelpKINode Title="ICredentialsStoreExtensions.GetIdentityEditControl Method " Url="html/6f773813-cfca-bc97-3c46-852833899b3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetIdentityTableControl method">
+    <HelpKINode Title="DefaultCredentialsStoreExtensions.GetIdentityTableControl Method " Url="html/7192b3b7-5b40-0aa1-bec2-033601cc3834.htm" />
+    <HelpKINode Title="ICredentialsStoreExtensions.GetIdentityTableControl Method " Url="html/0716de8a-08c3-612b-5d0d-c7c0d236904b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetLoadErrors method" Url="html/356369b2-4d93-5dc0-6f4f-7ff3b3d0177e.htm" />
+  <HelpKINode Title="GetNewScriptContent method">
+    <HelpKINode Title="DefaultScriptType.GetNewScriptContent Method " Url="html/cfb91515-67be-c392-549f-a012a9d25fd1.htm" />
+    <HelpKINode Title="ScriptType.GetNewScriptContent Method " Url="html/ff69fc92-106b-758c-a290-a793aa6de062.htm" />
+    <HelpKINode Title="ScriptTypeCs.GetNewScriptContent Method " Url="html/9f673206-bed9-c617-b2b1-157480bd6757.htm" />
+    <HelpKINode Title="ScriptTypeJs.GetNewScriptContent Method " Url="html/532af9b1-51c6-bea6-1f19-4d77a3d0c9fc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetOperationDisplayName method" Url="html/0782e5c9-380e-7fdb-238a-460c073f974a.htm" />
+  <HelpKINode Title="GetOperationShortName method" Url="html/7480d672-a6f5-e8b0-3351-f92e5f2a5750.htm" />
+  <HelpKINode Title="GetPerformanceModelName method" Url="html/ba821a3a-2ac2-cf2a-db57-9a3712bf2ec8.htm" />
+  <HelpKINode Title="GetPreferredAgentTypes method" Url="html/7929396f-d070-1f63-c8d2-f410afdf29f8.htm" />
+  <HelpKINode Title="GetProtocolDefinitionExt method" Url="html/0434d219-b982-ddf2-1642-be01df022e61.htm" />
+  <HelpKINode Title="GetReconfigureInstructionDescription method" Url="html/d8a4d41f-c62a-35bd-deeb-9ce8fc99466c.htm" />
+  <HelpKINode Title="GetReconfigureInstructionDescriptionControl method" Url="html/0f5314eb-b298-cee1-3476-a63da0a09925.htm" />
+  <HelpKINode Title="GetReconfigureInstructionsEndpointLabel method" Url="html/2a133c40-cbe8-0fbb-d0e8-ac29b458a9d1.htm" />
+  <HelpKINode Title="GetReconfigureInstructionsVariables method" Url="html/42ef5f3a-c9c1-08a8-7089-3e874cd66788.htm" />
+  <HelpKINode Title="GetReconfigureInstructionTemplate method" Url="html/96f31e91-467f-cd05-3a5f-ab1f9deb3b1f.htm" />
+  <HelpKINode Title="GetReconfigureInstructionTitle method" Url="html/bc3ec3bc-dc4b-fd4e-a282-f2883fd08493.htm" />
+  <HelpKINode Title="GetResourceContent method" Url="html/09c0828a-208e-cd80-4c2b-4b4dc068b609.htm" />
+  <HelpKINode Title="GetScriptTypeForFileName method" Url="html/ae678d3f-221e-4c76-ee22-7c2bdb4d34dd.htm" />
+  <HelpKINode Title="GetSdeNoOperationCustomControls method" Url="html/580972ef-0c98-0ba2-7aee-af517fc5789b.htm" />
+  <HelpKINode Title="GetSdeNoOperationGeneralControl method" Url="html/22cfdd13-969b-d9f7-faef-bf8e3028015e.htm" />
+  <HelpKINode Title="GetSdeNoOperationViewModel method" Url="html/933e0389-9cee-293e-1e26-4c9a719a8c3a.htm" />
+  <HelpKINode Title="GetSdeOperationCustomControls method" Url="html/918a40df-e7b1-8103-af57-8e5c070cdcb5.htm" />
+  <HelpKINode Title="GetSdeOperationGeneralControl method" Url="html/fdfbd1e2-a850-b1c0-520f-7ff4054e5654.htm" />
+  <HelpKINode Title="GetSdeOperationViewModel method" Url="html/f817cdac-6032-0325-f74d-84807fcd77d1.htm" />
+  <HelpKINode Title="GetSdeOutlineCustomActionsControl method" Url="html/8c6369cb-c975-e5fc-827d-e771129dee35.htm" />
+  <HelpKINode Title="GetServiceDescriptionName method" Url="html/a9755747-1380-3019-9236-357359e10022.htm" />
+  <HelpKINode Title="GetSpecificAgentConfigurationPart method">
+    <HelpKINode Title="GenericAgentOptionsViewModel(TAgentConfiguration).GetSpecificAgentConfigurationPart Method " Url="html/4abf42ed-8a70-461d-20b1-c8b69d38fad8.htm" />
+    <HelpKINode Title="GenericAgentOptionsViewModelBase.GetSpecificAgentConfigurationPart Method " Url="html/403a4c24-13ae-e0c4-fc19-9efadf1e4385.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSupportedMetadataTypes method" Url="html/e5112c53-94e1-a60f-4c8f-eac835929cf1.htm" />
+  <HelpKINode Title="GetTrackPositionProperties method" Url="html/6467ee3e-2fa3-be48-6a87-adbdb70f2f37.htm" />
+  <HelpKINode Title="GetVirtualEndpointAddress method">
+    <HelpKINode Title="GenericEndpointViewModel.GetVirtualEndpointAddress Method " Url="html/005fec82-5a37-9f3d-1887-c24832aa457b.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.GetVirtualEndpointAddress Method " Url="html/5da1820a-73ce-1ea5-e511-fa4a391065d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetVirtualEndpointInfo method" Url="html/f2827be9-677a-e1f2-b1c1-93ee7261115c.htm" />
+  <HelpKINode Title="GetVirtualEndpointRealAddress method" Url="html/5ce867e2-537b-a89e-93cd-153f09a43f2e.htm" />
+  <HelpKINode Title="GetVirtualServiceName method" Url="html/6efd7a0d-a537-b9b9-60bb-8481ff522dcd.htm" />
+  <HelpKINode Title="HasChanges property">
+    <HelpKINode Title="GenericAgentOptionsViewModel(TAgentConfiguration).HasChanges Property " Url="html/f2df5b09-bd5a-eaa6-eddf-e2ccbd987c76.htm" />
+    <HelpKINode Title="GenericAgentOptionsViewModelBase.HasChanges Property " Url="html/fd9be02f-533f-e5fb-0270-e98c2002a88e.htm" />
+    <HelpKINode Title="IServiceEndpointsViewModel.HasChanges Property " Url="html/54a28e52-da98-be6d-9d83-468621247feb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Header property" Url="html/f82d21f7-e400-c43c-36a8-b74a21cd9f8f.htm" />
+  <HelpKINode Title="HelpTopic property" Url="html/efe4519d-3ced-daa5-f28b-2b90a631fdfb.htm" />
+  <HelpKINode Title="HelpTopicId property" Url="html/ae8af1e3-521a-4cf2-c604-44bd53984ed7.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.CredentialStore.Extensibility namespace" Url="html/9bced59e-769e-78f0-080d-4611a76eb498.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.CredentialStore.Extensibility.IdentitiesTableExt class" Url="html/f4b52e13-a4ef-55ab-a205-31a8c992cf95.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.CredentialStore.Extensibility.IdentityEditControlExt class" Url="html/f713cde8-2644-822d-9dd9-86fa31136bb2.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.QuickStart namespace" Url="html/f8989850-e5eb-b548-7a8e-6dc50bf3f755.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.QuickStart.ExpressQuickStartControl class" Url="html/2611c9ea-e6bc-13f1-a292-8817af2bbd7f.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.QuickStart.QuickStartDialog class" Url="html/bc5142e8-0be6-2fc1-b418-ca6fe022d4d1.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.Scripts namespace" Url="html/905bfcfa-8e42-9ad2-fdc3-7e6fe40bc373.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.Scripts.AddNewScriptControl class" Url="html/bd463ab7-038f-5475-c1a2-fc02e7a36904.htm" />
+  <HelpKINode Title="HP.SV.Designer.Controls.Scripts.ScriptTypeViewModel class" Url="html/0ee73aee-d777-1dc3-abd3-5c242d8adf5a.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility namespace" Url="html/87f25dd6-f8b6-45cf-0e74-58acd3c9e85d.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Agents namespace" Url="html/05613815-246f-94d9-935b-dd6e0e01ef4b.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Agents.ControlMode enumeration" Url="html/694e5c57-c144-0a8c-a45d-7f162f5f908e.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Agents.IAgentDefinitionExt interface" Url="html/e7475b04-737c-d31b-242b-2a824aceb1a2.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Controls.ClientCall namespace" Url="html/fadb0e58-25c1-e9b9-5a78-3c43295f6d4f.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Controls.ClientCall.EndpointActivityControl class" Url="html/14d9c81b-78b3-531f-98c9-a2286b0cc171.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.CultureDefinitions namespace" Url="html/9cca767d-3867-3138-8944-1538d424effd.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.CultureDefinitions.ICultureDefinition interface" Url="html/13b97db1-02fb-7bfb-e16f-c0bf28d2cfc3.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.DictionaryContextExtensions class" Url="html/ae739d1e-6e27-3eae-f40d-a525cc92b981.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints namespace" Url="html/7d0cfa20-f7cb-af59-8755-750b7fe038fa.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.Generic namespace" Url="html/aefaab09-72dc-0301-a754-30dd073980b8.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.Generic.GenericEndpointEditControl class" Url="html/66f9ca22-1cfb-271d-fbba-4870dc4dca94.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.Generic.GenericEndpointViewControl class" Url="html/658b5372-946d-cdc4-3026-6b227759a0eb.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.Generic.GenericEndpointViewModel class" Url="html/ad266c0b-4c4b-6437-b05b-1977230be777.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.ICanSuggestNewVirtualEndpointAddress interface" Url="html/1e78a5ba-d192-66d4-268e-e3e47512cde2.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.IEndpointAddressFormatter interface" Url="html/39a516b3-efe5-75a4-44ba-c951f24f6879.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.IEndpointEditingSupportsEncoding interface" Url="html/6cc37cdd-deea-d16e-11ef-1ddaa7c4ee1b.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.IServiceEndpointFormatingManager interface" Url="html/b0177c0e-fe1f-1082-4dd1-925e92d3e2bb.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.IServiceEndpointFormatter interface" Url="html/66f049e8-1c18-73bb-830b-82306787096f.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.ISoapEndpointEditing interface" Url="html/2b333a27-5ded-4ff7-6a59-b3ad72a44e67.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Endpoints.ISupportsServiceEndpointsTopology interface" Url="html/778dc725-8cc0-f9b9-e993-97365a46801c.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.CredentialsStore namespace" Url="html/ddb2602f-e562-314f-4562-38193b202f5c.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.CredentialsStore.DefaultCredentialsStoreExtensions class" Url="html/cd982a07-8644-7026-14b7-3fe808c180fd.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.CredentialsStore.ICredentialsStoreExtensions interface" Url="html/a7d23129-099b-481c-f664-e51260fe32a5.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.DataModelEditor namespace" Url="html/2642347e-5220-85de-cf4c-dc7f72e2cc90.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.DataModelEditor.IDataModelEditorExtensions interface" Url="html/7bb755e7-272a-f9cc-575b-37902c7227fa.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.EndpointEditing namespace" Url="html/c202daf1-af7f-a298-f52d-1a6b0c4158c1.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.EndpointEditing.IEndpointEditingExtensions interface" Url="html/58587b29-fb58-bb99-857e-7e478b0e6fe7.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.EndpointEditing.IEndpointEditingSupportsMultipleRealServices interface" Url="html/56bcd72c-2250-548a-0e57-6a29781f3ae0.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.EndpointEditing.IServiceEndpointViewModel interface" Url="html/69ab609e-120f-3c0b-bcfb-0c03cfc01f19.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.MessageImport namespace" Url="html/58cff580-9044-1727-cd86-cf888c6d548f.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.MessageImport.IMessageImportExtensions interface" Url="html/27cc1afc-0784-8c5e-2858-34b15268286b.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.NewServiceWizard namespace" Url="html/73022eca-c310-e229-cad1-2a13d867596a.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.NewServiceWizard.INewServiceWizardExtensions interface" Url="html/b552ffeb-7539-7afd-49eb-518d04c92eed.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.NewServiceWizard.IServicePropertiesWizardPageProvider interface" Url="html/50123b47-8ea7-7022-656c-bc55fff880af.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.Outline namespace" Url="html/53d0007c-4d00-c229-db85-e32ecd635bc7.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.Outline.IOutlineExtensions interface" Url="html/83c4adc8-ac27-f98f-1ab9-ebc7e00f06c5.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ReconfigurationInstructions namespace" Url="html/500449b7-3b27-2a7d-5f58-534ca4191fe2.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ReconfigurationInstructions.IReconfigurationInstructionsExtensions interface" Url="html/784e330c-6d6a-feb2-4dfe-95ff39d31315.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceDescriptionEditor namespace" Url="html/3696eef7-1e17-f3de-2dc4-4220d27957cd.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceDescriptionEditor.IServiceDescriptionEditorExtensions interface" Url="html/b141c354-80dd-44a5-e783-e9e01fcb9699.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceEditor namespace" Url="html/09fe17ff-6a04-95c6-12e3-47fd4409e2da.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceEditor.IServiceEditorExtensions interface" Url="html/88ebf7df-6a01-469f-e9e6-eb5028fc78fa.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceEditor.IServiceEndpointsViewModel interface" Url="html/c14c1e33-e142-9a9c-d698-ef4954075597.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceTopology namespace" Url="html/cf57e2a4-950d-e525-4eca-7e8fc8d2d2c0.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.Extensions.ServiceTopology.IServiceTopologyExtensions interface" Url="html/efe98975-7e00-d374-ae9a-8e9fb33c4cbd.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.IDictionaryContextViewModel interface" Url="html/f27ee767-364d-590a-591a-549524f383d1.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.IExtensibilityProvider interface" Url="html/d3fc8abe-2420-9833-51e2-0fa550d9e00a.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.IIdentifiable interface" Url="html/177a5383-067d-838b-1b57-92ac2b362f75.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.IProtocolDefinitionExt interface" Url="html/a7952e21-e2bf-ca51-cd83-2e908b74a563.htm" />
+  <HelpKINode Title="HP.SV.Designer.Extensibility.L10nNameDescription class" Url="html/738f9011-c609-39d9-4b6a-81cf2c17c40e.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic namespace" Url="html/98f5f047-f856-70a3-4b8c-2ccb56982d77.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.AddressConfigurationControl class" Url="html/63cb5e49-da47-08b7-4d97-8e9659114a3e.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.AgentPropertyViewModel class" Url="html/b2edb5d3-6f04-6004-0788-9d03cdb87e50.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.GenericAgentOptions class" Url="html/188e49b5-fc8f-f3f7-2bd4-ab48d172e90a.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.GenericAgentOptionsViewModel(Of TAgentConfiguration) class" Url="html/b77d029a-ee3c-4fa6-95e0-10ec5ee3991d.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.GenericAgentOptionsViewModel&lt;TAgentConfiguration&gt; class" Url="html/b77d029a-ee3c-4fa6-95e0-10ec5ee3991d.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.GenericAgentOptionsViewModelBase class" Url="html/14b092f9-510c-ce4f-7dd9-ea27a08df442.htm" />
+  <HelpKINode Title="HP.SV.Designer.Project.Options.AgentOptions.Generic.PropertyViewModelBaseWpf class" Url="html/be98d308-3ce2-78e9-812c-2bde87d46ae5.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts namespace" Url="html/704f1438-b8d7-d4c0-53a3-28feb908fcc3.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts.DefaultScriptType class" Url="html/a8134c55-dda9-f51f-c70d-318a371cd23e.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts.ScriptType class" Url="html/6a0c0bba-e06b-7be3-6e29-c2067d32c2b5.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts.ScriptTypeCs class" Url="html/905ea30c-0e94-053e-3c2c-3ba2e745e983.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts.ScriptTypeJs class" Url="html/e4fced50-e60c-5c7e-9e0b-f17332a25ebb.htm" />
+  <HelpKINode Title="HP.SV.Designer.Scripts.ScriptTypeRegistry class" Url="html/d8cb65d3-4247-2081-973c-f7fa9d696c75.htm" />
+  <HelpKINode Title="HP.SV.Designer.Utils.DataDriving namespace" Url="html/ea4e4be8-54a4-ee38-6a10-d3f0000cad70.htm" />
+  <HelpKINode Title="HP.SV.Designer.Utils.DataDriving.DataSourceType class" Url="html/0e470ba8-4d22-ad7c-83c3-b006781a5477.htm" />
+  <HelpKINode Title="HP.SV.Designer.Utils.DataDriving.DesignerDataDrivingUtils class" Url="html/c8d86a8f-5e9b-50ce-29e1-a4a4cf203fc5.htm" />
+  <HelpKINode Title="HP.SV.Designer.ViewModel.SimulationDataEditor.RulesPane.Rule.ScriptedRule.Compilation namespace" Url="html/5c9e986e-805c-3879-6545-aeff7cda1cb0.htm" />
+  <HelpKINode Title="HP.SV.Designer.ViewModel.SimulationDataEditor.RulesPane.Rule.ScriptedRule.Compilation.CompilationErrorWithEntityId class" Url="html/7e57f2d5-a243-c8cf-4e16-87c41447e4d8.htm" />
+  <HelpKINode Title="HP.SV.Designer.ViewModel.SimulationDataEditor.RulesPane.Rule.ScriptedRule.Compilation.CompilationExceptionMapper class" Url="html/4419b25f-98dd-91eb-2e60-03ff846a5fcd.htm" />
+  <HelpKINode Title="HP.SV.Designer.Welcome namespace" Url="html/7d510cc4-1c82-ea16-3f97-ed2a00896227.htm" />
+  <HelpKINode Title="HP.SV.Designer.Welcome.WelcomeProvider class" Url="html/fdf42356-ea2d-beef-68fd-00b6ed14aab1.htm" />
+  <HelpKINode Title="IAgentDefinitionExt interface">
+    <HelpKINode Title="IAgentDefinitionExt Interface" Url="html/e7475b04-737c-d31b-242b-2a824aceb1a2.htm" />
+    <HelpKINode Title="methods" Url="html/e7f5f71e-b2f4-34f1-1cb0-92ccef4b545a.htm" />
+    <HelpKINode Title="properties" Url="html/2c7660b9-9d07-0596-46d2-793e64eecef5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAgentDefinitionExt.AgentType property" Url="html/b344e181-cb05-ce43-6532-b8612cb4b45e.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.ClientLibraries property" Url="html/da931aea-8c72-01c1-e5c0-a38194c5a77a.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateActivityControl method" Url="html/7383f947-2147-1824-4184-950fdd5262f6.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateActivityViewModel method" Url="html/cdeba27f-92d5-8e79-354d-e462c7f9c2b6.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateAgentInfoControl method" Url="html/b7bacb44-5a94-711e-bfca-37dfcb130f94.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateAgentInfoViewModel method" Url="html/f02024f1-faa5-d605-6dfe-1b87f2dfa53b.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateAgentOptionsControl method" Url="html/bcedadc1-2e49-fca2-9257-f8c88ab09989.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateAgentOptionsViewModel method" Url="html/7bb5d22a-263a-78ba-4568-90d650d67740.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateEndpointViewModel method" Url="html/56575938-908f-c28b-29c8-a4adb2283b8f.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateRealEndpointControl method" Url="html/e1a29147-10b6-765b-5c1d-cb2fe39a9750.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateServiceEndpointFormatter method" Url="html/ffcd147b-80b7-1e84-c1af-f2ee18bdde39.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.CreateVirtualEndpointControl method" Url="html/9dc3e289-f2ba-c9c3-ae42-aa4d8eca7d16.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.EditRealEndpoint property" Url="html/0f3ab0c6-9008-3d55-cb94-ca95ae8ce54f.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.EditVirtualEndpoint property" Url="html/ba0006e6-4928-4560-f1de-7e88f1ef17b9.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetAdvancedConfigurationProperties method" Url="html/4f4f7e16-1f87-8bf8-39dd-2e6e0ffad8b8.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetAgentNotAvailableMessage method" Url="html/87baef9e-fc6f-5056-c839-fa5f60801827.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetAgentOptionsIcon method" Url="html/36fb5581-7fc2-cc1c-e0cf-5fa74c76d5c7.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetDeploymentFailedMessage method" Url="html/a22e907e-4395-0cdb-62af-853bf53d763c.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetDisplayedAgentType method" Url="html/d6bc2718-9605-cf54-0ca1-1fa9e12b6bca.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetDisplayedAgentUri method" Url="html/cf3fd589-918b-c243-0a50-a8b1617e825a.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetReconfigureInstructionDescription method" Url="html/d8a4d41f-c62a-35bd-deeb-9ce8fc99466c.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetReconfigureInstructionDescriptionControl method" Url="html/0f5314eb-b298-cee1-3476-a63da0a09925.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetReconfigureInstructionsVariables method" Url="html/42ef5f3a-c9c1-08a8-7089-3e874cd66788.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetReconfigureInstructionTemplate method" Url="html/96f31e91-467f-cd05-3a5f-ab1f9deb3b1f.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.GetReconfigureInstructionTitle method" Url="html/bc3ec3bc-dc4b-fd4e-a282-f2883fd08493.htm" />
+  <HelpKINode Title="IAgentDefinitionExt.HelpTopic property" Url="html/efe4519d-3ced-daa5-f28b-2b90a631fdfb.htm" />
+  <HelpKINode Title="ICanSuggestNewVirtualEndpointAddress interface">
+    <HelpKINode Title="ICanSuggestNewVirtualEndpointAddress Interface" Url="html/1e78a5ba-d192-66d4-268e-e3e47512cde2.htm" />
+    <HelpKINode Title="methods" Url="html/5071e6c6-ac22-aedf-1051-36a1a328d305.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICanSuggestNewVirtualEndpointAddress.CanSuggestNewVirtualEndpointAddress method" Url="html/340ec69b-594b-d6b1-8ba7-3662a962cbe1.htm" />
+  <HelpKINode Title="ICredentialsStoreExtensions interface">
+    <HelpKINode Title="ICredentialsStoreExtensions Interface" Url="html/a7d23129-099b-481c-f664-e51260fe32a5.htm" />
+    <HelpKINode Title="methods" Url="html/b6dce0b0-d3a5-910f-c1b8-1b733f779dd7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICredentialsStoreExtensions.GetAdditionalIdentityUsages method" Url="html/cbed508d-7e7e-1d5f-edc2-b694b912b476.htm" />
+  <HelpKINode Title="ICredentialsStoreExtensions.GetAllIdentityUsages method" Url="html/9625f5b4-d335-6a04-4a30-903af2f317d6.htm" />
+  <HelpKINode Title="ICredentialsStoreExtensions.GetIdentityEditControl method" Url="html/6f773813-cfca-bc97-3c46-852833899b3d.htm" />
+  <HelpKINode Title="ICredentialsStoreExtensions.GetIdentityTableControl method" Url="html/0716de8a-08c3-612b-5d0d-c7c0d236904b.htm" />
+  <HelpKINode Title="ICultureDefinition interface">
+    <HelpKINode Title="ICultureDefinition Interface" Url="html/13b97db1-02fb-7bfb-e16f-c0bf28d2cfc3.htm" />
+    <HelpKINode Title="methods" Url="html/66943eba-1559-0bc9-716b-d217a94c10de.htm" />
+    <HelpKINode Title="properties" Url="html/89c8debb-69d6-d383-c286-443b767efd57.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICultureDefinition.SetupStyles method" Url="html/54d2818b-e389-edcc-9238-7cdce8846a27.htm" />
+  <HelpKINode Title="Id property" Url="html/c0b0e359-75b4-9b70-b0d1-8efae5ffb15d.htm" />
+  <HelpKINode Title="IDataModelEditorExtensions interface">
+    <HelpKINode Title="IDataModelEditorExtensions Interface" Url="html/7bb755e7-272a-f9cc-575b-37902c7227fa.htm" />
+    <HelpKINode Title="methods" Url="html/3603262f-3c93-937f-f854-b4f5a5524a9c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDataModelEditorExtensions.GetContextMenuItems method" Url="html/257671b2-f829-d500-0296-d6a93d7f9a2b.htm" />
+  <HelpKINode Title="IDataModelEditorExtensions.GetDMEEmptyGridNoSelectedOperationControl method" Url="html/e8c3d062-ad8b-73e6-eb0c-9313bc1e1ce7.htm" />
+  <HelpKINode Title="IDataModelEditorExtensions.GetTrackPositionProperties method" Url="html/6467ee3e-2fa3-be48-6a87-adbdb70f2f37.htm" />
+  <HelpKINode Title="IDataModelEditorExtensions.ShowMetadataByDefault method" Url="html/59be3a5d-7299-4f16-c4b7-7aa9647b1dfd.htm" />
+  <HelpKINode Title="IDataModelEditorExtensions.SpecifyPcapImportOperation method" Url="html/035f1d28-e454-5af0-3cdc-3ee7c635ef97.htm" />
+  <HelpKINode Title="IdentitiesTableExt class">
+    <HelpKINode Title="IdentitiesTableExt Class" Url="html/f4b52e13-a4ef-55ab-a205-31a8c992cf95.htm" />
+    <HelpKINode Title="constructor" Url="html/84853318-b86c-914f-8bb4-1ff1f593368e.htm" />
+    <HelpKINode Title="properties" Url="html/28ca48d4-b256-5b11-d0c5-cdc088dbadea.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IdentitiesTableExt.IdentitiesTableExt constructor" Url="html/84853318-b86c-914f-8bb4-1ff1f593368e.htm" />
+  <HelpKINode Title="IdentitiesTableExt.ViewModel property" Url="html/b893feeb-2b57-9c44-dbf3-068bbb46be37.htm" />
+  <HelpKINode Title="IdentityEditControlExt class">
+    <HelpKINode Title="IdentityEditControlExt Class" Url="html/f713cde8-2644-822d-9dd9-86fa31136bb2.htm" />
+    <HelpKINode Title="constructor" Url="html/b6dd7e65-6523-292a-8674-6d9c02cfd395.htm" />
+    <HelpKINode Title="properties" Url="html/79af8995-e525-47c5-73a9-88cfe8044957.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IdentityEditControlExt.IdentityEditControlExt constructor" Url="html/b6dd7e65-6523-292a-8674-6d9c02cfd395.htm" />
+  <HelpKINode Title="IdentityEditControlExt.IdentityRow property" Url="html/9cbd82fe-957a-fc55-0d9d-4c84955e1299.htm" />
+  <HelpKINode Title="IdentityEditControlExt.ShowCerficateFileError property" Url="html/a696416f-4e9b-fb40-1996-8a8ee148bac6.htm" />
+  <HelpKINode Title="IdentityRow property" Url="html/9cbd82fe-957a-fc55-0d9d-4c84955e1299.htm" />
+  <HelpKINode Title="IDictionaryContextViewModel interface">
+    <HelpKINode Title="IDictionaryContextViewModel Interface" Url="html/f27ee767-364d-590a-591a-549524f383d1.htm" />
+    <HelpKINode Title="methods" Url="html/5613bfc7-71b4-ade9-8c30-5716271a8ef5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDictionaryContextViewModel.LoadFromContext method" Url="html/e41d135c-412d-c3fb-770f-0b954d3f2f1c.htm" />
+  <HelpKINode Title="IDictionaryContextViewModel.SaveToContext method" Url="html/4446ef53-39c4-b4ed-ae9b-1301298efe66.htm" />
+  <HelpKINode Title="IEndpointAddressFormatter interface">
+    <HelpKINode Title="IEndpointAddressFormatter Interface" Url="html/39a516b3-efe5-75a4-44ba-c951f24f6879.htm" />
+    <HelpKINode Title="methods" Url="html/f0e2ccd9-77a4-feda-d8cc-d70f04c2de18.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointAddressFormatter.FormatRealAddress method" Url="html/b4e27ef3-64fb-df4a-6990-1b5ac09358c2.htm" />
+  <HelpKINode Title="IEndpointAddressFormatter.FormatVirtualAddress method" Url="html/c1bef7bf-a593-8600-f250-9c49a3625e56.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions interface">
+    <HelpKINode Title="IEndpointEditingExtensions Interface" Url="html/58587b29-fb58-bb99-857e-7e478b0e6fe7.htm" />
+    <HelpKINode Title="methods" Url="html/073207a2-8ad7-8b8a-579f-2a0aa2d29d70.htm" />
+    <HelpKINode Title="properties" Url="html/ac6dad94-1404-07e2-d366-39d423fb8282.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointEditingExtensions.CreateActivityEndpointControl method" Url="html/ed755103-c8fd-35f2-f007-e6341ddee9ba.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateActivityEndpointViewModel method" Url="html/61ea78f1-dcf3-52dc-67c1-d06f0307ab6c.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateEndpointViewModel method" Url="html/920a4821-1510-0fc8-71bf-687fc39c6c27.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateMultiAgentsWrapper method" Url="html/ed448be5-80e4-0931-8ad0-f996ceed963c.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateRealEndpointControl method" Url="html/a471cd59-5d6f-21a0-db40-f2513aa4e46e.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateServiceEndpointFormatter method" Url="html/ca9fa275-7944-74de-0d3c-5aa03e39a8c7.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.CreateVirtualEndpointControl method" Url="html/828ccdee-1724-5114-f55f-358aa5c648ee.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.DisplayAgentSelection method" Url="html/b5d29440-2545-3b9f-695d-80f2d970479b.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.EditEndpointsDialogHeight property" Url="html/78fd5734-d1de-7694-2c05-4835d27bebc3.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.EditEndpointsDialogWidth property" Url="html/37fa405c-aa5a-e2b8-9c42-08b6d9a6a1f3.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.EndpointAddressFormatter property" Url="html/3bd37879-7388-bec1-2107-e82b91e96545.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.GetAdvancedConfigurationProperties method" Url="html/12d744f9-6ab1-1f88-ba6f-238ee2a1b4e7.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.GetPreferredAgentTypes method" Url="html/7929396f-d070-1f63-c8d2-f410afdf29f8.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.LoadServiceData method" Url="html/2fef2bef-3245-2bbd-2147-6ec5ad3d8c98.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.SelectPrefferedAgent method" Url="html/b3ed3d7a-f2d1-848f-455f-b9f60f2527fa.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.ServiceCallActivityRequestAgentLabel property" Url="html/3f2adb09-e322-56cc-3466-065645d291d7.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.ServiceCallActivityResponseAgentLabel property" Url="html/a3ca7ad0-f57f-5719-e77f-0a9203ad328e.htm" />
+  <HelpKINode Title="IEndpointEditingExtensions.SupportsAgent method" Url="html/4643ae2e-f4d2-1a59-2e5c-931f51deba79.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsEncoding interface">
+    <HelpKINode Title="IEndpointEditingSupportsEncoding Interface" Url="html/6cc37cdd-deea-d16e-11ef-1ddaa7c4ee1b.htm" />
+    <HelpKINode Title="properties" Url="html/e5b663aa-34f0-626e-d955-e076e77708e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointEditingSupportsEncoding.Encoding property" Url="html/1b30c887-f909-8728-37f1-985473954327.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsEncoding.Encodings property" Url="html/9f5858bd-f9a0-4b66-8337-3a13dc1224f1.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsEncoding.SupportsEncodingSelection property" Url="html/4ef571a2-280e-44d0-a8b7-c61b8056d73e.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices interface">
+    <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices Interface" Url="html/56bcd72c-2250-548a-0e57-6a29781f3ae0.htm" />
+    <HelpKINode Title="methods" Url="html/00d7ffd7-3f0c-d06f-e6f0-768ce6b90be8.htm" />
+    <HelpKINode Title="properties" Url="html/99c587b3-b8b1-4e1d-3d6f-7bd50f37b5a5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices.LoadFromEndpoints method" Url="html/08d7d1db-44da-6144-be8f-3e716e7e27e0.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices.NewRealServices property" Url="html/bc606902-d411-096f-1db8-91a8fbd846fc.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices.ShowMultipleRealServices property" Url="html/5a78c086-fea9-fa31-ed86-366f9b3bb7f1.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices.UpdateEndpointProperties method" Url="html/a3103215-be0a-2e67-0a67-112e14d42a1a.htm" />
+  <HelpKINode Title="IEndpointEditingSupportsMultipleRealServices.ValidateRealServices method" Url="html/51e6c96a-4768-0354-7dde-6a83230b9f23.htm" />
+  <HelpKINode Title="IExtensibilityProvider interface">
+    <HelpKINode Title="IExtensibilityProvider Interface" Url="html/d3fc8abe-2420-9833-51e2-0fa550d9e00a.htm" />
+    <HelpKINode Title="methods" Url="html/13575d93-c62f-d82e-4411-f37613820983.htm" />
+    <HelpKINode Title="properties" Url="html/155808df-ffc3-c452-64db-e55b7ce3dc5e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IExtensibilityProvider.AgentDefinitions property" Url="html/284b2610-a227-651e-da1f-2348ae7244f8.htm" />
+  <HelpKINode Title="IExtensibilityProvider.GetAgentDefinition method" Url="html/cab17a48-c952-d84a-4793-5c6225157b3b.htm" />
+  <HelpKINode Title="IExtensibilityProvider.GetAvailableAgentsForEndpoint method" Url="html/40577e57-208c-7bd8-71bd-00a78227f9b9.htm" />
+  <HelpKINode Title="IExtensibilityProvider.GetCultureDefinitionForCulture method" Url="html/f935373a-3843-2d24-edc6-6c31dccc824c.htm" />
+  <HelpKINode Title="IExtensibilityProvider.GetLoadErrors method" Url="html/356369b2-4d93-5dc0-6f4f-7ff3b3d0177e.htm" />
+  <HelpKINode Title="IExtensibilityProvider.GetProtocolDefinitionExt method" Url="html/0434d219-b982-ddf2-1642-be01df022e61.htm" />
+  <HelpKINode Title="IExtensibilityProvider.LoadFailed method" Url="html/0e62da65-cf39-f8cf-c156-d21ea72f8f49.htm" />
+  <HelpKINode Title="IExtensibilityProvider.ProtocolDefinitions property" Url="html/d5cc1d75-fb9d-8610-9c3b-d1f82410c186.htm" />
+  <HelpKINode Title="IIdentifiable interface">
+    <HelpKINode Title="IIdentifiable Interface" Url="html/177a5383-067d-838b-1b57-92ac2b362f75.htm" />
+    <HelpKINode Title="properties" Url="html/9d7f2ce3-ad04-fce2-924b-4058d8fe0d34.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IIdentifiable.Id property" Url="html/c0b0e359-75b4-9b70-b0d1-8efae5ffb15d.htm" />
+  <HelpKINode Title="IMessageImportExtensions interface">
+    <HelpKINode Title="IMessageImportExtensions Interface" Url="html/27cc1afc-0784-8c5e-2858-34b15268286b.htm" />
+    <HelpKINode Title="methods" Url="html/792228c5-8e77-aebd-be4a-474d6ab54a0b.htm" />
+    <HelpKINode Title="properties" Url="html/eeb92247-42b2-e019-2450-96285afaab9d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMessageImportExtensions.AllowEmptyRequestBody property" Url="html/67ba67dd-d7fc-bb73-a9dc-f986c3113d7e.htm" />
+  <HelpKINode Title="IMessageImportExtensions.AllowEmptyResponseBody property" Url="html/9583bcea-0d06-229f-8c5e-14af04130cb4.htm" />
+  <HelpKINode Title="IMessageImportExtensions.RunPreviewRequestUI method" Url="html/fc8e082d-dc97-467e-5bf8-f2c997ea5c63.htm" />
+  <HelpKINode Title="IMessageImportExtensions.RunUI method" Url="html/b5ac3c3b-5571-083b-41d2-c553d4e100c0.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions interface">
+    <HelpKINode Title="INewServiceWizardExtensions Interface" Url="html/b552ffeb-7539-7afd-49eb-518d04c92eed.htm" />
+    <HelpKINode Title="methods" Url="html/d309f325-7b82-ca0c-4632-0b964de80b20.htm" />
+  </HelpKINode>
+  <HelpKINode Title="INewServiceWizardExtensions.CreateServicePropertiesWizardPageProviders method" Url="html/3ff14282-c253-fdd6-a7c4-ae4c7f761619.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions.GenerateVirtualServiceName method" Url="html/ada85959-0c53-c6a5-bcae-8efe754a9411.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions.GetDataModelName method" Url="html/a8877317-8e7b-55b0-f577-7bcf3d4ca586.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions.GetPerformanceModelName method" Url="html/ba821a3a-2ac2-cf2a-db57-9a3712bf2ec8.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions.GetServiceDescriptionName method" Url="html/a9755747-1380-3019-9236-357359e10022.htm" />
+  <HelpKINode Title="INewServiceWizardExtensions.GetVirtualServiceName method" Url="html/6efd7a0d-a537-b9b9-60bb-8481ff522dcd.htm" />
+  <HelpKINode Title="InitializeComponent method">
+    <HelpKINode Title="AddNewScriptControl.InitializeComponent Method " Url="html/e9596c84-2f6a-742f-fd42-c789387bfe11.htm" />
+    <HelpKINode Title="AddressConfigurationControl.InitializeComponent Method " Url="html/9017fb87-d8f7-12da-83bb-991684e6b36f.htm" />
+    <HelpKINode Title="EndpointActivityControl.InitializeComponent Method " Url="html/f3470dc8-8824-8cb6-6b65-dd875285d4f1.htm" />
+    <HelpKINode Title="ExpressQuickStartControl.InitializeComponent Method " Url="html/a25228f8-89a0-e421-dfd5-9b605b20c3cb.htm" />
+    <HelpKINode Title="GenericAgentOptions.InitializeComponent Method " Url="html/7a64c80d-02b6-f559-4c90-0b58594ade48.htm" />
+    <HelpKINode Title="GenericEndpointEditControl.InitializeComponent Method " Url="html/4921ee47-6099-eb99-212c-5a8f4e240500.htm" />
+    <HelpKINode Title="GenericEndpointViewControl.InitializeComponent Method " Url="html/0e0f0529-6141-007a-10fe-f5e2fb62ff68.htm" />
+    <HelpKINode Title="QuickStartDialog.InitializeComponent Method " Url="html/82acf3b0-728b-f428-038a-162697e2f03b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instance property">
+    <HelpKINode Title="ScriptTypeRegistry.Instance Property " Url="html/a08160c6-f5e7-fd07-e5f0-7e4bfb7ded04.htm" />
+    <HelpKINode Title="WelcomeProvider.Instance Property " Url="html/9cdfb894-7cca-2215-8a1e-5cef630290f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOutlineExtensions interface">
+    <HelpKINode Title="IOutlineExtensions Interface" Url="html/83c4adc8-ac27-f98f-1ab9-ebc7e00f06c5.htm" />
+    <HelpKINode Title="methods" Url="html/f64b7df6-fe3b-337a-6943-359e841f6c30.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IOutlineExtensions.CreateOutlineRootNodeContextMenu method" Url="html/57efc065-20dc-1a0c-a88c-fb4b36fe5cbc.htm" />
+  <HelpKINode Title="IOutlineExtensions.CreateServiceOperationOutlineControl method" Url="html/699bd734-5595-0748-364b-54442b53de55.htm" />
+  <HelpKINode Title="IOutlineExtensions.CreateServiceOperationOutlineViewModel method" Url="html/1fdec887-dce2-ca6d-3182-deb0d2b41ff0.htm" />
+  <HelpKINode Title="IOutlineExtensions.MultiSelect method" Url="html/d2570f93-81c7-d851-8fd3-2f47862ebef3.htm" />
+  <HelpKINode Title="IOutlineExtensions.MultiUnselect method" Url="html/3e70e7c6-cc55-a1b9-7e97-8823cfe59277.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt interface">
+    <HelpKINode Title="IProtocolDefinitionExt Interface" Url="html/a7952e21-e2bf-ca51-cd83-2e908b74a563.htm" />
+    <HelpKINode Title="properties" Url="html/2bc9f3bf-3766-1a22-4da4-12c41421b759.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IProtocolDefinitionExt.BaseProtocolResources property" Url="html/65070b6b-85ef-588c-4ed8-4022be1ca1b9.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.CredentialsStoreExtensions property" Url="html/c35ee53d-cb0d-692d-f352-7a9943b05b86.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.DataModelEditorExtensions property" Url="html/cce55085-06b8-afc7-7f10-c46625b30c72.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.EndpointEditingExtensions property" Url="html/ccd464b1-d33a-cef1-df96-9e731bb9b748.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.MessageImportExtensions property" Url="html/455f1188-c7e2-5e5b-7cc8-0308ff2b89ce.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.MessageLoggerExtensions property" Url="html/898b6097-0feb-8d24-7fe0-021faf3ab316.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.MessageProtocol property" Url="html/d4e81fe8-86c5-9105-daf5-d3eb7474e80d.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.NewServiceWizardExtensions property" Url="html/8688b288-3472-e5d3-a5d7-97913c6e774c.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.OutlineExtensions property" Url="html/c5d0aec6-cbaf-b9fa-690a-7fecbfbd2e6b.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ProtocolCapability property" Url="html/5bf81a0b-15d8-ad5f-ccac-4903fc5c9ad1.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ProtocolDefinition property" Url="html/59a122a8-697c-8ddc-d035-bc8397869ef4.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ProtocolDefinitionId property" Url="html/6a7389b6-e631-f8ca-b231-2ef7abdd4f49.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ProtocolResources property" Url="html/d0e3784b-3812-474b-233b-fbfff8f3bedb.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ReconfigurationInstructionsExtensions property" Url="html/9305f516-7ced-0540-ca9e-dcafb99a9fa4.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ServiceDescriptionEditorExtensions property" Url="html/4def47e0-8078-f5ff-4287-7e02eee37f69.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ServiceEditorExtensions property" Url="html/d7abc3b5-a306-832f-8b03-4bb3286bf2ce.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.ServiceTopologyExtensions property" Url="html/a8ae8669-69ca-5e3a-d85b-8afc5da6918d.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.SupportsSecurity property" Url="html/b720f7cc-f3a0-3e9e-ced8-5e8332e86220.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.SystemNamespaces property" Url="html/7647b73d-5421-e582-6853-cfd1d1c77a91.htm" />
+  <HelpKINode Title="IProtocolDefinitionExt.TransportProtocol property" Url="html/4d96730d-7893-cbbc-9b08-a0bc9c844049.htm" />
+  <HelpKINode Title="IReconfigurationInstructionsExtensions interface">
+    <HelpKINode Title="IReconfigurationInstructionsExtensions Interface" Url="html/784e330c-6d6a-feb2-4dfe-95ff39d31315.htm" />
+    <HelpKINode Title="methods" Url="html/24e7d6c8-2831-c810-7621-e21a66f711be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IReconfigurationInstructionsExtensions.CreateReconfigureInstructionsControl method" Url="html/a7ed07f1-510a-4145-eae9-3e1e6f2c6ed1.htm" />
+  <HelpKINode Title="IReconfigurationInstructionsExtensions.CreateReconfigureInstructionsViewModel method" Url="html/b59649c1-4997-36b5-34ce-a38e05f6cb08.htm" />
+  <HelpKINode Title="IReconfigurationInstructionsExtensions.GetReconfigureInstructionsEndpointLabel method" Url="html/2a133c40-cbe8-0fbb-d0e8-ac29b458a9d1.htm" />
+  <HelpKINode Title="IsDoNotShowAgainChecked property" Url="html/7b66fd4a-e784-fa7b-3b01-25839cb0a19f.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions interface">
+    <HelpKINode Title="IServiceDescriptionEditorExtensions Interface" Url="html/b141c354-80dd-44a5-e783-e9e01fcb9699.htm" />
+    <HelpKINode Title="methods" Url="html/abf93d66-0448-c75b-a261-0d8d27ee635b.htm" />
+    <HelpKINode Title="properties" Url="html/2e39992b-42fd-0fbb-c052-3979fa0fbf42.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetOperationDisplayName method" Url="html/0782e5c9-380e-7fdb-238a-460c073f974a.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetOperationShortName method" Url="html/7480d672-a6f5-e8b0-3351-f92e5f2a5750.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeNoOperationCustomControls method" Url="html/580972ef-0c98-0ba2-7aee-af517fc5789b.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeNoOperationGeneralControl method" Url="html/22cfdd13-969b-d9f7-faef-bf8e3028015e.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeNoOperationViewModel method" Url="html/933e0389-9cee-293e-1e26-4c9a719a8c3a.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeOperationCustomControls method" Url="html/918a40df-e7b1-8103-af57-8e5c070cdcb5.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeOperationGeneralControl method" Url="html/fdfbd1e2-a850-b1c0-520f-7ff4054e5654.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeOperationViewModel method" Url="html/f817cdac-6032-0325-f74d-84807fcd77d1.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSdeOutlineCustomActionsControl method" Url="html/8c6369cb-c975-e5fc-827d-e771129dee35.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.GetSupportedMetadataTypes method" Url="html/e5112c53-94e1-a60f-4c8f-eac835929cf1.htm" />
+  <HelpKINode Title="IServiceDescriptionEditorExtensions.SupportsContentCorrelation property" Url="html/7aba4a04-d5f0-2f42-7682-1d90006d01b8.htm" />
+  <HelpKINode Title="IServiceEditorExtensions interface">
+    <HelpKINode Title="IServiceEditorExtensions Interface" Url="html/88ebf7df-6a01-469f-e9e6-eb5028fc78fa.htm" />
+    <HelpKINode Title="methods" Url="html/03b5529a-f62a-5ea2-6aae-af0639f9ade8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceEditorExtensions.CreateServiceEndpointsControl method" Url="html/446c1bf4-4a38-a7bd-657c-14ae5b412ac6.htm" />
+  <HelpKINode Title="IServiceEditorExtensions.CreateServiceEndpointsViewModel method" Url="html/68b8fbbf-33bf-e5f5-80e6-2c50e823124b.htm" />
+  <HelpKINode Title="IServiceEndpointFormatingManager interface">
+    <HelpKINode Title="IServiceEndpointFormatingManager Interface" Url="html/b0177c0e-fe1f-1082-4dd1-925e92d3e2bb.htm" />
+    <HelpKINode Title="methods" Url="html/d0ea573f-93b4-89a6-2f01-6d76e800caf6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceEndpointFormatingManager.FormatVirtualEndpoint method" Url="html/435fe6f6-3608-d45b-3151-a710dc66f19f.htm" />
+  <HelpKINode Title="IServiceEndpointFormatter interface">
+    <HelpKINode Title="IServiceEndpointFormatter Interface" Url="html/66f049e8-1c18-73bb-830b-82306787096f.htm" />
+    <HelpKINode Title="methods" Url="html/c4fccedd-89c2-8797-73c5-bc61d6b39115.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceEndpointFormatter.FormatVirtualEndpoint method" Url="html/cae1d9f7-24b6-7362-2773-705666a91a35.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel interface">
+    <HelpKINode Title="IServiceEndpointsViewModel Interface" Url="html/c14c1e33-e142-9a9c-d698-ef4954075597.htm" />
+    <HelpKINode Title="methods" Url="html/8ee31551-3253-f34e-d8cc-a30c661bf0bb.htm" />
+    <HelpKINode Title="properties" Url="html/50722e53-9ee6-a832-debb-3ad35c8125a5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceEndpointsViewModel.Agent property" Url="html/ba07707c-5407-5bdd-0187-dfef7d8815e0.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.HasChanges property" Url="html/54a28e52-da98-be6d-9d83-468621247feb.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.IsRefreshing property" Url="html/c1ceb012-3a49-f3d2-ab06-78bec210ed88.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.LockingViewModel property" Url="html/30d9e139-32db-6c5a-481a-479c28917ee0.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.RefreshAgent method" Url="html/61b8754f-adbc-6a31-3873-c25dac9260cf.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.RefreshEndpoints method" Url="html/9976d340-3043-dfbb-d474-29c3781f04ba.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.RefreshNetworkVirtualization method" Url="html/9e69978e-f0b9-57d9-2bc4-2021caa9961d.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.ServiceDescription property" Url="html/f22dd6c2-174c-46bd-20b7-9f40d8323b73.htm" />
+  <HelpKINode Title="IServiceEndpointsViewModel.SetAgentFailureDescription method" Url="html/0d34da4f-4752-30ce-17ca-fd1674ca8145.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel interface">
+    <HelpKINode Title="IServiceEndpointViewModel Interface" Url="html/69ab609e-120f-3c0b-bcfb-0c03cfc01f19.htm" />
+    <HelpKINode Title="methods" Url="html/7a7b43b0-9d7e-3527-9103-0eac24fe3c82.htm" />
+    <HelpKINode Title="properties" Url="html/0bbdfd24-1876-0d83-2276-df32f630f89c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceEndpointViewModel.DisplayedRealServiceUri property" Url="html/28991266-f5f4-afe4-3482-7cfdb17c7912.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.DisplayedVirtualServiceUri property" Url="html/37e7c30f-e9f2-ec99-98ec-7096b546ad64.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.GetVirtualEndpointAddress method" Url="html/5da1820a-73ce-1ea5-e511-fa4a391065d9.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.GetVirtualEndpointInfo method" Url="html/f2827be9-677a-e1f2-b1c1-93ee7261115c.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.IsReconfigurationInstruction property" Url="html/c6770ddf-c7d1-9827-13a4-87f6bab297a6.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.IsSummary property" Url="html/34a50d48-6b34-5718-1abb-273b764d2df5.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.Load method" Url="html/267f25ae-2974-76d6-6744-8b060aabbc80.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.LoadFromServiceDescriptionBuilder method" Url="html/c09749a3-8f4a-bdf4-cb1d-d85005057229.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.NonExistentRealService property" Url="html/4cb303ae-5ed3-bdf4-3fcb-20f4757aea40.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.RealEndpointEditLabel property" Url="html/c9772eec-a47d-407a-d2fe-03fdb792cbd5.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.RealEndpointViewLabel property" Url="html/d93b0663-d1e0-d5d2-2571-44b5c8e238e5.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.Save method" Url="html/073f905c-4043-806c-2c41-401da486d367.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.SetSuggestedAddress method" Url="html/0a231211-db35-e809-cdb9-102f360248cf.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.ValidateRealEndpoint method" Url="html/5504d294-6ce9-63b2-8715-913ab9c254b8.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.ValidateVirtualEndpoint method" Url="html/f8ece2f3-cd30-4b6c-d88a-0f57e32d983d.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.VirtualEndpointEditLabel property" Url="html/742f598b-8bc6-7404-bb16-cdafaac282b8.htm" />
+  <HelpKINode Title="IServiceEndpointViewModel.VirtualEndpointViewLabel property" Url="html/3e55d1ae-4856-a218-62c5-d4e536fcbfc5.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider interface">
+    <HelpKINode Title="IServicePropertiesWizardPageProvider Interface" Url="html/50123b47-8ea7-7022-656c-bc55fff880af.htm" />
+    <HelpKINode Title="methods" Url="html/95dd2679-22ef-e9e1-a770-e586f65619fe.htm" />
+    <HelpKINode Title="properties" Url="html/8c7bcff8-793b-81cd-4203-f635860c2ae0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.Condition property" Url="html/4dbf3028-8880-36a3-d4e2-ae9f2960793a.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.CreateAndSetServiceDescriptionBuilder method" Url="html/e6f397a9-819f-978c-5b9d-bb9c25de03b1.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.CreateServicePropertiesWizardControl method" Url="html/1448b6ca-857f-2c5d-36c4-8fcd87515dac.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.CreateServicePropertiesWizardViewModel method" Url="html/ae22a9bb-67ca-dc23-3cd1-ba749c1846fc.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.Header property" Url="html/f82d21f7-e400-c43c-36a8-b74a21cd9f8f.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.HelpTopicId property" Url="html/ae8af1e3-521a-4cf2-c604-44bd53984ed7.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.SaveWizardServiceProperties method" Url="html/eeef8e6c-762e-908d-12c4-fb84e7777ed2.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.Title property" Url="html/fda584dd-b505-e427-916e-1cca692d1a22.htm" />
+  <HelpKINode Title="IServicePropertiesWizardPageProvider.VerticalScrollBarVisibility property" Url="html/6afeab61-7c79-5de0-04d3-24e66b085477.htm" />
+  <HelpKINode Title="IServiceTopologyExtensions interface">
+    <HelpKINode Title="IServiceTopologyExtensions Interface" Url="html/efe98975-7e00-d374-ae9a-8e9fb33c4cbd.htm" />
+    <HelpKINode Title="methods" Url="html/f9a97cdd-7f39-8f9b-23fe-d4a5c7e959c1.htm" />
+    <HelpKINode Title="properties" Url="html/efe27ef9-fb98-de38-1dae-c8b559081177.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServiceTopologyExtensions.CreateServiceTopologyControl method" Url="html/f0fc2840-badd-0244-f24e-6368aa2937d1.htm" />
+  <HelpKINode Title="IServiceTopologyExtensions.CreateServiceTopologyViewModel method" Url="html/fcca60ae-b7c9-c613-a9f2-6d31e4735458.htm" />
+  <HelpKINode Title="IServiceTopologyExtensions.ServiceTopologyDialogHeight property" Url="html/5160fe6c-efeb-973d-b482-3686e43697a0.htm" />
+  <HelpKINode Title="IServiceTopologyExtensions.ServiceTopologyDialogWidth property" Url="html/dfa40b83-e9e1-0b82-1bbc-be93c9e58190.htm" />
+  <HelpKINode Title="IsLoading property" Url="html/1923e2d0-175f-a841-7789-588e6a2a89cb.htm" />
+  <HelpKINode Title="ISoapEndpointEditing interface">
+    <HelpKINode Title="ISoapEndpointEditing Interface" Url="html/2b333a27-5ded-4ff7-6a59-b3ad72a44e67.htm" />
+    <HelpKINode Title="properties" Url="html/4f802e9c-4ae7-24d8-5395-bb824528f986.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISoapEndpointEditing.IsSoap property" Url="html/3677b3dc-8453-7883-47d9-bc36cf11b723.htm" />
+  <HelpKINode Title="IsReconfigurationInstruction property" Url="html/c6770ddf-c7d1-9827-13a4-87f6bab297a6.htm" />
+  <HelpKINode Title="IsRefreshing property" Url="html/c1ceb012-3a49-f3d2-ab06-78bec210ed88.htm" />
+  <HelpKINode Title="IsSoap property" Url="html/3677b3dc-8453-7883-47d9-bc36cf11b723.htm" />
+  <HelpKINode Title="IsSummary property" Url="html/34a50d48-6b34-5718-1abb-273b764d2df5.htm" />
+  <HelpKINode Title="ISupportsServiceEndpointsTopology interface">
+    <HelpKINode Title="ISupportsServiceEndpointsTopology Interface" Url="html/778dc725-8cc0-f9b9-e993-97365a46801c.htm" />
+    <HelpKINode Title="properties" Url="html/0b0a5909-fb28-b637-af5c-d4f953326637.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISupportsServiceEndpointsTopology.SupportsServiceEndpointsTopology property" Url="html/5cfa0fb1-69e5-25a4-9268-cafa84a19400.htm" />
+  <HelpKINode Title="Items property" Url="html/c6411290-9adf-73d2-bf50-7ef7b2ea28bf.htm" />
+  <HelpKINode Title="L10nNameDescription class">
+    <HelpKINode Title="L10nNameDescription Class" Url="html/738f9011-c609-39d9-4b6a-81cf2c17c40e.htm" />
+    <HelpKINode Title="properties" Url="html/ae22e6c9-d8ce-85c8-cee4-a3c2a008070a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="L10nNameDescription.Description property" Url="html/b1dd3306-b9c2-8cef-1476-05dce89f7544.htm" />
+  <HelpKINode Title="L10nNameDescription.DisplayName property" Url="html/960ea442-3b11-36d6-365d-bff1c717e7ea.htm" />
+  <HelpKINode Title="Load method" Url="html/267f25ae-2974-76d6-6744-8b060aabbc80.htm" />
+  <HelpKINode Title="LoadCurrentData method" Url="html/749e3f46-90e3-e625-eefe-4a72bde1db2f.htm" />
+  <HelpKINode Title="LoadFailed method" Url="html/0e62da65-cf39-f8cf-c156-d21ea72f8f49.htm" />
+  <HelpKINode Title="LoadFromContext method">
+    <HelpKINode Title="GenericEndpointViewModel.LoadFromContext Method " Url="html/875fe012-6800-8da8-c523-493893b5df0a.htm" />
+    <HelpKINode Title="IDictionaryContextViewModel.LoadFromContext Method " Url="html/e41d135c-412d-c3fb-770f-0b954d3f2f1c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoadFromEndpoints method" Url="html/08d7d1db-44da-6144-be8f-3e716e7e27e0.htm" />
+  <HelpKINode Title="LoadFromServiceDescriptionBuilder method">
+    <HelpKINode Title="GenericEndpointViewModel.LoadFromServiceDescriptionBuilder Method " Url="html/426cc54d-819b-2e71-21de-24429997a2a2.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.LoadFromServiceDescriptionBuilder Method " Url="html/c09749a3-8f4a-bdf4-cb1d-d85005057229.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoadingWelcome property" Url="html/503a8d55-4242-6f50-0beb-823b8ecd4389.htm" />
+  <HelpKINode Title="LoadInternal method" Url="html/b16e2476-37a9-3fea-9c0d-65de156c81e2.htm" />
+  <HelpKINode Title="LoadServiceData method" Url="html/2fef2bef-3245-2bbd-2147-6ec5ad3d8c98.htm" />
+  <HelpKINode Title="LoadWelcomeFailed property" Url="html/a784c7b3-c281-6ba3-4861-8b1155a4e90a.htm" />
+  <HelpKINode Title="LockingViewModel property" Url="html/30d9e139-32db-6c5a-481a-479c28917ee0.htm" />
+  <HelpKINode Title="Map method" Url="html/9f789b65-1504-9283-ffd8-337cdac16f9b.htm" />
+  <HelpKINode Title="MessageImportExtensions property" Url="html/455f1188-c7e2-5e5b-7cc8-0308ff2b89ce.htm" />
+  <HelpKINode Title="MessageLoggerExtensions property" Url="html/898b6097-0feb-8d24-7fe0-021faf3ab316.htm" />
+  <HelpKINode Title="MessageProtocol property" Url="html/d4e81fe8-86c5-9105-daf5-d3eb7474e80d.htm" />
+  <HelpKINode Title="MultiSelect method" Url="html/d2570f93-81c7-d851-8fd3-2f47862ebef3.htm" />
+  <HelpKINode Title="MultiUnselect method" Url="html/3e70e7c6-cc55-a1b9-7e97-8823cfe59277.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="DataSourceType.Name Property " Url="html/50b23e45-2a46-ae86-c945-d60fb9d44d86.htm" />
+    <HelpKINode Title="ScriptType.Name Property " Url="html/c4465c8f-8322-1cee-0f76-e42071154821.htm" />
+    <HelpKINode Title="ScriptTypeViewModel.Name Property " Url="html/02792d40-50d2-986c-2bc4-9f065650b0f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NewDataSourceOptionDescription property" Url="html/779f36c9-0dc3-7d33-b35a-d5bc1c0288a2.htm" />
+  <HelpKINode Title="NewRealServices property" Url="html/bc606902-d411-096f-1db8-91a8fbd846fc.htm" />
+  <HelpKINode Title="NewServiceWizardExtensions property" Url="html/8688b288-3472-e5d3-a5d7-97913c6e774c.htm" />
+  <HelpKINode Title="NonExistentRealService property">
+    <HelpKINode Title="GenericEndpointViewModel.NonExistentRealService Property " Url="html/4992ec4e-a182-0369-ab7b-06d5b2da04a7.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.NonExistentRealService Property " Url="html/4cb303ae-5ed3-bdf4-3fcb-20f4757aea40.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnAgentChanged method" Url="html/f0d4b81f-8e43-88c0-b496-89edb8eb78c0.htm" />
+  <HelpKINode Title="OnAttributeChanged method" Url="html/7bcc7ecd-154e-62e5-d8bf-ff55d717a3fb.htm" />
+  <HelpKINode Title="OutlineExtensions property" Url="html/c5d0aec6-cbaf-b9fa-690a-7fecbfbd2e6b.htm" />
+  <HelpKINode Title="Properties property" Url="html/4cce27cb-cdaf-906b-2ad6-620e2fa40d8b.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/e30073e4-7e1b-b242-b32f-11d05d8e11c8.htm" />
+  <HelpKINode Title="PropertyNameToLabel method" Url="html/749a0b13-50be-55c9-aae2-3473ea6ba89c.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf class">
+    <HelpKINode Title="PropertyViewModelBaseWpf Class" Url="html/be98d308-3ce2-78e9-812c-2bde87d46ae5.htm" />
+    <HelpKINode Title="constructor" Url="html/46ff3109-e311-6637-f0cf-21476977eb9c.htm" />
+    <HelpKINode Title="events" Url="html/f3d56f8e-bb72-b86e-18b6-fc353b613955.htm" />
+    <HelpKINode Title="fields" Url="html/5ed9a367-571e-3947-5f0c-5a51ec8e74f7.htm" />
+    <HelpKINode Title="methods" Url="html/4b140953-e891-63b7-6407-2fe734106b6c.htm" />
+    <HelpKINode Title="properties" Url="html/224b0153-0a16-49f6-75c2-f79a9d32d19b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyViewModelBaseWpf.CreateCheckBoxControl method" Url="html/0c748028-3bdc-1be1-f6ef-5db5d6705add.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.CreateEditingControl method" Url="html/83c8b4b1-b793-28dd-47e5-c3bc1ecf549a.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.CreateTextBoxControl method" Url="html/f87ee991-b19d-c390-e4d3-8c8114e46b30.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.EditingControl property" Url="html/cf74b96a-c555-7467-161e-7bb65b920c37.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.FirePropertyChanged method" Url="html/25a1a386-70ab-4764-455f-ee6dbbee9319.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.PropertyChanged event" Url="html/e30073e4-7e1b-b242-b32f-11d05d8e11c8.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.PropertyNameToLabel method" Url="html/749a0b13-50be-55c9-aae2-3473ea6ba89c.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.PropertyViewModelBaseWpf constructor" Url="html/46ff3109-e311-6637-f0cf-21476977eb9c.htm" />
+  <HelpKINode Title="PropertyViewModelBaseWpf.VerifyPropertyName method" Url="html/b80aba99-10b6-9da2-266f-1c5075991384.htm" />
+  <HelpKINode Title="ProtocolCapability property" Url="html/5bf81a0b-15d8-ad5f-ccac-4903fc5c9ad1.htm" />
+  <HelpKINode Title="ProtocolDefinition property" Url="html/59a122a8-697c-8ddc-d035-bc8397869ef4.htm" />
+  <HelpKINode Title="ProtocolDefinitionId property" Url="html/6a7389b6-e631-f8ca-b231-2ef7abdd4f49.htm" />
+  <HelpKINode Title="ProtocolDefinitions property" Url="html/d5cc1d75-fb9d-8610-9c3b-d1f82410c186.htm" />
+  <HelpKINode Title="ProtocolResources property" Url="html/d0e3784b-3812-474b-233b-fbfff8f3bedb.htm" />
+  <HelpKINode Title="QuickStartDialog class">
+    <HelpKINode Title="QuickStartDialog Class" Url="html/bc5142e8-0be6-2fc1-b418-ca6fe022d4d1.htm" />
+    <HelpKINode Title="constructor" Url="html/902a37a3-cd47-3ad7-2d9e-412f0a674bbc.htm" />
+    <HelpKINode Title="methods" Url="html/ec39c5fb-8ad9-8a24-47ac-ee106a9ac37f.htm" />
+    <HelpKINode Title="properties" Url="html/067e76ea-6265-f144-c1df-85f683776e66.htm" />
+  </HelpKINode>
+  <HelpKINode Title="QuickStartDialog.InitializeComponent method" Url="html/82acf3b0-728b-f428-038a-162697e2f03b.htm" />
+  <HelpKINode Title="QuickStartDialog.IsDoNotShowAgainChecked property" Url="html/7b66fd4a-e784-fa7b-3b01-25839cb0a19f.htm" />
+  <HelpKINode Title="QuickStartDialog.QuickStartDialog constructor" Url="html/902a37a3-cd47-3ad7-2d9e-412f0a674bbc.htm" />
+  <HelpKINode Title="RawConfiguration property" Url="html/e8729582-d54c-339b-3400-7c3659015197.htm" />
+  <HelpKINode Title="RealEndpointEditLabel property" Url="html/c9772eec-a47d-407a-d2fe-03fdb792cbd5.htm" />
+  <HelpKINode Title="RealEndpointViewLabel property" Url="html/d93b0663-d1e0-d5d2-2571-44b5c8e238e5.htm" />
+  <HelpKINode Title="RealServiceAttributes property" Url="html/e719af80-6346-bdb2-fdc6-95b5c20ad433.htm" />
+  <HelpKINode Title="ReconfigurationInstructionsExtensions property" Url="html/9305f516-7ced-0540-ca9e-dcafb99a9fa4.htm" />
+  <HelpKINode Title="RefreshAgent method" Url="html/61b8754f-adbc-6a31-3873-c25dac9260cf.htm" />
+  <HelpKINode Title="RefreshEndpoints method" Url="html/9976d340-3043-dfbb-d474-29c3781f04ba.htm" />
+  <HelpKINode Title="RefreshNetworkVirtualization method" Url="html/9e69978e-f0b9-57d9-2bc4-2021caa9961d.htm" />
+  <HelpKINode Title="RunPreviewRequestUI method" Url="html/fc8e082d-dc97-467e-5bf8-f2c997ea5c63.htm" />
+  <HelpKINode Title="RunUI method" Url="html/b5ac3c3b-5571-083b-41d2-c553d4e100c0.htm" />
+  <HelpKINode Title="Save method" Url="html/073f905c-4043-806c-2c41-401da486d367.htm" />
+  <HelpKINode Title="SaveInternal method" Url="html/afd21499-18a2-6858-455e-5023ac0b3d1d.htm" />
+  <HelpKINode Title="SavePropertiesToSpecificConfiguration method" Url="html/338615b7-6e69-a55d-4eed-587b84fd7ddd.htm" />
+  <HelpKINode Title="SaveToContext method" Url="html/4446ef53-39c4-b4ed-ae9b-1301298efe66.htm" />
+  <HelpKINode Title="SaveToContextInternal method" Url="html/282b21ee-5f06-be8c-d5d0-3622fad40d98.htm" />
+  <HelpKINode Title="SaveWizardServiceProperties method" Url="html/eeef8e6c-762e-908d-12c4-fb84e7777ed2.htm" />
+  <HelpKINode Title="ScriptName property" Url="html/ef9b67fb-0ea9-955a-5b1a-9b7d5751b2c2.htm" />
+  <HelpKINode Title="ScriptType class">
+    <HelpKINode Title="ScriptType Class" Url="html/6a0c0bba-e06b-7be3-6e29-c2067d32c2b5.htm" />
+    <HelpKINode Title="constructor" Url="html/ccbb415b-7835-dc0c-fde5-20a3ac87587e.htm" />
+    <HelpKINode Title="methods" Url="html/512a9f7e-d289-8a3b-28ff-e155e46af3db.htm" />
+    <HelpKINode Title="properties" Url="html/f8b67f2b-85a9-b1b4-54db-42182ae18c95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScriptType.DesignerCoreInst property" Url="html/7191105b-875d-fefb-3892-5ca1b8a0eabc.htm" />
+  <HelpKINode Title="ScriptType.Extension property" Url="html/b26509d1-a60c-6b74-10c2-d94692b2b59d.htm" />
+  <HelpKINode Title="ScriptType.GetNewScriptContent method" Url="html/ff69fc92-106b-758c-a290-a793aa6de062.htm" />
+  <HelpKINode Title="ScriptType.GetResourceContent method" Url="html/09c0828a-208e-cd80-4c2b-4b4dc068b609.htm" />
+  <HelpKINode Title="ScriptType.Name property" Url="html/c4465c8f-8322-1cee-0f76-e42071154821.htm" />
+  <HelpKINode Title="ScriptType.ScriptType constructor" Url="html/ccbb415b-7835-dc0c-fde5-20a3ac87587e.htm" />
+  <HelpKINode Title="ScriptTypeCs class">
+    <HelpKINode Title="ScriptTypeCs Class" Url="html/905ea30c-0e94-053e-3c2c-3ba2e745e983.htm" />
+    <HelpKINode Title="constructor" Url="html/a894adab-754b-3746-7ddb-3f0d7a0d9936.htm" />
+    <HelpKINode Title="fields" Url="html/5fbaa525-b393-11f2-1478-ab5061ce678e.htm" />
+    <HelpKINode Title="methods" Url="html/2c8be465-ddb2-a870-9702-9096cdca1b67.htm" />
+    <HelpKINode Title="properties" Url="html/2e4adc43-e503-1657-fcd5-73fdf6636822.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScriptTypeCs.Extension field" Url="html/fa10a9d7-74d1-a7d4-853c-f802e57f4846.htm" />
+  <HelpKINode Title="ScriptTypeCs.GetNewScriptContent method" Url="html/9f673206-bed9-c617-b2b1-157480bd6757.htm" />
+  <HelpKINode Title="ScriptTypeCs.ScriptTypeCs constructor" Url="html/a894adab-754b-3746-7ddb-3f0d7a0d9936.htm" />
+  <HelpKINode Title="ScriptTypeCs.TemplateResourceKey field" Url="html/73699273-ad39-6fca-2757-929c796e8b95.htm" />
+  <HelpKINode Title="ScriptTypeJs class">
+    <HelpKINode Title="ScriptTypeJs Class" Url="html/e4fced50-e60c-5c7e-9e0b-f17332a25ebb.htm" />
+    <HelpKINode Title="constructor" Url="html/4cfcfdf5-781e-a84d-38de-51d87aaa49a9.htm" />
+    <HelpKINode Title="fields" Url="html/5fdd6c5f-e708-56cc-4b9b-ab0af7764f99.htm" />
+    <HelpKINode Title="methods" Url="html/9715d304-8bac-9343-10e3-6502a552d572.htm" />
+    <HelpKINode Title="properties" Url="html/903565f9-36a1-fb7e-08c6-6b1183fa3732.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScriptTypeJs.Extension field" Url="html/faf8934f-2ba9-ccfc-8dd9-757f10d18418.htm" />
+  <HelpKINode Title="ScriptTypeJs.GetNewScriptContent method" Url="html/532af9b1-51c6-bea6-1f19-4d77a3d0c9fc.htm" />
+  <HelpKINode Title="ScriptTypeJs.ScriptTypeJs constructor" Url="html/4cfcfdf5-781e-a84d-38de-51d87aaa49a9.htm" />
+  <HelpKINode Title="ScriptTypeJs.TemplateResourceKey field" Url="html/c6addad2-c248-839a-3823-302f947e4a50.htm" />
+  <HelpKINode Title="ScriptTypeRegistry class">
+    <HelpKINode Title="ScriptTypeRegistry Class" Url="html/d8cb65d3-4247-2081-973c-f7fa9d696c75.htm" />
+    <HelpKINode Title="methods" Url="html/6b4a4213-1289-fd8d-182d-f5b7a74eac12.htm" />
+    <HelpKINode Title="properties" Url="html/9f1c9923-7823-b151-3b94-9286813ada8f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScriptTypeRegistry.DefaultScriptType property" Url="html/b8d1aae2-4327-cdb8-5acf-7d6479164c03.htm" />
+  <HelpKINode Title="ScriptTypeRegistry.GetScriptTypeForFileName method" Url="html/ae678d3f-221e-4c76-ee22-7c2bdb4d34dd.htm" />
+  <HelpKINode Title="ScriptTypeRegistry.Instance property" Url="html/a08160c6-f5e7-fd07-e5f0-7e4bfb7ded04.htm" />
+  <HelpKINode Title="ScriptTypeRegistry.Items property" Url="html/c6411290-9adf-73d2-bf50-7ef7b2ea28bf.htm" />
+  <HelpKINode Title="ScriptTypes property" Url="html/f38bd09b-57c9-b20c-ad80-f24eca2d25fe.htm" />
+  <HelpKINode Title="ScriptTypeViewModel class">
+    <HelpKINode Title="ScriptTypeViewModel Class" Url="html/0ee73aee-d777-1dc3-abd3-5c242d8adf5a.htm" />
+    <HelpKINode Title="constructor" Url="html/e9cff69b-00c1-e712-1cb9-994538164828.htm" />
+    <HelpKINode Title="properties" Url="html/526d5b34-166b-6d72-b99e-18582a0f9835.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ScriptTypeViewModel.Extension property" Url="html/91078a2e-f523-5a0f-661b-9bd55a5cd39c.htm" />
+  <HelpKINode Title="ScriptTypeViewModel.Name property" Url="html/02792d40-50d2-986c-2bc4-9f065650b0f8.htm" />
+  <HelpKINode Title="ScriptTypeViewModel.ScriptTypeViewModel constructor" Url="html/e9cff69b-00c1-e712-1cb9-994538164828.htm" />
+  <HelpKINode Title="SelectedScriptType property" Url="html/d6bad0ea-207d-2a4a-aff4-4ad7265fd649.htm" />
+  <HelpKINode Title="SelectPrefferedAgent method" Url="html/b3ed3d7a-f2d1-848f-455f-b9f60f2527fa.htm" />
+  <HelpKINode Title="ServiceCallActivityRequestAgentLabel property" Url="html/3f2adb09-e322-56cc-3466-065645d291d7.htm" />
+  <HelpKINode Title="ServiceCallActivityResponseAgentLabel property" Url="html/a3ca7ad0-f57f-5719-e77f-0a9203ad328e.htm" />
+  <HelpKINode Title="ServiceDescription property" Url="html/f22dd6c2-174c-46bd-20b7-9f40d8323b73.htm" />
+  <HelpKINode Title="ServiceDescriptionEditorExtensions property" Url="html/4def47e0-8078-f5ff-4287-7e02eee37f69.htm" />
+  <HelpKINode Title="ServiceEditorExtensions property" Url="html/d7abc3b5-a306-832f-8b03-4bb3286bf2ce.htm" />
+  <HelpKINode Title="ServiceTopologyDialogHeight property" Url="html/5160fe6c-efeb-973d-b482-3686e43697a0.htm" />
+  <HelpKINode Title="ServiceTopologyDialogWidth property" Url="html/dfa40b83-e9e1-0b82-1bbc-be93c9e58190.htm" />
+  <HelpKINode Title="ServiceTopologyExtensions property" Url="html/a8ae8669-69ca-5e3a-d85b-8afc5da6918d.htm" />
+  <HelpKINode Title="SetAgentFailureDescription method" Url="html/0d34da4f-4752-30ce-17ca-fd1674ca8145.htm" />
+  <HelpKINode Title="SetAttributeNotPresent method" Url="html/0b806221-5b84-8493-7071-3ddd12861eaf.htm" />
+  <HelpKINode Title="SetAttributeValue method" Url="html/4a515f8a-ce14-df71-bb60-1c7d31068665.htm" />
+  <HelpKINode Title="SetContextValue method" Url="html/30964e74-afe7-717f-9f2b-0c1bb6434d4f.htm" />
+  <HelpKINode Title="SetSuggestedAddress method" Url="html/0a231211-db35-e809-cdb9-102f360248cf.htm" />
+  <HelpKINode Title="SetupStyles method" Url="html/54d2818b-e389-edcc-9238-7cdce8846a27.htm" />
+  <HelpKINode Title="SetValidationError method" Url="html/c8f6267c-6148-28a4-84bd-b3a02c1b1e68.htm" />
+  <HelpKINode Title="ShowAgentUriInRealServiceUri property" Url="html/c5476a1d-d74a-26e0-1cbe-f06a3c08b4de.htm" />
+  <HelpKINode Title="ShowAgentUriInVirtualServiceUri property" Url="html/5f23b18f-16e2-1665-d4b1-6979c5062605.htm" />
+  <HelpKINode Title="ShowCerficateFileError property" Url="html/a696416f-4e9b-fb40-1996-8a8ee148bac6.htm" />
+  <HelpKINode Title="ShowEditionsCommand property" Url="html/8968776e-a41e-460c-e352-eff796afd85d.htm" />
+  <HelpKINode Title="ShowLicensingCommand property" Url="html/62edcdcb-07fa-39f7-c1f8-fa7195ea51ff.htm" />
+  <HelpKINode Title="ShowMetadataByDefault method" Url="html/59be3a5d-7299-4f16-c4b7-7aa9647b1dfd.htm" />
+  <HelpKINode Title="ShowMultipleRealServices property" Url="html/5a78c086-fea9-fa31-ed86-366f9b3bb7f1.htm" />
+  <HelpKINode Title="ShowServiceTypeLabel property" Url="html/3b995c1b-e198-89f1-c79f-7d27ce3f4063.htm" />
+  <HelpKINode Title="ShowVideosCommand property" Url="html/aaa40901-29da-859d-532f-abfc35289a54.htm" />
+  <HelpKINode Title="SpecifyPcapImportOperation method" Url="html/035f1d28-e454-5af0-3cdc-3ee7c635ef97.htm" />
+  <HelpKINode Title="StartLoadingTask method" Url="html/665854aa-2c73-0540-1dee-edc495f50039.htm" />
+  <HelpKINode Title="StoredUriPrefix property" Url="html/a41d58bf-a33a-9341-2ef0-ee8564e94455.htm" />
+  <HelpKINode Title="SuggestVirtualServiceName method" Url="html/afccd765-a6a5-4233-f386-5f6b4c38a9ed.htm" />
+  <HelpKINode Title="SupportsAgent method" Url="html/4643ae2e-f4d2-1a59-2e5c-931f51deba79.htm" />
+  <HelpKINode Title="SupportsContentCorrelation property" Url="html/7aba4a04-d5f0-2f42-7682-1d90006d01b8.htm" />
+  <HelpKINode Title="SupportsEncodingSelection property" Url="html/4ef571a2-280e-44d0-a8b7-c61b8056d73e.htm" />
+  <HelpKINode Title="SupportsSecurity property" Url="html/b720f7cc-f3a0-3e9e-ced8-5e8332e86220.htm" />
+  <HelpKINode Title="SupportsServiceEndpointsTopology property" Url="html/5cfa0fb1-69e5-25a4-9268-cafa84a19400.htm" />
+  <HelpKINode Title="SystemNamespaces property" Url="html/7647b73d-5421-e582-6853-cfd1d1c77a91.htm" />
+  <HelpKINode Title="TemplateResourceKey field">
+    <HelpKINode Title="ScriptTypeCs.TemplateResourceKey Field" Url="html/73699273-ad39-6fca-2757-929c796e8b95.htm" />
+    <HelpKINode Title="ScriptTypeJs.TemplateResourceKey Field" Url="html/c6addad2-c248-839a-3823-302f947e4a50.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Title property" Url="html/fda584dd-b505-e427-916e-1cca692d1a22.htm" />
+  <HelpKINode Title="TransportProtocol property" Url="html/4d96730d-7893-cbbc-9b08-a0bc9c844049.htm" />
+  <HelpKINode Title="UpdateEndpointProperties method" Url="html/a3103215-be0a-2e67-0a67-112e14d42a1a.htm" />
+  <HelpKINode Title="ValidateRealEndpoint method">
+    <HelpKINode Title="GenericEndpointViewModel.ValidateRealEndpoint Method " Url="html/4261784d-ee03-6d70-3805-350f409f6da8.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.ValidateRealEndpoint Method " Url="html/5504d294-6ce9-63b2-8715-913ab9c254b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ValidateRealServices method" Url="html/51e6c96a-4768-0354-7dde-6a83230b9f23.htm" />
+  <HelpKINode Title="ValidateVirtualEndpoint method">
+    <HelpKINode Title="GenericEndpointViewModel.ValidateVirtualEndpoint Method " Url="html/fd6db3aa-2fe7-40d1-e025-4cf616fdd243.htm" />
+    <HelpKINode Title="IServiceEndpointViewModel.ValidateVirtualEndpoint Method " Url="html/f8ece2f3-cd30-4b6c-d88a-0f57e32d983d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VerifyPropertyName method" Url="html/b80aba99-10b6-9da2-266f-1c5075991384.htm" />
+  <HelpKINode Title="VerticalScrollBarVisibility property" Url="html/6afeab61-7c79-5de0-04d3-24e66b085477.htm" />
+  <HelpKINode Title="View enumeration member" Url="html/694e5c57-c144-0a8c-a45d-7f162f5f908e.htm" />
+  <HelpKINode Title="ViewModel property" Url="html/b893feeb-2b57-9c44-dbf3-068bbb46be37.htm" />
+  <HelpKINode Title="VirtualEndpointEditLabel property" Url="html/742f598b-8bc6-7404-bb16-cdafaac282b8.htm" />
+  <HelpKINode Title="VirtualEndpointViewLabel property" Url="html/3e55d1ae-4856-a218-62c5-d4e536fcbfc5.htm" />
+  <HelpKINode Title="VirtualServiceAttributes property" Url="html/15de8740-9dd0-f49e-1829-8f68a70257ae.htm" />
+  <HelpKINode Title="WelcomeGroups property" Url="html/163cdf76-8c6d-e402-047b-7d60c901a5bf.htm" />
+  <HelpKINode Title="WelcomeProvider class">
+    <HelpKINode Title="WelcomeProvider Class" Url="html/fdf42356-ea2d-beef-68fd-00b6ed14aab1.htm" />
+    <HelpKINode Title="methods" Url="html/62d98fad-21f6-0999-8aba-76525ad74474.htm" />
+    <HelpKINode Title="properties" Url="html/c20afe14-505c-67cb-6fd0-269fbd6ddbcb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WelcomeProvider.DesignerCoreInst property" Url="html/513b34b9-d6f4-5834-f703-54bc87df211e.htm" />
+  <HelpKINode Title="WelcomeProvider.Instance property" Url="html/9cdfb894-7cca-2215-8a1e-5cef630290f0.htm" />
+  <HelpKINode Title="WelcomeProvider.IsLoading property" Url="html/1923e2d0-175f-a841-7789-588e6a2a89cb.htm" />
+  <HelpKINode Title="WelcomeProvider.LoadCurrentData method" Url="html/749e3f46-90e3-e625-eefe-4a72bde1db2f.htm" />
+  <HelpKINode Title="WelcomeProvider.LoadingWelcome property" Url="html/503a8d55-4242-6f50-0beb-823b8ecd4389.htm" />
+  <HelpKINode Title="WelcomeProvider.LoadWelcomeFailed property" Url="html/a784c7b3-c281-6ba3-4861-8b1155a4e90a.htm" />
+  <HelpKINode Title="WelcomeProvider.StartLoadingTask method" Url="html/665854aa-2c73-0540-1dee-edc495f50039.htm" />
+  <HelpKINode Title="WelcomeProvider.WelcomeGroups property" Url="html/163cdf76-8c6d-e402-047b-7d60c901a5bf.htm" />
+</HelpKI>
