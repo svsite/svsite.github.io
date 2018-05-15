@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="565d6801-1705-4b12-a65e-d30846df881a" Title="HP.SV.DotNetRuleApi" Url="html/00bf7127-9603-0234-c4f7-b48c6ba94ce5.htm">
-    <HelpTOCNode Id="680376c5-3c9e-4705-a857-05ab81a61e1c" Title="HpsvActivitiesBase Class" Url="html/c966033e-76a3-34c3-b377-1466b0639b45.htm">
-      <HelpTOCNode Id="3a8d86d1-3f53-4b67-ada1-cf709e61db26" Title="HpsvActivitiesBase Properties" Url="html/b78a37dd-5725-3746-4ded-f9c93928eaa7.htm">
+  <HelpTOCNode Id="23d4582d-d23e-4204-8bd2-37e2bca98b6d" Title="HP.SV.DotNetRuleApi" Url="html/00bf7127-9603-0234-c4f7-b48c6ba94ce5.htm">
+    <HelpTOCNode Id="e845d260-7562-45be-a897-c66c124d57eb" Title="HpsvActivitiesBase Class" Url="html/c966033e-76a3-34c3-b377-1466b0639b45.htm">
+      <HelpTOCNode Id="8b853e18-e6cc-46f1-ad00-3096245b5bf7" Title="HpsvActivitiesBase Properties" Url="html/b78a37dd-5725-3746-4ded-f9c93928eaa7.htm">
         <HelpTOCNode Title="Count Property " Url="html/babcef5f-6d9f-8cd7-b742-6145920b8aa6.htm" />
         <HelpTOCNode Title="Item Property " Url="html/49ed8dbf-c1f1-6092-d108-7a788e33efd2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5f08c039-6147-432c-b10b-b245bbe2e870" Title="HpsvActivityBase Class" Url="html/12b8007e-ec92-2a18-0d38-7ce83a0ed0f5.htm">
-      <HelpTOCNode Id="1397dc2f-dc49-4f12-a735-bc3dc4ebd497" Title="HpsvActivityBase Properties" Url="html/5d1908c3-1a53-2b11-4ed8-15142d7f5df8.htm">
+    <HelpTOCNode Id="11960d45-7f78-49dc-89a8-d9dccd579e28" Title="HpsvActivityBase Class" Url="html/12b8007e-ec92-2a18-0d38-7ce83a0ed0f5.htm">
+      <HelpTOCNode Id="3910c099-fa6a-4502-9363-4c823815b4a2" Title="HpsvActivityBase Properties" Url="html/5d1908c3-1a53-2b11-4ed8-15142d7f5df8.htm">
         <HelpTOCNode Title="Request Property " Url="html/96430996-39ca-ad4e-9fac-3f64df077113.htm" />
         <HelpTOCNode Title="Response Property " Url="html/a40b80d5-eca5-b1d4-74da-e11a96d2d0c4.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fafc1d70-1dc8-474f-a80e-4e895300b72a" Title="HpsvArray Class" Url="html/a9b99986-c2ef-ffd2-0acf-8af7ba9c000b.htm">
+    <HelpTOCNode Id="432c2609-9e86-4478-9753-1ae65031ebc6" Title="HpsvArray Class" Url="html/a9b99986-c2ef-ffd2-0acf-8af7ba9c000b.htm">
       <HelpTOCNode Title="HpsvArray Constructor " Url="html/de6428ce-5087-9a90-3cd3-a8a707f89bca.htm" />
-      <HelpTOCNode Id="ba94fdfd-94bb-47f4-be92-e09e891729cf" Title="HpsvArray Properties" Url="html/e15682ac-5dc0-15f3-f36e-97113b02e037.htm">
+      <HelpTOCNode Id="ebfd4639-1d7b-461d-80fb-24c6830bb2e7" Title="HpsvArray Properties" Url="html/e15682ac-5dc0-15f3-f36e-97113b02e037.htm">
         <HelpTOCNode Title="Count Property " Url="html/a8061590-4a8c-d11a-c17a-1a254563f2d7.htm" />
         <HelpTOCNode Title="Items Property " Url="html/933620cd-089d-315d-316e-978a4f0c3be2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="543a283c-a974-462a-b47c-8ef01636a8df" Title="HpsvArray Methods" Url="html/38df845d-1f49-b88a-b623-fab9343358c6.htm">
+      <HelpTOCNode Id="b52077b9-43ae-4098-856e-84e9d0603f6e" Title="HpsvArray Methods" Url="html/38df845d-1f49-b88a-b623-fab9343358c6.htm">
         <HelpTOCNode Title="Clear Method " Url="html/de692b79-1863-74bf-12e6-3193cc5e114f.htm" />
         <HelpTOCNode Title="GetGenericItem Method " Url="html/85a011f0-0469-7f3a-4d4f-49654d2e5c23.htm" />
         <HelpTOCNode Title="IsNil Method " Url="html/7e10f4c4-1142-98da-0cac-32f1b4a2e39b.htm" />
@@ -31,19 +31,19 @@
         <HelpTOCNode Title="SetNotPresent Method " Url="html/4ca0c317-52b7-06f0-a77d-f863375eb5b2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="19fe95cf-90d1-4b08-b8a0-7fa21b390db4" Title="HpsvContext Class" Url="html/1b56d312-50d9-7468-21dc-fd9e33ad9b0f.htm">
-      <HelpTOCNode Id="bf2bfe62-4cb4-458b-b365-80afa7cad9fd" Title="HpsvContext Properties" Url="html/51f5b41e-1cb7-3c47-722b-09b7da4b42ae.htm">
+    <HelpTOCNode Id="5af1f55a-0874-4863-bd0f-4b284c937e27" Title="HpsvContext Class" Url="html/1b56d312-50d9-7468-21dc-fd9e33ad9b0f.htm">
+      <HelpTOCNode Id="24b3b63d-7993-4049-9f4f-c86b679f9606" Title="HpsvContext Properties" Url="html/51f5b41e-1cb7-3c47-722b-09b7da4b42ae.htm">
         <HelpTOCNode Title="Item Property " Url="html/d72124be-3d9d-fd13-c082-a1e5fa3e389f.htm" />
         <HelpTOCNode Title="Keys Property " Url="html/1a14a8da-f7fe-aac8-ae7e-8c0bef60ccc6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1438c114-7a06-4a27-9f8b-aa36f26ef3f4" Title="HpsvContext Methods" Url="html/dd3c4e81-b6bc-79d8-9618-843a66ddace5.htm">
+      <HelpTOCNode Id="a26e3f20-2b9e-4beb-8c2a-b19250bc454e" Title="HpsvContext Methods" Url="html/dd3c4e81-b6bc-79d8-9618-843a66ddace5.htm">
         <HelpTOCNode Title="Add Method " Url="html/959226db-96dd-1db7-ee00-74e0e649ce43.htm" />
         <HelpTOCNode Title="ContainsKey Method " Url="html/aa56e7ae-e6d1-9e2a-67a9-11585507b791.htm" />
         <HelpTOCNode Title="Remove Method " Url="html/4c44372d-9355-89fa-2526-896f80bb60b2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="aafac813-f2a6-4a5b-8792-c735b0c9ed7d" Title="HpsvContextsList Class" Url="html/c9cff109-50e4-6cb5-ca33-5f1e14c122a5.htm">
-      <HelpTOCNode Id="b33efd6c-a94a-42da-88a7-1c9c46777893" Title="HpsvContextsList Properties" Url="html/e750b02f-2fc2-909b-7a92-cca0624dd089.htm">
+    <HelpTOCNode Id="249c61e1-a73b-43a8-a16f-c81d39fceea6" Title="HpsvContextsList Class" Url="html/c9cff109-50e4-6cb5-ca33-5f1e14c122a5.htm">
+      <HelpTOCNode Id="dcd14ba6-de55-4e8b-94ca-6c147d1848ee" Title="HpsvContextsList Properties" Url="html/e750b02f-2fc2-909b-7a92-cca0624dd089.htm">
         <HelpTOCNode Title="Call Property " Url="html/573131e5-d3b1-ab17-20a9-5f5e6461e4a0.htm" />
         <HelpTOCNode Title="Operation Property " Url="html/4da51f0f-567e-9d75-fa99-8e5fdcf2e27a.htm" />
         <HelpTOCNode Title="Server Property " Url="html/ccc71d8b-359a-5b77-e3ac-44aaccb6b92c.htm" />
@@ -51,51 +51,51 @@
         <HelpTOCNode Title="Session Property " Url="html/887938a1-6cf7-71ee-a1aa-2c5fc24c03ee.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="dc00b1d1-60b9-44e7-a32e-b0ef46b3af54" Title="HpsvDataLogger Class" Url="html/2bdd8d7b-723a-99f2-2db2-266f0fa6a286.htm">
-      <HelpTOCNode Id="257c151c-f127-4f1c-a0ea-7e90607f7de8" Title="HpsvDataLogger Methods" Url="html/86305332-6361-c47a-d329-13de1bc8a71e.htm">
+    <HelpTOCNode Id="29c93ac7-12f8-4c6a-95d5-4a4782023b84" Title="HpsvDataLogger Class" Url="html/2bdd8d7b-723a-99f2-2db2-266f0fa6a286.htm">
+      <HelpTOCNode Id="7f4d2f35-2a9f-456c-ace8-8ee801bf5f9a" Title="HpsvDataLogger Methods" Url="html/86305332-6361-c47a-d329-13de1bc8a71e.htm">
         <HelpTOCNode Title="Log Method " Url="html/fb2c0b7c-d424-b712-d74d-1fa5b1620301.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1074623a-a776-4eb4-8dea-4558759444dd" Title="HpsvEnvironment Class" Url="html/1483ad76-e950-0bb7-45b8-9676cb95105f.htm">
-      <HelpTOCNode Id="926f5ecd-49e9-43b5-aa4c-fbad0aab9217" Title="HpsvEnvironment Properties" Url="html/50662c4b-d16e-2100-c292-d5761d15d050.htm">
+    <HelpTOCNode Id="5f6e326c-e088-4812-a204-c1f7f3a13492" Title="HpsvEnvironment Class" Url="html/1483ad76-e950-0bb7-45b8-9676cb95105f.htm">
+      <HelpTOCNode Id="02fb6830-da17-42fd-809d-021892631e25" Title="HpsvEnvironment Properties" Url="html/50662c4b-d16e-2100-c292-d5761d15d050.htm">
         <HelpTOCNode Title="MachineName Property " Url="html/e58d84bc-b090-8ea9-47f6-c2db7e8602ad.htm" />
         <HelpTOCNode Title="UserDomainName Property " Url="html/610d5ac3-a80b-0bbc-75cc-bd5f862f8a93.htm" />
         <HelpTOCNode Title="UserName Property " Url="html/7244069a-10a5-5f3d-43d5-0a700120b2cc.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="bf748d55-0836-424d-b2e1-14de3221e5e0" Title="HpsvGenericArray(T) Class" Url="html/86404966-08c6-f2ae-e493-51f74aedb042.htm">
-      <HelpTOCNode Id="313f24cf-4cc4-49e9-be9b-cad1b40e1c1f" Title="HpsvGenericArray(T) Properties" Url="html/3ae38663-e05f-69c2-d3ce-44059d787306.htm">
+    <HelpTOCNode Id="544f706f-e128-4e3a-b710-fadb10e48514" Title="HpsvGenericArray(T) Class" Url="html/86404966-08c6-f2ae-e493-51f74aedb042.htm">
+      <HelpTOCNode Id="95b8f481-9d13-4da6-aba3-7b656ffa8358" Title="HpsvGenericArray(T) Properties" Url="html/3ae38663-e05f-69c2-d3ce-44059d787306.htm">
         <HelpTOCNode Title="Item Property " Url="html/f0d4f793-bee2-a284-6417-1bfecbd9b025.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="dd07b6fe-5c94-4e27-8af9-41da062909ae" Title="HpsvGenericArray(T) Methods" Url="html/a84a80d0-c716-c756-5932-fb0af5bc9c70.htm">
+      <HelpTOCNode Id="77d8fb0b-014e-4b76-b193-5cda36f1b074" Title="HpsvGenericArray(T) Methods" Url="html/a84a80d0-c716-c756-5932-fb0af5bc9c70.htm">
         <HelpTOCNode Title="Add Method " Url="html/054119ad-b5d8-caae-9c41-fed93c869abf.htm" />
         <HelpTOCNode Title="GetEnumerator Method " Url="html/f3d4eca1-094a-8d7b-647c-9dda9a852fa8.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="acecf71f-5684-4ddc-a911-0ac477382627" Title="HpsvLogger Class" Url="html/8d1b877c-8dae-c675-e10f-5a1d60e108d8.htm">
-      <HelpTOCNode Id="1cc3c064-88d3-4bb4-8387-8f7b1d50b9d0" Title="HpsvLogger Methods" Url="html/ca76869d-82ba-86dc-b3a8-15e216631905.htm">
+    <HelpTOCNode Id="da8e819b-6b38-4121-8760-48e0589bc793" Title="HpsvLogger Class" Url="html/8d1b877c-8dae-c675-e10f-5a1d60e108d8.htm">
+      <HelpTOCNode Id="36edd7c1-5c69-4042-b5f4-73e2875849ee" Title="HpsvLogger Methods" Url="html/ca76869d-82ba-86dc-b3a8-15e216631905.htm">
         <HelpTOCNode Title="Debug Method " Url="html/a0595e49-7559-151e-3d70-050e53829d91.htm" />
         <HelpTOCNode Title="Error Method " Url="html/f8134e85-48bb-469b-26b0-6bf5ac1a303f.htm" />
         <HelpTOCNode Title="Info Method " Url="html/f5a11d43-91ca-fa91-48c5-1a4fbeb37479.htm" />
         <HelpTOCNode Title="Warn Method " Url="html/5977a245-40ee-602b-42c2-6179efbce92e.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="2ba0b794-91a7-4a9d-8708-4aec1969da6e" Title="HpsvMultiResponse Class" Url="html/3d73b4e9-a347-2d68-101f-a868767768e4.htm">
-      <HelpTOCNode Id="5506bfef-54e7-4c45-8bc2-922a6f01a46f" Title="HpsvMultiResponse Properties" Url="html/fa5a146c-fd70-a991-f06b-b7189726a907.htm">
+    <HelpTOCNode Id="9ab20f71-33ee-4af6-9f42-d84a71ac3f31" Title="HpsvMultiResponse Class" Url="html/3d73b4e9-a347-2d68-101f-a868767768e4.htm">
+      <HelpTOCNode Id="0be0758a-0b6d-4657-9ed8-befc3830e026" Title="HpsvMultiResponse Properties" Url="html/fa5a146c-fd70-a991-f06b-b7189726a907.htm">
         <HelpTOCNode Title="Count Property " Url="html/d19d24f7-dac6-d407-840d-06b0f54d6514.htm" />
         <HelpTOCNode Title="Index Property " Url="html/5c4204a0-253b-c936-1c3a-2248c1659343.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="052da829-9bf3-4297-878c-8d4bc72a27ee" Title="HpsvObject Class" Url="html/03e36d70-8270-7cc0-0870-d3be0dec22b6.htm">
-      <HelpTOCNode Id="b449fe0f-a76e-46f4-8aa9-07821c2eab30" Title="HpsvObject Constructor " Url="html/e929b6ef-ce6b-7247-f178-e93ec82932a4.htm">
+    <HelpTOCNode Id="7aecf478-df69-4e7a-afb8-e90bf52c9380" Title="HpsvObject Class" Url="html/03e36d70-8270-7cc0-0870-d3be0dec22b6.htm">
+      <HelpTOCNode Id="c2b61347-0ae0-4dd0-984d-832f7e552a1a" Title="HpsvObject Constructor " Url="html/e929b6ef-ce6b-7247-f178-e93ec82932a4.htm">
         <HelpTOCNode Title="HpsvObject Constructor " Url="html/59ec6223-d9d1-cfa5-165d-8ad33c906d2e.htm" />
         <HelpTOCNode Title="HpsvObject Constructor (String[])" Url="html/9fc80ea1-3d98-eab9-c8c4-3a145aff1b79.htm" />
         <HelpTOCNode Title="HpsvObject Constructor (HpsvState, HpsvProxyObject, Nullable(SvPathItem))" Url="html/c7d93236-f7cb-91c0-460d-3215b803b018.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="daa5b52a-e712-4e01-90c3-bfcfa127dbcf" Title="HpsvObject Properties" Url="html/9b8d905c-2f1c-a4aa-997c-c6b5f4a78150.htm">
+      <HelpTOCNode Id="2de42960-9fd9-405b-aff2-dc3f33f38382" Title="HpsvObject Properties" Url="html/9b8d905c-2f1c-a4aa-997c-c6b5f4a78150.htm">
         <HelpTOCNode Title="Item Property " Url="html/e53c1afe-1804-e09a-e0d3-27f8d1073806.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ebad13fb-9b12-48c8-8368-43e6eaef6929" Title="HpsvObject Methods" Url="html/884f7eef-cdf6-e0f5-2e5c-022cf09562b7.htm">
+      <HelpTOCNode Id="6413a95d-2bf8-4af9-911c-cc3b86ed0c39" Title="HpsvObject Methods" Url="html/884f7eef-cdf6-e0f5-2e5c-022cf09562b7.htm">
         <HelpTOCNode Title="GetAllProperties Method " Url="html/b0febe5c-b5da-85c1-9c0b-bd3145cd6c6f.htm" />
         <HelpTOCNode Title="GetPropertyNames Method " Url="html/72ce1d43-5052-7194-a8e7-92bae760a32f.htm" />
         <HelpTOCNode Title="IsNil Method " Url="html/c18957c6-043c-6fa8-2b6b-daaed14d7444.htm" />
@@ -105,32 +105,32 @@
         <HelpTOCNode Title="ToString Method " Url="html/bf95ae6e-319a-cba5-fc53-22e7c0c4b02b.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e4a4413d-48d4-4fc2-b608-862e4b1d3b4c" Title="HpsvObjectWithSubtypes Class" Url="html/dc0b6b41-90d9-2cb8-e066-0ce44845166f.htm">
-      <HelpTOCNode Id="4ef26d56-5a41-4353-a4e5-cbacf5cf909a" Title="HpsvObjectWithSubtypes Properties" Url="html/9e4abf06-6ed5-dc88-0db3-fb97892b3de5.htm">
+    <HelpTOCNode Id="b9bd3fff-7a7f-40a4-9aa9-de5e0a90dd61" Title="HpsvObjectWithSubtypes Class" Url="html/dc0b6b41-90d9-2cb8-e066-0ce44845166f.htm">
+      <HelpTOCNode Id="678a72f7-bd9c-446c-9837-445df8b29ea4" Title="HpsvObjectWithSubtypes Properties" Url="html/9e4abf06-6ed5-dc88-0db3-fb97892b3de5.htm">
         <HelpTOCNode Title="Type Property " Url="html/16624e61-9a95-bc91-a788-21562110fb29.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="HpsvObjectWithSubtypes Methods" Url="html/06d8fac0-6d4a-3d03-fc96-06d97c4e2a8d.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="11138fa9-a184-41bb-b7c8-95b5ba9878bb" Title="HpsvProxyObject Class" Url="html/8729a1c0-8c75-d0e5-934a-6a316c0b9f5e.htm">
-      <HelpTOCNode Id="4437b3ef-0dca-48ed-9d11-0be136fac8d0" Title="HpsvProxyObject Methods" Url="html/306fb2b1-462e-463c-9019-466d1cf791f6.htm">
+    <HelpTOCNode Id="93bc4e4a-ce2b-40e8-8e51-c01f59e87993" Title="HpsvProxyObject Class" Url="html/8729a1c0-8c75-d0e5-934a-6a316c0b9f5e.htm">
+      <HelpTOCNode Id="03975aaf-85ca-43df-92a3-5e31be90c126" Title="HpsvProxyObject Methods" Url="html/306fb2b1-462e-463c-9019-466d1cf791f6.htm">
         <HelpTOCNode Title="SetFromJson Method " Url="html/76c49bb8-94cb-c05e-357a-bd3eff9cc65d.htm" />
         <HelpTOCNode Title="ToJson Method " Url="html/d5d2033d-3999-166d-e16d-1a5d3bf37c15.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/4eea5741-bf7d-6622-ab86-7f414faffbaf.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="516b9ac7-6fe7-4d20-b55b-c014610e5162" Title="HpsvRequestBase Class" Url="html/fc92b8cd-addd-3f37-2dd4-aed9a315202f.htm">
+    <HelpTOCNode Id="ef7dbb4f-2d34-468a-ade1-21ca0c3c4431" Title="HpsvRequestBase Class" Url="html/fc92b8cd-addd-3f37-2dd4-aed9a315202f.htm">
       <HelpTOCNode Title="HpsvRequestBase Properties" Url="html/d0855057-f52a-caf8-eaf7-2ab202066616.htm" />
       <HelpTOCNode Title="HpsvRequestBase Methods" Url="html/467b8157-2b64-49fa-5a78-39ca619774b7.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="abe0649a-1291-4b66-af6f-bb047b017a3e" Title="HpsvResponseBase Class" Url="html/067cce52-25ec-fd55-5ae9-4828076c2679.htm">
-      <HelpTOCNode Id="f6bc4feb-e005-4f5e-a633-86f5bdc71363" Title="HpsvResponseBase Properties" Url="html/95e01457-6e80-e381-5d19-68e0119c7156.htm">
+    <HelpTOCNode Id="f2994236-ebfc-4117-a99c-42971d8d29f1" Title="HpsvResponseBase Class" Url="html/067cce52-25ec-fd55-5ae9-4828076c2679.htm">
+      <HelpTOCNode Id="9fd0e122-ed85-4762-b618-53b362348feb" Title="HpsvResponseBase Properties" Url="html/95e01457-6e80-e381-5d19-68e0119c7156.htm">
         <HelpTOCNode Title="ForwardToRealService Property " Url="html/c228d8cc-5d93-e160-58d3-5c54c52176eb.htm" />
         <HelpTOCNode Title="MultiResponse Property " Url="html/197c5004-fd98-55ac-ec4a-39c3b188224d.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="HpsvResponseBase Methods" Url="html/86607966-6d1e-eef2-e664-11692cd82be1.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="aa662936-e274-4867-a1bc-8573fb369343" Title="HpsvRootObjectBase Class" Url="html/75e94efc-4daa-9032-71ce-6bf4966ac5f0.htm">
-      <HelpTOCNode Id="d79688f7-e8b4-4561-b025-cb3d3c2ad220" Title="HpsvRootObjectBase Properties" Url="html/d5bf4c4d-ddd7-cf58-38ce-b115bc9a13a1.htm">
+    <HelpTOCNode Id="2a70de11-4a5e-4153-aa71-31eeab2c71d0" Title="HpsvRootObjectBase Class" Url="html/75e94efc-4daa-9032-71ce-6bf4966ac5f0.htm">
+      <HelpTOCNode Id="879fd39b-33e4-404b-8563-89ac5b34a5e2" Title="HpsvRootObjectBase Properties" Url="html/d5bf4c4d-ddd7-cf58-38ce-b115bc9a13a1.htm">
         <HelpTOCNode Title="Activities Property " Url="html/18c29863-8d9b-7278-c18e-65ec097f4cc0.htm" />
         <HelpTOCNode Title="Contexts Property " Url="html/2f6c8816-5905-bf32-2499-cf55e58f61bd.htm" />
         <HelpTOCNode Title="DataLogger Property " Url="html/db12a9eb-ad61-3934-18ac-a286506e88ce.htm" />
@@ -143,32 +143,32 @@
         <HelpTOCNode Title="ServiceInfo Property " Url="html/52abad41-d38c-4bd4-c3e1-06b50fde44b3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="efcabbcb-3f13-4089-a738-080593f1f0db" Title="HpsvSequence Class" Url="html/3db8bb0f-9772-edae-d565-3db6dfad34ff.htm">
-      <HelpTOCNode Id="02690a5f-c3cf-4244-8738-592c31f6b61a" Title="HpsvSequence Properties" Url="html/6f5d8ed4-10d5-b094-6f54-cd20b2f09eb4.htm">
+    <HelpTOCNode Id="734842a5-e668-4797-bf93-0ed1829c4b1e" Title="HpsvSequence Class" Url="html/3db8bb0f-9772-edae-d565-3db6dfad34ff.htm">
+      <HelpTOCNode Id="2552945c-5381-43dc-8899-dd8f6d0f849f" Title="HpsvSequence Properties" Url="html/6f5d8ed4-10d5-b094-6f54-cd20b2f09eb4.htm">
         <HelpTOCNode Title="Name Property " Url="html/8cab2763-98fc-21c8-1b7d-3d1033ec68f8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="88f1dab2-fdc2-4a51-8eab-842108ca139a" Title="HpsvSequence Methods" Url="html/475662b4-0c3e-ca74-cf7d-e0df65badd52.htm">
+      <HelpTOCNode Id="d5a7cc9d-339d-4682-9a64-5dc1964bd04c" Title="HpsvSequence Methods" Url="html/475662b4-0c3e-ca74-cf7d-e0df65badd52.htm">
         <HelpTOCNode Title="GetCurrentValue Method " Url="html/b4466778-d1e6-ff2a-a3e4-a5f89afe491d.htm" />
         <HelpTOCNode Title="GetNextValue Method " Url="html/d5b6a025-c093-9b15-7dfd-d56837718fdc.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/e3ed1f1a-a572-215a-fb03-194f14b81e7f.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9b0ebb1e-1115-407a-813a-fb56cb3706c5" Title="HpsvSequenceBuilderBase Class" Url="html/fa88b4a0-9f93-c9b5-8bab-9d3acc34b777.htm">
-      <HelpTOCNode Id="e71213ae-f6a9-411d-aea5-98426cc4f76f" Title="HpsvSequenceBuilderBase Methods" Url="html/4daef65f-b382-3bfb-6d48-738e75a00938.htm">
+    <HelpTOCNode Id="c6b53b6e-5565-44db-a06c-4288c1637df8" Title="HpsvSequenceBuilderBase Class" Url="html/fa88b4a0-9f93-c9b5-8bab-9d3acc34b777.htm">
+      <HelpTOCNode Id="faa1bf0b-a312-435a-bd3a-822e614dc31e" Title="HpsvSequenceBuilderBase Methods" Url="html/4daef65f-b382-3bfb-6d48-738e75a00938.htm">
         <HelpTOCNode Title="Delete Method " Url="html/249b2331-2c86-5021-303e-a061a7c12eb0.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/f7756a99-6633-a1e6-95d8-8a77d55e4259.htm" />
         <HelpTOCNode Title="GetOrCreate Method " Url="html/8caf4d17-214d-bdaf-4cb2-a42849eb3dfe.htm" />
         <HelpTOCNode Title="Reconfigure Method " Url="html/13a13851-e7f1-92d6-a88f-802acc9340fc.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="17fbd09c-b147-4f7a-a2c9-7672a4f14d61" Title="HpsvSequenceBuilderServerScoped Class" Url="html/76117edf-d68c-c425-dfef-389c4d7cef31.htm">
+    <HelpTOCNode Id="96abe28a-a280-4f66-9fd5-b460bf08a06b" Title="HpsvSequenceBuilderServerScoped Class" Url="html/76117edf-d68c-c425-dfef-389c4d7cef31.htm">
       <HelpTOCNode Title="HpsvSequenceBuilderServerScoped Methods" Url="html/603de691-4d06-4575-3777-75ee804cf3ed.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2664c622-0633-433f-8acb-f958e8b2d9a6" Title="HpsvSequenceBuilderServiceScoped Class" Url="html/70596e89-b42f-5ad9-9bfd-48b55a6a6e4f.htm">
+    <HelpTOCNode Id="246b3d5c-aac0-4250-bb0a-b0e9e32b2b0d" Title="HpsvSequenceBuilderServiceScoped Class" Url="html/70596e89-b42f-5ad9-9bfd-48b55a6a6e4f.htm">
       <HelpTOCNode Title="HpsvSequenceBuilderServiceScoped Methods" Url="html/3a29f818-d6d5-7e52-d327-e948247d1068.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fbf49cd7-1cfe-41ff-80d5-6842097f470e" Title="HpsvServiceInfo Class" Url="html/4b7ea057-25b7-a4e7-76d9-4d12d4cc6c5d.htm">
-      <HelpTOCNode Id="214b5a9d-3c2a-4f02-9a5e-a45fb044e023" Title="HpsvServiceInfo Properties" Url="html/3d409fd7-14fc-b79f-c44f-868e6fa302e4.htm">
+    <HelpTOCNode Id="4e1478ed-f0c4-4a3b-8d20-76003d8dbde4" Title="HpsvServiceInfo Class" Url="html/4b7ea057-25b7-a4e7-76d9-4d12d4cc6c5d.htm">
+      <HelpTOCNode Id="3b87e1d3-c476-4783-9bd4-643e57aade47" Title="HpsvServiceInfo Properties" Url="html/3d409fd7-14fc-b79f-c44f-868e6fa302e4.htm">
         <HelpTOCNode Title="Endpoints Property " Url="html/d5c4449d-876d-2e98-ab9d-7b63d3816393.htm" />
         <HelpTOCNode Title="Id Property " Url="html/2bcce5ae-07a2-8df8-e559-1a182a14fe06.htm" />
         <HelpTOCNode Title="Name Property " Url="html/8278fe10-096a-feb3-6643-7f803c6adee5.htm" />
@@ -176,8 +176,8 @@
         <HelpTOCNode Title="ProjectName Property " Url="html/09787a2d-aa09-0cf9-955c-361417aea745.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="78290cf5-0d5b-46fa-9ddd-40ac416da635" Title="HpsvServiceInfoEndpoint Class" Url="html/9b0a1b8a-7814-98db-274b-2d247f7d1504.htm">
-      <HelpTOCNode Id="486fc319-e8fd-41d2-9c99-42a25915abb4" Title="HpsvServiceInfoEndpoint Properties" Url="html/08e6139b-1899-2b42-755d-365b7a26db17.htm">
+    <HelpTOCNode Id="c2cceffb-fdf5-4626-876f-855bdfd26d9d" Title="HpsvServiceInfoEndpoint Class" Url="html/9b0a1b8a-7814-98db-274b-2d247f7d1504.htm">
+      <HelpTOCNode Id="147179eb-b390-4b02-9493-55ca68b03810" Title="HpsvServiceInfoEndpoint Properties" Url="html/08e6139b-1899-2b42-755d-365b7a26db17.htm">
         <HelpTOCNode Title="Address Property " Url="html/a7afbdf5-ca2b-cd59-a89a-d28e71befcb6.htm" />
         <HelpTOCNode Title="RealAddress Property " Url="html/b9d0b46c-6107-8a09-3858-198fe58e7ee7.htm" />
         <HelpTOCNode Title="RealInputAgentId Property " Url="html/975e991f-c8b6-718c-a81d-acb799d6ced9.htm" />
@@ -186,20 +186,20 @@
         <HelpTOCNode Title="VirtualOutputAgentId Property " Url="html/297efd2f-085b-73e4-f969-a42e867594bb.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c08d59b5-abf4-47c7-9f43-dbdf613d4e95" Title="HpsvServiceInfoEndpoints Class" Url="html/197b8f8a-31c2-f201-7e7a-70d85bb824c7.htm">
-      <HelpTOCNode Id="e45a6fa4-239d-47ca-87cd-f513fa46a437" Title="HpsvServiceInfoEndpoints Properties" Url="html/010f927a-28a2-f40c-0e48-6aa3311cf30d.htm">
+    <HelpTOCNode Id="98eb4af1-51ba-4684-b92a-efbecfe9cf56" Title="HpsvServiceInfoEndpoints Class" Url="html/197b8f8a-31c2-f201-7e7a-70d85bb824c7.htm">
+      <HelpTOCNode Id="ccedf44d-2f5a-4436-8d23-6514ed2dd50f" Title="HpsvServiceInfoEndpoints Properties" Url="html/010f927a-28a2-f40c-0e48-6aa3311cf30d.htm">
         <HelpTOCNode Title="Item Property " Url="html/8c6f4ab6-f34f-c9ea-679f-cc1f7b2657f7.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="54f9a0dd-ee32-41fd-8a7b-48598df14364" Title="HpsvUnscopedSequenceBuilder Class" Url="html/2883f2a5-3877-4f08-abd8-977c7f0d05c9.htm">
-      <HelpTOCNode Id="8577b262-0586-4eb6-81de-13a7f0c86d29" Title="HpsvUnscopedSequenceBuilder Methods" Url="html/99319f3e-cb8f-f0f8-9fea-c40f392a7875.htm">
+    <HelpTOCNode Id="8d839381-8161-486b-ac14-568c7cee86ea" Title="HpsvUnscopedSequenceBuilder Class" Url="html/2883f2a5-3877-4f08-abd8-977c7f0d05c9.htm">
+      <HelpTOCNode Id="818938e4-186f-4943-b03c-97412d68ebde" Title="HpsvUnscopedSequenceBuilder Methods" Url="html/99319f3e-cb8f-f0f8-9fea-c40f392a7875.htm">
         <HelpTOCNode Title="CustomScope Method " Url="html/97e0d0fb-18d1-24d0-9573-c15f3636a9bc.htm" />
         <HelpTOCNode Title="ServerScope Method " Url="html/e899870f-71f0-e2a2-40a9-8b6bb95230d1.htm" />
         <HelpTOCNode Title="ServiceScope Method " Url="html/aa43ad8a-472b-1a72-ccbe-06dc94b1ffa5.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="70971159-ccac-428b-8cbe-410391f5196e" Title="ISequenceConfigurer Interface" Url="html/0de536d5-0563-3b10-4933-2f25b4c7d715.htm">
-      <HelpTOCNode Id="8493daa6-8a11-4332-bea1-dd85fa79078f" Title="ISequenceConfigurer Methods" Url="html/e9a917b2-6a7e-1d80-7058-552dc936cf8d.htm">
+    <HelpTOCNode Id="5826b5b1-edbc-4d7e-a110-98955e92e84b" Title="ISequenceConfigurer Interface" Url="html/0de536d5-0563-3b10-4933-2f25b4c7d715.htm">
+      <HelpTOCNode Id="ea86276d-a51e-47b3-abf3-1ba4fa38a2cf" Title="ISequenceConfigurer Methods" Url="html/e9a917b2-6a7e-1d80-7058-552dc936cf8d.htm">
         <HelpTOCNode Title="Cache Method " Url="html/afa7aee0-0b23-60eb-7b5b-adc65d746cbd.htm" />
         <HelpTOCNode Title="IfUnusedKeepFor Method " Url="html/066cb614-32e4-ef34-c6e7-e3e7abd96682.htm" />
         <HelpTOCNode Title="IfUnusedKeepForever Method " Url="html/887d7368-e1ba-ebcf-1f77-09c7258939cc.htm" />
