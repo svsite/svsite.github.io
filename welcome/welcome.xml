@@ -16,8 +16,8 @@
 
         <referenceItem title="Service Virtualization and Mobility: Delivering Quality IoT Apps &amp; Connected Experiences"
             kind="video"
-            image="https://img.youtube.com/vi/Fk4fdQuWD2U/mqdefault.jpg"
-            url="https://youtu.be/Fk4fdQuWD2U">
+            image="https://img.youtube.com/vi/WOzmUxuf8MY/mqdefault.jpg"
+            url="https://youtu.be/WOzmUxuf8MY">
         </referenceItem>
          
         <referenceItem title="Service Virtualization for Continuous Testing"
@@ -34,7 +34,7 @@
 
         <referenceItem title="Service Virtualization - Implementation, Practices, and Trends for On-Demand Test Environments"
             kind="text"
-            image="https://software.microfocus.com/sites/default/files/styles/assets_hero/public/assets/Timage4AA6-8645ENW_Ctcm2452364124_Ttcm245167807932_F.png"
+            image="https://svsite.github.io/welcome/service-virtualization-implentation-practices-and-trends-demand-test.png"
             url="https://software.microfocus.com/en-us/asset/service-virtualization/service-virtualization-implentation-practices-and-trends-demand-test">
         </referenceItem>
     </welcomeGroup>
