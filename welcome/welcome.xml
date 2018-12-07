@@ -11,7 +11,7 @@
         <referenceItem title="What's New in SV 4.20"
             kind="text"
             image="https://svsite.github.io/welcome/tn-sv420.png"
-            url="https://svhelp.saas.hpe.com/en/4.20/Help/Content/UG/wn_whats_new.htm">
+            url="https://admhelp.microfocus.com/sv/en/4.20/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
 
         <referenceItem title="Service Virtualization and Mobility: Delivering Quality IoT Apps &amp; Connected Experiences"
@@ -76,22 +76,4 @@
             url="https://youtu.be/rgegKAUoxlM">
         </referenceItem>
      </welcomeGroup>
-
-<!--
-     <welcomeGroup header="Community Channel"
-        itemImageWidth="210" itemImageHeight="118"
-        itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
-
-         <referenceItem title="SV as a Router by Dave Flynn"
-            kind="text" 
-            image="https://svsite.github.io/welcome/svrouter.png"
-            url="https://tbd.com" />
-
-        <referenceItem title="Virtual services in load testing with the LoadRunner and Service Virtualization integration by Malcolm Isaacs"
-            kind="text" 
-            image="http://mpaastr0001.hpeswlab.net/virtualbuild/resources/Welcome/sv-lr.png"
-            url="https://community.saas.hpe.com/t5/LoadRunner-and-Performance/Virtual-services-in-load-testing-with-the-HP-LoadRunner-and-HP/ba-p/308391#.WdOinFuCyM8" />
-    </welcomeGroup>
--->
-     
 </welcomeContent>
