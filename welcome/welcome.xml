@@ -8,10 +8,16 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
+        <referenceItem title="What's New in SV 5.0.1"
+            kind="text"
+            image="https://svsite.github.io/welcome/tn-sv501.png"
+            url="https://admhelp.microfocus.com/sv/en/5.0-5.0.1/Help/Content/UG/wn_whats_new.htm">
+        </referenceItem>
+
         <referenceItem title="What's New in SV 5.0"
             kind="text"
             image="https://svsite.github.io/welcome/tn-sv500.png"
-            url="https://admhelp.microfocus.com/sv/en/5.0/Help/Content/UG/wn_whats_new.htm">
+            url="https://admhelp.microfocus.com/sv/en/5.0-5.0.1/Help/Content/WhatsNew-PastVersions.htm#mt-item-0">
         </referenceItem>
 
         <referenceItem title="What's New in SV 4.20"
