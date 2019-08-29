@@ -8,7 +8,7 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="What's New in SV 5.1"
+        <referenceItem title="What's New in SV 5.1.1"
             kind="text"
             image="https://svsite.github.io/welcome/tn-sv510.png"
             url="https://admhelp.microfocus.com/sv/en/5.1/Help/Content/UG/wn_whats_new.htm">
@@ -30,12 +30,6 @@
             kind="video"
             image="https://img.youtube.com/vi/4CrbK8-nhXs/mqdefault.jpg"
             url="https://youtu.be/4CrbK8-nhXs">
-        </referenceItem>
-
-        <referenceItem title="What's New in SV 5.0.1"
-            kind="text"
-            image="https://svsite.github.io/welcome/tn-sv501.png"
-            url="https://admhelp.microfocus.com/sv/en/5.0-5.0.1/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
 
         <referenceItem title="Service Virtualization and Mobility: Delivering Quality IoT Apps &amp; Connected Experiences"
