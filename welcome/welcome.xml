@@ -8,10 +8,16 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="What's New in SV 5.1.1"
+        <referenceItem title="What's New in SV 5.2"
             kind="text"
-            image="https://svsite.github.io/welcome/tn-sv510.png"
-            url="https://admhelp.microfocus.com/sv/en/5.1/Help/Content/UG/wn_whats_new.htm">
+            image="https://admhelp.microfocus.com/documents/sv/welcome/tn-sv520.png"
+            url="https://admhelp.microfocus.com/sv/en/5.2/Help/Content/UG/wn_whats_new.htm">
+        </referenceItem>
+
+        <referenceItem title="SV Lab Advanced Simulation"
+            kind="video"
+            image="https://img.youtube.com/vi/IonFYEZqjSk/mqdefault.jpg"
+            url="https://youtu.be/IonFYEZqjSk">
         </referenceItem>
 
         <referenceItem title="SV Lab Introduction"
