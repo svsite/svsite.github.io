@@ -8,22 +8,28 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="What's New in SV 5.2"
+        <referenceItem title="What's New in SV 5.3"
             kind="text"
-            image="https://admhelp.microfocus.com/documents/sv/welcome/tn-sv520.png"
-            url="https://admhelp.microfocus.com/sv/en/5.2/Help/Content/UG/wn_whats_new.htm">
+            image="https://admhelp.microfocus.com/documents/sv/welcome/tn-sv530.png"
+            url="https://admhelp.microfocus.com/sv/en/5.3/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
 
-        <referenceItem title="SV Lab 5.2: Advanced Simulation"
+        <referenceItem title="SV Lab 5.3: Developing IoT Integrations with Micro Focus SV, Home Assistant, Tesla and Solar Inverter API"
             kind="video"
-            image="https://img.youtube.com/vi/IonFYEZqjSk/mqdefault.jpg"
-            url="https://youtu.be/IonFYEZqjSk">
+            image="https://img.youtube.com/vi/GtShkdeoz8A/mqdefault.jpg"
+            url="https://youtu.be/GtShkdeoz8A">
         </referenceItem>
 
         <referenceItem title="SV Lab Introduction"
             kind="video"
             image="https://img.youtube.com/vi/hM4v6ene6bg/mqdefault.jpg"
             url="https://youtu.be/hM4v6ene6bg">
+        </referenceItem>
+
+        <referenceItem title="SV Lab Advanced Simulation"
+            kind="video"
+            image="https://img.youtube.com/vi/IonFYEZqjSk/mqdefault.jpg"
+            url="https://youtu.be/IonFYEZqjSk">
         </referenceItem>
 
         <referenceItem title="SV Lab Recording &amp; Learning"
@@ -52,14 +58,8 @@
 
         <referenceItem title="Service Virtulization Data Sheet"
             kind="text"
-            image="https://svsite.github.io/welcome/intro_thumbnail.png"
+            image="https://admhelp.microfocus.com/documents/sv/welcome/intro_thumbnail.png"
             url="http://files.asset.microfocus.com/4aa6-1200/en/4aa6-1200.pdf">
-        </referenceItem>
-
-        <referenceItem title="Service Virtualization - Implementation, Practices, and Trends for On-Demand Test Environments"
-            kind="text"
-            image="https://svsite.github.io/welcome/service-virtualization-implentation-practices-and-trends-demand-test.png"
-            url="https://software.microfocus.com/en-us/asset/service-virtualization/service-virtualization-implentation-practices-and-trends-demand-test">
         </referenceItem>
     </welcomeGroup>
     
@@ -67,20 +67,11 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-<!--
-        <referenceItem title="Create and run your first API simulation"
-            kind="video"
-            image="https://img.youtube.com/vi/gIILH1hyO0g/mqdefault.jpg"
-            url="https://youtu.be/gIILH1hyO0g">
-        </referenceItem>
--->
-
         <referenceItem title="Create a Virtual Service by Learning a Real Service"
             kind="video"
             image="https://img.youtube.com/vi/Ezk9HcBxVJ4/mqdefault.jpg"
             url="https://youtu.be/Ezk9HcBxVJ4">
         </referenceItem>
-        
         
         <referenceItem title="Simulation Principles - Getting Virtual Service Up and Running"
             kind="video"
