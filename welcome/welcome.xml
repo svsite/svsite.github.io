@@ -8,9 +8,9 @@
         itemImageWidth="210" itemImageHeight="118"
         itemTitleWidth="210" itemTitleAlignment="left" itemTitleMaxHeight="48">
 
-        <referenceItem title="What's New in SV 5.3"
+        <referenceItem title="What's New in SV 5.4"
             kind="text"
-            image="https://admhelp.microfocus.com/documents/sv/welcome/tn-sv530.png"
+            image="https://admhelp.microfocus.com/documents/sv/welcome/tn-sv540.png"
             url="https://admhelp.microfocus.com/sv/en/5.3/Help/Content/UG/wn_whats_new.htm">
         </referenceItem>
 
